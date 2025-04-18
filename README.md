@@ -22,8 +22,9 @@ Además, con GigU, los estudiantes tienen una forma flexible, accesible y efecti
 **Tabla 1**  
 *Perfil del integrante Mariano Moisés Oblitas Dávila*
 
-| Nombre: Oblitas Dávila, Mariano Moisés  |  ![][image1] |
+| Nombre: Oblitas Dávila, Mariano Moisés  |  <img src="imgIntegrantes/Mariano.png" alt="Mariano" title="Foto de Mariano" width="320"/> |
 | :---- | :---- |
 | **Código:** U202310222 |  |
 | **Carrera:** Ingeniería en software |  |
 | **Habilidades:** Estudiante de 18 años de Ingeniería de Software en la UPC. Me caracterizo por mi creatividad, eficacia y capacidad para resolver problemas de manera racional. Apasionado por la programación y el desarrollo de software, busco constantemente innovar y aprender nuevas tecnologías. |  |
+
