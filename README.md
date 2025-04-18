@@ -15,3 +15,15 @@ Nuestro producto principal es GigU, una plataforma que conecta a estudiantes con
 GigU no solo ayuda a los estudiantes a generar ingresos mientras estudian, sino que también les permite desarrollar habilidades clave como la gestión del tiempo, la negociación, la resolución de problemas y el trato con clientes reales, preparándose así para la vida profesional.
 
 Además, con GigU, los estudiantes tienen una forma flexible, accesible y efectiva de adquirir experiencia laboral y construir una red de clientes y contactos profesionales desde el inicio de su carrera.
+
+
+#### **1.1.2. Perfiles de integrantes del equipo**
+
+**Tabla 1**  
+*Perfil del integrante Mariano Moisés Oblitas Dávila*
+
+| Nombre: Oblitas Dávila, Mariano Moisés  |  ![][image1] |
+| :---- | :---- |
+| **Código:** U202310222 |  |
+| **Carrera:** Ingeniería en software |  |
+| **Habilidades:** Estudiante de 18 años de Ingeniería de Software en la UPC. Me caracterizo por mi creatividad, eficacia y capacidad para resolver problemas de manera racional. Apasionado por la programación y el desarrollo de software, busco constantemente innovar y aprender nuevas tecnologías. |  |
