@@ -168,3 +168,8 @@ El producto es usado principalmente durante los tiempos libres o entre clases. L
 * Creemos que ofrecer oportunidades relacionadas a sus habilidades y carrera aumentará su satisfacción y fidelización.  
    Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios califique la relevancia de las recomendaciones como “alta” o “muy alta”.
 
+##### **1.2.2.4. Lean UX Canvas**
+
+<img src="imgs/LeanUX_canvas_Freelance.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+#### 
