@@ -343,4 +343,4 @@ Características:
 
    ##### **4.8.1. Database Diagrams.**
    
-   <img src="docs/imgs/Database GigU.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+   <img src="imgs/Database GigU.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
