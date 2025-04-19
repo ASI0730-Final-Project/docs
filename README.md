@@ -157,3 +157,14 @@ El producto es usado principalmente durante los tiempos libres o entre clases. L
 ¿Cómo debe verse nuestro producto y cómo comportarse?  
  Debe tener un diseño moderno, amigable y responsivo. Su comportamiento debe ser fluido, con tiempos de carga bajos y navegación clara. La experiencia de usuario debe motivar la interacción constante, con notificaciones relevantes y recomendaciones que generen valor real para el usuario.
 
+##### **1.2.2.3. Lean UX Hypothesis Statements**
+
+* Creemos que al conectar estudiantes universitarios con oportunidades laborales compatibles con sus carreras y horarios, lograremos que desarrollen experiencia profesional antes de egresar.  
+   Sabremos que hemos tenido éxito cuando más del 50% de los usuarios activos complete al menos una tarea remunerada en su primer mes.
+
+* Creemos que implementar un sistema de reputación y gamificación aumentará la participación y compromiso con la plataforma.  
+   Sabremos que hemos tenido éxito cuando el tiempo promedio de uso semanal supere los 45 minutos por usuario activo.
+
+* Creemos que ofrecer oportunidades relacionadas a sus habilidades y carrera aumentará su satisfacción y fidelización.  
+   Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios califique la relevancia de las recomendaciones como “alta” o “muy alta”.
+
