@@ -173,3 +173,30 @@ El producto es usado principalmente durante los tiempos libres o entre clases. L
 <img src="imgs/LeanUX_canvas_Freelance.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
 
 #### 
+
+#### **1.3. Segmentos Objetivo**
+
+- ##### **Estudiantes Universitarios Freelancers**
+
+Estudiantes de cualquier ciclo universitario que buscan ofrecer sus servicios de manera independiente para adquirir experiencia laboral, generar ingresos y construir una red de clientes. Estos estudiantes pueden pertenecer a diversas especialidades como diseño gráfico, programación, marketing digital, redacción, tutorías académicas, entre otros.
+
+Características:
+
+* Buscan oportunidades de trabajo flexible que les permitan combinar sus estudios con el trabajo freelance.
+
+* Necesitan herramientas que los ayuden a promocionar sus habilidades y construir una cartera de clientes.
+
+* Valoran la facilidad de pago y la seguridad en la gestión de contratos.
+
+- ##### **Personas y Emprendimientos  que buscan contratar servicios freelance**
+
+Individuos o empresas que requieren servicios especializados sin la necesidad de contratar empleados a tiempo completo. Esto incluye emprendedores, startups, pequeñas empresas y particulares que buscan soluciones rápidas y accesibles para sus proyectos.
+
+Características:
+
+* Buscan talento accesible y de calidad para tareas específicas.
+
+* Prefieren plataformas que garanticen la seguridad en la contratación y el cumplimiento del trabajo.
+
+* Valoran las recomendaciones y validaciones de otros clientes para elegir freelancers confiables.
+* 
