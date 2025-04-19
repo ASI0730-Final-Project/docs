@@ -338,3 +338,9 @@ Características:
 | message | Text | Communication content | NOT NULL |
 | file\_url | String | Attached file link |  |
 | sent\_at | DateTime | Send timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+  #### **4.8. Database Design**
+
+   ##### **4.8.1. Database Diagrams.**
+   
+   <img src="docs/imgs/Database GigU.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
