@@ -216,4 +216,125 @@ Características:
 
    ##### **4.7.2. Class Dictionary**
 
-   
+   **User**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| name | String | Full name | NOT NULL |
+| email | String | Email address | UNIQUE, NOT NULL |
+| password | String | Encrypted password | NOT NULL |
+| role | String | User role (client/freelancer) | ENUM('client', 'freelancer') |
+| bio | Text | Personal description |  |
+| profile\_image\_url | String | Profile picture URL |  |
+| reputation\_score | Float | Average rating (0-5) | DEFAULT 0.0 |
+| created\_at | DateTime | Account creation timestamp | DEFAULT CURRENT\_TIMESTAMP |
+| updated\_at | DateTime | Last profile update | DEFAULT CURRENT\_TIMESTAMP |
+
+**AcademicPortfolio**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| user\_id | UUID | Associated freelancer | FOREIGN KEY (users.id), UNIQUE |
+| university | String | Institution name | NOT NULL |
+| career | String | Field of study | NOT NULL |
+| semester | Integer | Academic progress level |  |
+| cv\_url | String | Resume/CV document link |   |
+
+**Portfolio**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| user\_id | UUID | Owner | FOREIGN KEY (users.id) |
+| title | String | Work title | NOT NULL |
+| description | Text | Project details |  |
+| file\_url | String | Portfolio item file | NOT NULL |
+| created\_at | DateTime | Creation timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+**Service**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| user\_id | UUID | Freelancer offering service | FOREIGN KEY (users.id) |
+| title | String | Service name | NOT NULL |
+| description | Text | Detailed offering | NOT NULL |
+| category | String | Main category | NOT NULL |
+| subcategory | String | Specialization | NOT NULL |
+| base\_price | Float | Minimum price | NOT NULL |
+| delivery\_time\_days | Integer | Estimated completion days | NOT NULL |
+| price\_by\_calculator | Float | System-suggested price |  |
+| is\_active | Boolean | Availability status | DEFAULT TRUE |
+| created\_at | DateTime | Listing creation time | DEFAULT CURRENT\_TIMESTAMP |
+
+**PriceCalculator**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| difficulty | String | Complexity level | ENUM('easy','medium','hard') |
+| urgency | String | Time sensitivity | ENUM('low','medium','high') |
+| freelancer\_level | String | Experience tier | ENUM('junior','mid','senior') |
+| market\_trend | Float | Demand adjustment factor | NOT NULL |
+| suggested\_price | Float | Algorithm-calculated price | NOT NULL |
+
+**ServiceNegociation**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| service\_id | UUID | Negotiated service | FOREIGN KEY (services.id) |
+| client\_id | UUID | Client making offer | FOREIGN KEY (users.id) |
+| proposed\_price | Float | Alternate price suggestion | NOT NULL |
+| status | String | Negotiation state | ENUM('pending','accepted','rejected') |
+| created\_at | DateTime | Proposal timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+**Order**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| service\_id | UUID | Contracted service | FOREIGN KEY (services.id) |
+| client\_id | UUID | Ordering client | FOREIGN KEY (users.id) |
+| freelancer\_id | UUID | Service provider | FOREIGN KEY (users.id) |
+| final\_price | Float | Agreed payment amount | NOT NULL |
+| status | String | Order state | ENUM('created','in\_progress','delivered','completed','cancelled') |
+| delivery\_date | Date | Deadline for completion | NOT NULL |
+| created\_at | DateTime | Order creation time | DEFAULT CURRENT\_TIMESTAMP |
+
+**Payment**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| order\_id | UUID | Associated order | FOREIGN KEY (orders.id), UNIQUE |
+| amount | Float | Transaction value | NOT NULL |
+| payment\_method | String | Payment processor | NOT NULL |
+| status | String | Payment state | ENUM('pending','completed','failed','refunded') |
+| created\_at | DateTime | Payment timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+**Review**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| order\_id | UUID | Reviewed order | FOREIGN KEY (orders.id) |
+| reviewer\_id | UUID | User writing review | FOREIGN KEY (users.id) |
+| reviewed\_user\_id | UUID | User being rated | FOREIGN KEY (users.id) |
+| rating | Integer | Quality score (1-5) | RANGE(1,5) |
+| comment | Text | Written feedback |  |
+| created\_at | DateTime | Review timestamp | DEFAULT CURRENT\_TIMESTAMP |
+
+**ChatMessage**
+
+| Attribute | Type | Description | Constraints |
+| :---- | :---- | :---- | :---- |
+| id | UUID | Unique identifier | PRIMARY KEY |
+| order\_id | UUID | Context order | FOREIGN KEY (orders.id) |
+| sender\_id | UUID | Message author | FOREIGN KEY (users.id) |
+| receiver\_id | UUID | Message recipient | FOREIGN KEY (users.id) |
+| message | Text | Communication content | NOT NULL |
+| file\_url | String | Attached file link |  |
+| sent\_at | DateTime | Send timestamp | DEFAULT CURRENT\_TIMESTAMP |
