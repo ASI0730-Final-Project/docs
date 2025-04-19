@@ -34,6 +34,11 @@ Además, con GigU, los estudiantes tienen una forma flexible, accesible y efecti
 | **Carrera:** Ingeniería de Software |  |
 | **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 6to ciclo de mi carrera en la UPC y tengo 20 años. Me considero una persona tranquila y diligente, intentó realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. Habilidades en C++, C\#, Python, Unity 2D/3D, html/css/js. |  |
 
+| Nombre: Solis Santa Cruz,Giancarlo Rafael  | <img src="imgIntegrantes/Giancarlo.jpg" alt="Giancarlo" title="Foto de Giancarlo" /> |
+| :---- | :---- |
+| **Código:** U202318615 |  |
+| **Carrera:** Ingeniería de Software |  |
+| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 5to ciclo de mi carrera en la UPC y tengo 22 años. Soy una persona proactiva e intuitiva. Me gusta abordar mis tareas de manera eficiente, completándolas con anticipación para evitar problemas futuros, especialmente cuando se trata de proyectos largos o complejos. En equipo, me esfuerzo por colaborar y apoyar a mis compañeros en todo lo que pueda, asegurándome de cumplir con mis entregas a tiempo o incluso antes. Tengo experiencia en programación con C + +, Java, Python, así como en el diseño web con html, CSS y JavaScript. |  |
 
 ### **1.2. Solution Profile** 
 
