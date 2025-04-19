@@ -199,4 +199,14 @@ Características:
 * Prefieren plataformas que garanticen la seguridad en la contratación y el cumplimiento del trabajo.
 
 * Valoran las recomendaciones y validaciones de otros clientes para elegir freelancers confiables.
-* 
+  
+
+
+  #### **4.7. Software Object-Oriented Design.**
+
+   ##### **4.7.1. Class Diagrams.**
+   <img src="docs/imgs/unnamed-2025-04-06T23_24_58.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+   ##### **4.7.2. Class Dictionary**
+
+   
