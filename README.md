@@ -205,7 +205,9 @@ Características:
   #### **4.7. Software Object-Oriented Design.**
 
    ##### **4.7.1. Class Diagrams.**
-   <img src="docs/imgs/unnamed-2025-04-06T23_24_58.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+   
+   <img src="imgs/Class_Diagram.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
 
    ##### **4.7.2. Class Dictionary**
 
