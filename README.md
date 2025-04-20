@@ -245,6 +245,16 @@ En esta se presenta el user task matrix, herramienta centrada en los segmentos o
 
 #### **2.3.3 User Journey Mapping**
 
+User Journey estudiante freelance
+
+<img src="imgs/JourneyMapping1.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+
+User Journey persona o empresa:
+
+<img src="imgs/JourneyMapping2.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+
 #### **2.3.4 Empathy Mapping**
 
 #### **2.3.5 AS-IS Mapping**
