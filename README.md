@@ -283,6 +283,45 @@ As-Is Scenario Mapping para Personas y Emprendimientos que buscan contratar serv
 
 ### **2.3. Ubiquitous Language.** 
 
+* **Freelancer:** Estudiante que ofrece servicios a través de la plataforma.
+
+* **Cliente:** Persona o emprendimiento que contrata servicios dentro de la plataforma.
+
+* **Servicio:** Habilidad o trabajo ofrecido por un freelancer.
+
+* **Perfil:** Información pública de un freelancer, incluyendo habilidades y experiencia.
+
+* **Proyecto:** Trabajo definido que necesita ser realizado por un freelancer.
+
+* **Solicitud de Proyecto:** Pedido que realiza un cliente para contratar un servicio.
+
+* **Oferta:** Propuesta de precio y condiciones que un freelancer presenta para un proyecto.
+
+* **Acuerdo:** Confirmación del cliente y freelancer sobre las condiciones de un proyecto.
+
+* **Resumen de Servicio:** Descripción formal de lo que se entregará en un proyecto.
+
+* **Entrega:** Resultado final que el freelancer entrega al cliente.
+
+* **Estado del Proyecto:** Etapa actual de un proyecto (pendiente, en progreso, entregado, finalizado).
+
+* **Calificación:** Puntuación que refleja la calidad del servicio entregado.
+
+* **Comentario:** Reseña escrita sobre la experiencia de trabajo en un proyecto.
+
+* **Historial:** Registro de proyectos completados por freelancers y clientes.
+
+* **Notificación:** Mensaje generado por el sistema para informar sobre acciones relevantes.
+
+* **Ámbito:** Categoría profesional que agrupa servicios similares.
+
+* **Método de Pago:** Sistema mediante el cual se realiza la transacción económica.
+
+* **Reputación:** Indicador basado en calificaciones y comentarios de proyectos finalizados.
+
+* **Negociación:** Interacción en la que cliente y freelancer ajustan precio y condiciones.
+
+* **Plataforma:** Espacio digital donde se conectan clientes y freelancers.
 
   #### **4.7. Software Object-Oriented Design.**
 
