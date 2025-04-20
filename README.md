@@ -269,6 +269,18 @@ Empathy mapping de persona o empresa:
 
 #### **2.3.5 AS-IS Mapping**
 
+Se realizaron los siguientes cuadros en la herramienta Miro, el link original puede ser observado aquí: 
+
+[LINK AS-IS](https://miro.com/welcomeonboard/SHJEektJMkxMZFNycTN4eVVtVUJ4a0d5VTk2amQ5dGJLWS9UTGU3Nm10aDQ1SmlCUkI2ZjYwZm93NS9nVGo3K1lLdU1EVmV4blFVK0prZHQ5VjRyR1gxNXJHS2xQcGJUQW1JS1Z3eW9pQVZHOUFLRXJNT2Z3OWU2SHJwT2ttOERBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=926791313064)
+
+As-Is Scenario Mapping para Estudiantes Universitarios Freelancers
+
+<img src="imgs/AS-IS1.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+As-Is Scenario Mapping para Personas y Emprendimientos que buscan contratar servicios Freelance
+
+<img src="imgs/AS-IS2.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
 ### **2.3. Ubiquitous Language.** 
 
 
