@@ -214,6 +214,31 @@ Características:
 
 * Valoran las recomendaciones y validaciones de otros clientes para elegir freelancers confiables.
   
+# Capítulo II: Requirements Elicitation & Analysis
+
+### **2.3. NeedFinding** 
+
+#### **2.3.1 User Persona** 
+
+User Persona del Usuario estudiante Freelancer
+
+<img src="imgs/UserPersona1.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+User Persona del Usuario Persona o emprendimiento
+
+<img src="imgs/UserPersona2.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+#### **2.3.2 User Task Matrix**
+
+
+
+#### **2.3.3 User Journey Mapping**
+
+#### **2.3.4 Empathy Mapping**
+
+#### **2.3.5 AS-IS Mapping**
+
+### **2.3. Ubiquitous Language.** 
 
 
   #### **4.7. Software Object-Oriented Design.**
