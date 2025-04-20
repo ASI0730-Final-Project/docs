@@ -230,7 +230,18 @@ User Persona del Usuario Persona o emprendimiento
 
 #### **2.3.2 User Task Matrix**
 
+En esta se presenta el user task matrix, herramienta centrada en los segmentos objetivos que nos permitirá identificar las tareas y objetivos claves de los usuarios.
 
+| USER TASK  | Julio Bernal |  | Luisa Fuentes |  |
+| :---- | ----- | :---- | ----- | :---- |
+|  | Frequency | Importance | Frequency | Importance |
+| Publicar servicios y mostrar habilidades | Often | High | Sometimes | High |
+| Cotizar precios fácilmente según tipo de trabajo | Sometimes | High | Often | High |
+| Encontrar oportunidades mediante una app centralizada | Sometimes | High | Often  | Medium |
+| Procesar pagos seguros a través de la plataforma | Always  | High | Always | High |
+| Mostrar historial de trabajos realizados | Sometimes | Medium | Often | Medium |
+| Negociar precios dentro de un rango flexible | Sometimes | Medium | Always | High |
+| Establecer acuerdos y comunicación en la plataforma | Often | High | Always | High |
 
 #### **2.3.3 User Journey Mapping**
 
