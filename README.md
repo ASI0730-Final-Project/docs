@@ -573,7 +573,19 @@ CopiarEditar
 
 <img src="imgs/Image1.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
+<img src="imgs/Image2.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
+<img src="imgs/Image3.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+
+<img src="imgs/Image4.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+
+#### **4.3.1. Landing Page Wireframe**
+
+<img src="imgs/Image5.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+
+4.3.2. Landing Page Mock-up
+
+<img src="imgs/Image6.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
   #### **4.7. Software Object-Oriented Design.**
 
