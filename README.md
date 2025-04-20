@@ -257,6 +257,16 @@ User Journey persona o empresa:
 
 #### **2.3.4 Empathy Mapping**
 
+En esta sección se presenta el Empathy Mapping, herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente. Además, se incluyen los pains y gains identificados en base a las preguntas: ¿Qué le preocupa?
+
+Empathy mapping de estudiante freelance:
+
+<img src="imgs/Empathymap1.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+Empathy mapping de persona o empresa:
+
+<img src="imgs/Empathymap2.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
 #### **2.3.5 AS-IS Mapping**
 
 ### **2.3. Ubiquitous Language.** 
