@@ -34,15 +34,15 @@ Además, con GigU, los estudiantes tienen una forma flexible, accesible y efecti
 | **Carrera:** Ingeniería de Software |  |
 | **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 6to ciclo de mi carrera en la UPC y tengo 20 años. Me considero una persona tranquila y diligente, intentó realizar mis tareas y trabajos lo antes posible para evitar contratiempos en un futuro, especialmente si son actividades que consumen mucho tiempo. Como miembro de equipo buscaré ayudar a mis compañeros cuando lo necesiten, realizando además mis entregas lo más temprano posible. Habilidades en C++, C\#, Python, Unity 2D/3D, html/css/js. |  |
 
-| Nombre: Solis Santa Cruz,Giancarlo Rafael  | <img src="imgIntegrantes/Giancarlo.jpg" alt="Giancarlo" title="Foto de Giancarlo" /> |
-| :---- | :---- |
-| **Código:** U202318615 |  |
-| **Carrera:** Ingeniería de Software |  |
-| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 5to ciclo de mi carrera en la UPC y tengo 22 años. Soy una persona proactiva e intuitiva. Me gusta abordar mis tareas de manera eficiente, completándolas con anticipación para evitar problemas futuros, especialmente cuando se trata de proyectos largos o complejos. En equipo, me esfuerzo por colaborar y apoyar a mis compañeros en todo lo que pueda, asegurándome de cumplir con mis entregas a tiempo o incluso antes. Tengo experiencia en programación con C + +, Java, Python, así como en el diseño web con html, CSS y JavaScript. |  |
-| Nombre: Diego Seijas  | <img src="imgIntegrantes/Diego.jpg" alt="Giancarlo" title="Foto de Diego" /> |
-| **Código:** U202210167 |  |
-| **Carrera:** Ingeniería de Software |  |
-| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 7to ciclo de mi carrera en la UPC y tengo 20 años. Soy una persona proactiva. Me gusta abordar mis tareas de manera eficiente,  especialmente cuando se trata de proyectos largos o complejos. En equipo, me esfuerzo por colaborar y apoyar a mis compañeros en todo lo que pueda. Tengo experiencia en programación con C + +, Java, Python, así como en el diseño web con html, CSS y JavaScript. |  
+| Nombre: Solis Santa Cruz,Giancarlo Rafael                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | <img src="imgIntegrantes/Giancarlo.jpg" alt="Giancarlo" title="Foto de Giancarlo" /> |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
+| **Código:** U202318615                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                      |
+| **Carrera:** Ingeniería de Software                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                      |
+| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 5to ciclo de mi carrera en la UPC y tengo 22 años. Soy una persona proactiva e intuitiva. Me gusta abordar mis tareas de manera eficiente, completándolas con anticipación para evitar problemas futuros, especialmente cuando se trata de proyectos largos o complejos. En equipo, me esfuerzo por colaborar y apoyar a mis compañeros en todo lo que pueda, asegurándome de cumplir con mis entregas a tiempo o incluso antes. Tengo experiencia en programación con C + +, Java, Python, así como en el diseño web con html, CSS y JavaScript. |                                                                                      |
+| Nombre: Diego Seijas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | <img src="imgIntegrantes/Diego.jpg" alt="Giancarlo" title="Foto de Diego" />         |
+| **Código:** U202210167                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                      |
+| **Carrera:** Ingeniería de Software                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                      |
+| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 7to ciclo de mi carrera en la UPC y tengo 20 años. Soy una persona proactiva. Me gusta abordar mis tareas de manera eficiente,  especialmente cuando se trata de proyectos largos o complejos. En equipo, me esfuerzo por colaborar y apoyar a mis compañeros en todo lo que pueda. Tengo experiencia en programación con C + +, Java, Python, así como en el diseño web con html, CSS y JavaScript.                                                                                                                                              |                                                                                      |
 
 ### **1.2. Solution Profile** 
 
@@ -322,6 +322,258 @@ As-Is Scenario Mapping para Personas y Emprendimientos que buscan contratar serv
 * **Negociación:** Interacción en la que cliente y freelancer ajustan precio y condiciones.
 
 * **Plataforma:** Espacio digital donde se conectan clientes y freelancers.
+
+**
+
+## **4.1. Style Guidelines**
+
+### **4.1.1. General Style Guidelines**
+
+●      **Tipografía**: Se utiliza la familia tipográfica Inter, con pesos 400, 600 y 800. Es moderna, legible y coherente para interfaces digitales.  
+  
+
+●      **Colores principales**:  
+  
+
+○      Azul claro: #5acae6 (acentos, íconos)
+
+○      Blanco: #ffffff (fondos)
+
+○      Negro/Gris oscuro: #222 a #333 (textos)
+
+●      **Estilo visual**:  
+  
+
+○      Minimalista, limpio y profesional.  
+  
+
+○      Íconos Font Awesome estilizados con color coherente.  
+  
+
+○      Uso consistente de **espaciado**, **bordes redondeados**, y **botones de acción con fondo azul claro**.  
+  
+
+●      **Interactividad**:  
+  
+
+○      Botones con efecto hover.  
+  
+
+○      Modal animado con fade-in/fade-out.  
+  
+
+---
+
+### **4.1.2. Web Style Guidelines**
+
+●      **Responsividad**: Uso de viewport en <meta> para dispositivos móviles.
+
+●      **Componentes**:  
+  
+
+○      Botones reutilizables con clase .button.  
+  
+
+○      Secciones con títulos destacados (.section-title).  
+  
+
+●      **Accesibilidad**:  
+  
+
+○      Etiquetas alt en imágenes.
+
+○      Campos input con placeholder y atributos required.  
+  
+
+●      **Animaciones suaves**:  
+  
+
+○      @keyframes fadeIn / fadeOut aplicadas a modales.
+
+---
+
+## **4.2. Information Architecture**
+
+### **4.2.1. Organization Systems**
+
+●      **Jerárquico**: La información está organizada de mayor a menor importancia:  
+  
+
+○      Encabezado (navegación)  
+  
+
+○      Hero Section  
+  
+
+○      Sección de confianza  
+  
+
+○      Sobre Nosotros  
+  
+
+○      Servicios  
+  
+
+○      Clientes  
+  
+
+○      Contacto  
+  
+
+●      **Modular y Seccional**: Cada área está contenida en su propio <section> con clases semánticas (about-section, services-section, etc.).  
+  
+
+---
+
+### **4.2.2. Labeling Systems**
+
+●      **Menú principal**:  
+  
+
+○      Inicio, Nosotros, Servicios, Clientes, Contacto.  
+  
+
+●      **Botones de acción**:  
+  
+
+○      “Explorar más”, “Ver más”, “Enviar correo”.  
+  
+
+●      **Formulario**:  
+  
+
+○      Campos etiquetados por placeholder: Nombre, Correo, Contraseña.  
+  
+
+### **4.2.3. SEO Tags and Meta Tags**
+
+○      **Meta etiquetas presentes**:  
+  
+ html  
+CopiarEditar  
+<meta charset="UTF-8">
+
+○      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+○      <title>GigU - Soluciones Web</title>
+
+●       
+
+●      **Mejoras sugeridas**:  
+  
+
+○      Añadir <meta name="description"> con descripción clara del negocio.
+
+○      Etiquetas <meta property="og:title">, <og:image>, etc., para redes sociales.  
+  
+
+○      Uso de etiquetas semánticas como <section>, <header>, <nav>, <footer> para SEO técnico.
+
+### **4.2.4. Searching Systems**
+
+●      **Actualmente no hay un sistema de búsqueda implementado.  
+  
+**
+
+○      Recomendación: incluir un input type="search" en el menú o el footer con funcionalidad básica para encontrar contenido en la página o blog.
+
+### **4.2.5. Navigation Systems**
+
+●      **Navegación superior**:  
+  
+
+○      Menú fijo con links anclados (#nosotros, #servicios, etc.).  
+  
+
+○      Botón de llamada a la acción “Empezar”.  
+  
+
+●      **Flujo lógico**:  
+  
+
+○      Registro/Login primero → Página principal después.  
+  
+
+●      **Internacionalización**:  
+  
+
+○      Sitio en español; estructura preparada para multilenguaje si se extiende.  
+  
+
+●      **Footer con navegación secundaria**:  
+  
+
+○      WhatsApp, Email, Dirección, y redes sociales como Facebook, Instagram y LinkedIn.  
+  
+
+●      **Estructura modular:  
+  
+**
+
+○      Cada sección puede contener tarjetas, grids o listas de contenido reutilizable.  
+  
+
+#### **4.2.2. Labeling Systems**
+
+●      **Etiquetas claras y estándar:  
+  
+**
+
+○      Menú: Inicio, Sobre Nosotros,Servicios, Contacto.  
+  
+
+○      Botones: “Explorar más”, “ver mas ”, “Enviar correo”.”Saber más”  
+  
+
+●      **URL Amigables:  
+** /servicios, /contacto, /proyectos/nombre-aplicacion
+
+4.2.3. SEO Tags and Meta Tags
+
+<title>Aplicaciones Web | Soluciones Innovadoras</title>
+
+<meta name="description" content="Desarrollo de aplicaciones web personalizadas para optimizar procesos empresariales y digitales.">
+
+<meta name="keywords" content="Aplicaciones web, desarrollo web, software a medida, soluciones digitales">
+
+<meta property="og:title" content="Aplicaciones Web | Soluciones Digitales">
+
+<meta property="og:description" content="Creamos plataformas web funcionales, escalables y modernas.">
+
+<meta property="og:image" content="url-del-logo-o-imagen.jpg">
+
+<meta property="og:type" content="website">
+
+#### **4.2.4. Searching Systems**
+
+●      **Buscador en la landing page y header.  
+  
+**
+
+●      Filtro por tipo de aplicación o categoría (administrativas, educativas, gestión).  
+  
+
+●      Resultados ordenados por coincidencia y fecha.  
+  
+
+#### **4.2.5. Navigation Systems**
+
+●      **Menú Fijo (Sticky):  
+** Con accesos a Inicio, Servicios, Contacto.
+
+●      **Navegación Interna (anchor links):  
+** Scroll suave a secciones dentro de una misma página.
+
+●      **Footer completo:  
+** Enlaces rápidos, redes sociales, contacto, política de privacidad.
+
+### **4.3. Landing Page UI Design**
+
+
+
+<img src="imgs/Image1.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+
+
 
   #### **4.7. Software Object-Oriented Design.**
 
