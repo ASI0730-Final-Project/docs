@@ -222,6 +222,13 @@ Características:
   
 # Capítulo II: Requirements Elicitation & Analysis
 
+### **2.1. Competidores**
+
+Los competidores que hemos identificado para GigU son las plataformas freelancer, aunque no existen plataformas que estén 100% enfocadas en estudiantes como lo realiza GigU, si presenta productos con mucha similaridad lo que genera una competencia directa.
+
+#### **2.1.1 Análisis Competitivo**
+
+
 ### **2.3. NeedFinding** 
 
 #### **2.3.1 User Persona** 
