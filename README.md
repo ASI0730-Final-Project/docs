@@ -240,6 +240,11 @@ Los competidores que hemos identificado para GigU son las plataformas freelancer
 
 <img src="imgs/Competidores6.png" alt="Competidores6" title="Competidores6"/>
 
+#### **2.1.2 Estrategias y tácticas frente a competidores**
+
+GigU aplicará una estrategia de diferenciación enfocada en el talento universitario, destacando por su enfoque educativo, precios accesibles y alianzas con instituciones académicas. Frente a los grandes competidores del mercado freelance, GigU se posiciona como una alternativa confiable y de propósito social, conectando clientes con estudiantes verificados. Su valor está en ofrecer soluciones personalizadas, soporte en español y una experiencia centrada en el desarrollo profesional de los jóvenes. Aprovechará las debilidades de otras plataformas como su falta de personalización o enfoque regional, mientras mitiga amenazas como la falta de experiencia estudiantil con garantías y filtros de calidad
+
+
 
 ### **2.3. NeedFinding** 
 
