@@ -228,6 +228,18 @@ Los competidores que hemos identificado para GigU son las plataformas freelancer
 
 #### **2.1.1 Análisis Competitivo**
 
+<img src="imgs/Competidores1.png" alt="Competidores1" title="Competidores1"/>
+
+<img src="imgs/Competidores2.png" alt="Competidores2" title="Competidores2"/>
+
+<img src="imgs/Competidores3.png" alt="Competidores3" title="Competidores3"/>
+
+<img src="imgs/Competidores4.png" alt="Competidores4" title="Competidores4"/>
+
+<img src="imgs/Competidores5.png" alt="Competidores5" title="Competidores5"/>
+
+<img src="imgs/Competidores6.png" alt="Competidores6" title="Competidores6"/>
+
 
 ### **2.3. NeedFinding** 
 
