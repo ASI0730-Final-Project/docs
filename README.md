@@ -617,6 +617,36 @@ CopiarEditar
 
 <img src="imgs/Image6.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
+  #### **4.6. Domain-Driven Software Architecture.**
+
+   ##### **4.6.1. Software Architecture Context Diagram.**
+
+   ![DiagramaContexto](imgs/DiagramaContexto.jpeg)
+
+   ##### **4.6.2. Software Architecture Container Diagrams.**
+
+   ![DiagramaContenedores](imgs/DiagramaContenedores.jpeg)
+
+   ##### **4.6.3. Software Architecture Components Diagrams**
+
+   ![DiagramaComponentes](imgs/DiagramaComponentes.jpeg)
+
+   ![DiagramaComponentesUno](imgs/DiagramaComponentesUno.jpeg)
+
+   ![DiagramaComponentesDos](imgs/DiagramaComponentesDos.jpeg)
+
+   ![DiagramaComponentesTres](imgs/DiagramaComponentesTres.jpeg)
+
+   ![DiagramaComponentesCuatro](imgs/DiagramaComponentesCuatro.jpeg)
+
+   ![DiagramaComponentesCinco](imgs/DiagramaComponentesCinco.jpeg)
+
+   ![DiagramaComponentesSeis](imgs/DiagramaComponentesSeis.jpeg)
+
+   ![DiagramaComponentesSiete](imgs/DiagramaComponentesSiete.jpeg)
+
+   ![DiagramaComponentesOcho](imgs/DiagramaComponentesOcho.jpeg)
+   
   #### **4.7. Software Object-Oriented Design.**
 
    ##### **4.7.1. Class Diagrams.**
