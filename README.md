@@ -28,6 +28,12 @@ Además, con GigU, los estudiantes tienen una forma flexible, accesible y efecti
 | **Carrera:** Ingeniería en software |  |
 | **Habilidades:** Estudiante de 18 años de Ingeniería de Software en la UPC. Me caracterizo por mi creatividad, eficacia y capacidad para resolver problemas de manera racional. Apasionado por la programación y el desarrollo de software, busco constantemente innovar y aprender nuevas tecnologías. |  || Nombre: Cacho Seminario, Diego Alonso |   |
 
+| Nombre: Martinez Ramos,Bryan Felix  |  <img src="imgIntegrantes/Foto proyecto.jpg" alt="Bryan" title="Foto de Bryan" /> |
+| :---- | :---- |
+| **Código:** U202316246 |  |
+| **Carrera:** Ingeniería en software |  |
+| **Habilidades:** Soy estudiante de la carrera de ingeniería de software de la universidad Peruana de ciencias aplicadas, soy una persona comprometida y responsable, priorizo mucho mis responsabilidades y siempre trato de cumplir mis trabajos en los tiempos establecidos, tengo experiencia en lenguajes de programación como C++ Python y conocimientos muy básicos en solidity que pienso consolidarlos en el futuro proyecto, tengo habilidades en algunos lenguajes de programación como C + +,python y un poco de html. |  |
+
 | Nombre: Cacho Seminario, Diego Alonso  | img (falta subir) |
 | :---- | :---- |
 | **Código:** U202223990 |  |
