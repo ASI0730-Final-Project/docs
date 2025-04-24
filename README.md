@@ -368,6 +368,23 @@ Se realizaron los siguientes cuadros en la herramienta Miro, el link original pu
 
 <img src="imgs/TO-BE2.png" alt="To-Be" title="To-BeScenarioMapping"/>
 
+
+
+
+### **3.3. Impact Mapping.** 
+
+Se realizaron los siguientes cuadros en la herramienta Miro, el link original puede ser observado aquí: [LINK Impact Mapping](https://miro.com/app/board/uXjVIE5Pk5Q=/?share_link_id=296495865120)
+
+**Impact Map Segmento 1:** Estudiantes Universitarios Freelancers  
+
+El impact map de GigU para los estudiantes universitarios freelancers busca proporcionar un sistema robusto con alta posibilidad de personalización para la expresión creativa y profesional de los freelancers con la posibilidad de subir portafolios completos, publicar diversos tipos de servicios y editar o personalizar los perfiles junto a los servicios del freelancer.  
+<img src="imgs/ImpactMap1.png" alt="ImpactMapping" title="ImpactMapping"/>
+
+**Impact Map Segmento 2:** Personas y Emprendimientos que buscan contratar servicios freelance  
+
+El impact map de GigU para las personas y emprendimientos que buscan contratar servicios freelance busca optimizar el proceso del contratado de freelancers por medio de un sistema de búsqueda completo que permite encontrar al freelancer indicado teniendo en cuenta sus servicios disponibles, la media de costos que propone y su nivel de experiencia.  
+<img src="imgs/ImpactMap2.png" alt="ImpactMapping" title="ImpactMapping"/>
+
 ## **4.1. Style Guidelines**
 
 ### **4.1.1. General Style Guidelines**
