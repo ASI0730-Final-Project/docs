@@ -814,3 +814,113 @@ CopiarEditar
    ##### **4.8.1. Database Diagrams.**
    
    <img src="imgs/Database GigU.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
+
+### **5.1. Software Configuration Management.**
+
+### **5.1.1. Software Development Environment Configuration**
+
+A continuación, se detallan las herramientas de software empleadas durante el desarrollo de nuestro proyecto.
+
+* Gestión de Proyectos
+
+- **WhatsApp**: [LINK WhatsApp](https://www.whatsapp.com)   
+  Utilizamos WhatsApp como canal principal de comunicación para coordinar tareas, compartir ideas y brindar soporte entre los miembros del equipo durante todo el proceso de desarrollo.
+
+* Diseño UX/UI del Producto
+
+- **Miro:** [LINK Miro](https://miro.com/es/)     
+  Se empleó Miro para la elaboración del Lean UX Canvas y To-Be Scenario Mapping, el cual nos ayudó a visualizar los aspectos estratégicos del diseño centrado en el usuario.  
+    
+- **Uxpressia:** [LINK Uxpressia](https://uxpressia.com/)    
+  Con esta herramienta desarrollamos las User Personas, Mapas de Empatía y Journey Maps, facilitando así el entendimiento profundo de nuestros usuarios.  
+    
+- **Figma:** [LINK Figma](https://www.figma.com/)     
+  Figma fue nuestra herramienta principal para crear wireframes, wireflows, prototipos y maquetas de la landing page y las aplicaciones web.
+
+
+* Desarrollo de Software
+
+- **Landing Page**:  
+  La página principal del proyecto fue desarrollada utilizando tecnologías estándar como HTML5, CSS y JavaScript.
+
+* Pruebas de Software
+
+- **Navegador**:  
+  Las pruebas del sitio web y la aplicación se llevaron a cabo mediante las herramientas de desarrollo integradas en los navegadores Google Chrome, Brave, Opera y Edge.
+
+* Entornos de Desarrollo (IDE)
+
+- **Visual Studio Code**: [LINK Visual Studio Code](https://code.visualstudio.com)   
+  Visual Studio Code fue nuestro entorno de desarrollo preferido para el frontend debido a su ligereza, amplia disponibilidad de extensiones.
+
+* Despliegue de Software
+
+- **GitHub Pages**: [LINK GitHub Pages](https://pages.github.com/)     
+  La landing page fue desplegada a través de GitHub Pages, lo que permitió una publicación automatizada desde el repositorio
+
+* Documentación de Software
+
+- **Google Docs**: [LINK Google Docs](https://docs.google.com/document)    
+  Google Docs nos permitió hacer seguimiento de tareas y compartir información relevante entre los integrantes del equipo.  
+    
+- **GitHub**: [LINK GitHub](https://github.com/)    
+  GitHub fue clave para la documentación colaborativa del proyecto, permitiendo la trazabilidad de cambios mediante commits y GitFlow.
+
+### **5.1.2. Source Code Management.**
+
+Para administrar y organizar los cambios realizados en el proyecto, creamos un repositorio en GitHub que centralizó el desarrollo. La estructura fue la siguiente:
+
+* Organización
+
+- **Repositorio en GitHub**: [LINK Repositorio](https://github.com/ASI0730-Final-Project)   
+    
+- **Landing Page**: [LINK Landing Page](https://github.com/ASI0730-Final-Project/GigU-Landing)   
+
+* Ramas Principales
+
+- **Rama main**:  
+  Contiene la versión estable del proyecto, lista para ser puesta en producción.  
+    
+- **Rama docs/**:  
+  Rama destinada a la integración de nuevas funcionalidades antes de ser lanzadas.
+
+### **5.1.3. Source Code Style Guide & Conventions.**
+
+Con el objetivo de mantener la coherencia, legibilidad y calidad del código durante el desarrollo de la landing page y la aplicación web, adoptamos una serie de convenciones específicas para cada tecnología utilizada:
+
+* HTML  
+    
+- Tipo de Documento: Cada archivo HTML inicia con \<\!DOCTYPE html\> para asegurar su correcta interpretación por los navegadores.  
+    
+- Etiquetas en Minúsculas: Todas las etiquetas y atributos se escriben en minúscula.
+    
+- Cierre Correcto de Etiquetas: Nos aseguramos de cerrar todas las etiquetas, incluso las opcionales, para mantener una estructura clara y evitar errores.  
+    
+- Atributos entre Comillas: Los valores de los atributos siempre están entre comillas dobles.
+    
+- Imágenes Accesibles: Incluimos los atributos alt, width y height en las imágenes, lo cual mejora tanto la accesibilidad como el diseño adaptable.  
+    
+- Formato Limpio en Atributos: No se colocan espacios alrededor del signo igual. 
+    
+- Uso del Elemento \<title\>: No se omite el título de la página, ya que es fundamental para el SEO y la accesibilidad.  
+    
+- Idioma y Codificación: Se declara el idioma con el atributo lang y se define la codificación.
+
+* CSS
+
+- **Recursos Seguros**: Todos los recursos externos, como fuentes y multimedia, se cargan mediante HTTPS.  
+    
+- **Nombres en Minúsculas**: Los selectores, propiedades y valores se escriben en minúsculas para mantener un estilo uniforme.  
+    
+- **Nombres de Clase Descriptivos**: Las clases CSS reflejan su función usando palabras clave separadas por guiones.  
+    
+- **Propiedades Abreviadas**: Se aplican propiedades abreviadas siempre que sea posible para optimizar el tamaño del código.  
+    
+- **Orden Alfabético**: Las propiedades CSS dentro de un bloque se ordenan alfabéticamente para facilitar la lectura y mantenimiento.  
+    
+- **Uso Consistente del Punto y Coma**: Cada línea termina con un punto y coma para evitar errores de interpretación.  
+    
+- **Espaciado Uniforme**: Se mantiene un espacio después de los dos puntos y dentro de las llaves de los bloques.  
+    
+- **Comillas en Atributos**: Los valores como fuentes están entre comillas simples.
+
