@@ -34,7 +34,7 @@ Además, con GigU, los estudiantes tienen una forma flexible, accesible y efecti
 | **Carrera:** Ingeniería en software |  |
 | **Habilidades:** Soy estudiante de la carrera de ingeniería de software de la universidad Peruana de ciencias aplicadas, soy una persona comprometida y responsable, priorizo mucho mis responsabilidades y siempre trato de cumplir mis trabajos en los tiempos establecidos, tengo experiencia en lenguajes de programación como C++ Python y conocimientos muy básicos en solidity que pienso consolidarlos en el futuro proyecto, tengo habilidades en algunos lenguajes de programación como C + +,python y un poco de html. |  |
 
-| Nombre: Cacho Seminario, Diego Alonso  | img (falta subir) |
+| Nombre: Cacho Seminario, Diego Alonso  | <img src="imgIntegrantes/DiegoC.png" alt="DiegoC" title="Foto de Diego Cacho" /> |
 | :---- | :---- |
 | **Código:** U202223990 |  |
 | **Carrera:** Ingeniería de Software |  |
