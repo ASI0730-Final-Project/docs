@@ -460,6 +460,64 @@ El impact map de GigU para los estudiantes universitarios freelancers busca prop
 El impact map de GigU para las personas y emprendimientos que buscan contratar servicios freelance busca optimizar el proceso del contratado de freelancers por medio de un sistema de búsqueda completo que permite encontrar al freelancer indicado teniendo en cuenta sus servicios disponibles, la media de costos que propone y su nivel de experiencia.  
 <img src="imgs/ImpactMap2.png" alt="ImpactMapping" title="ImpactMapping"/>
 
+### **3.4. Product Backlog.** 
+
+Se utilizó la escala Fibonacci para la estimación de los Story Points. En total se tuvieron **197** Story Points.
+
+| \# Orden | Epic / Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
+| :---: | :---: | ----- | ----- | :---: |
+| 1 | US01 | Navegación Intuitiva en la Landing Page | Como visitante de GigU, deseo que la landing page tenga una barra de navegación clara y accesible para encontrar fácilmente las secciones importantes. | 3 |
+| 2 | US02 | Acceso rápido a funcionalidades clave | Como visitante, deseo acceder desde la landing page a secciones clave como “Publicar proyecto” o “Registrarse” para actuar rápidamente. | 3 |
+| 3 | US03 | Registro con Correo y Contraseña | Como nuevo usuario, deseo poder registrarme en la plataforma con mi correo y contraseña para acceder a las funcionalidades de GigU. | 3 |
+| 4 | US04 | Iniciar sesión como Freelancer o Cliente | Como usuario registrado, deseo poder iniciar sesión para acceder a mi cuenta y funcionalidades específicas según mi rol. | 5 |
+| 5 | US05 | Registro con redes sociales | Como visitante, deseo registrarme con Google para agilizar el proceso de creación de cuenta. | 2 |
+| 6 | US06 | Solicitar recuperación de contraseña | Como usuario, deseo solicitar la recuperación de mi contraseña para volver a acceder si la olvido. | 2 |
+| 7 | US07 | Restablecer contraseña vía correo | Como usuario, deseo poder restablecer mi contraseña desde un enlace de recuperación enviado a mi correo. | 2 |
+| 8 | US08 | Conocer los beneficios de GigU | Como visitante, deseo conocer los beneficios de usar GigU para saber por qué debería usar esta plataforma. | 1 |
+| 9 | US09 | Diferencias entre roles (freelancer / cliente)	 | Como visitante, deseo saber las diferencias entre registrarme como freelancer o cliente para elegir el rol adecuado. | 8 |
+| 10 | US10 | Experiencias de otros usuarios | Como visitante, deseo ver testimonios de usuarios anteriores para confiar en la plataforma. | 5 |
+| 11 | US11 | Detalles sobre tipos de servicios | Como visitante, deseo conocer los tipos de servicios que puedo contratar o brindar en GigU. | 5 |
+| 12 | US12 | Acceso a Preguntas Frecuentes | Como visitante, deseo ver una sección de preguntas frecuentes para resolver mis dudas comunes sin ayuda externa. | 3 |
+| 13 | US13 | Búsqueda dentro de Preguntas Frecuentes | Como usuario, deseo buscar palabras clave en la sección de FAQ para encontrar respuestas más rápido. | 3 |
+| 14 | US14 | Envío de Ticket de Soporte | Como usuario, deseo enviar un mensaje de soporte si no encuentro mi duda en la FAQ para recibir asistencia personalizada. | 3 |
+| 15 | US15 | Creación de Perfil Freelance | Como estudiante, deseo crear mi perfil freelance con mi nombre, carrera y universidad para que los clientes conozcan mi identidad profesional. | 5 |
+| 16 | US16 | Añadir Habilidades y Descripción Personal | Como freelancer, deseo añadir habilidades y una descripción personal a mi perfil para destacar mis fortalezas. | 8 |
+| 17 | US17 | Establecer Tarifas por Servicio | Como freelancer, deseo establecer mis tarifas por tipo de servicio para que los clientes vean cuánto cobro. | 8 |
+| 18 | US18 | Subir Portafolio de Proyectos | Como freelancer, deseo subir muestras de trabajos anteriores para mostrar mi experiencia a los clientes. | 5 |
+| 19 | US19 | Editar y Actualizar Perfil en Cualquier Momento | Como freelancer, deseo poder actualizar mi perfil cuando quiera para mantener mi información al día. | 3 |
+| 20 | US20 | Publicar un Servicio Personalizado | Como freelancer, deseo publicar un servicio con título, descripción y precio para ofrecerlo a potenciales clientes. | 5 |
+| 21 | US21 | Establecer Plazos de Entrega | Como freelancer, deseo definir el tiempo de entrega estimado para cada servicio para que el cliente tenga expectativas claras. | 5 |
+| 22 | US22 | Editar Servicios Publicados | Como freelancer, deseo poder editar los servicios que ya publiqué para corregir errores o actualizar precios y descripciones. | 5 |
+| 23 | US23 | Pausar o Eliminar Servicios Publicados | Como freelancer, deseo pausar o eliminar mis servicios si ya no los ofrezco o deseo ocultarlos temporalmente. | 5 |
+| 24 | US24 | Añadir Imágenes o Archivos al Servicio | Como freelancer, deseo subir imágenes o archivos de muestra a mis servicios para ayudar al cliente a visualizar mejor lo que ofrezco. | 3 |
+| 25 | US25 | Buscar Freelancers por Palabra Clave | Como cliente, deseo buscar freelancers usando palabras clave para encontrar rápidamente quienes ofrecen lo que necesito. | 3 |
+| 26 | US26 | Filtrar Freelancers por Habilidad | Como cliente, deseo filtrar freelancers según sus habilidades para encontrar al más apto para mi proyecto. | 3 |
+| 27 | US27 | Filtrar por Rango de Precios | Como cliente, deseo establecer un rango de precios para ver freelancers que cobren dentro de mi presupuesto. | 5 |
+| 28 | US28 | Filtrar por Nivel de Experiencia | Como cliente, deseo filtrar freelancers según su experiencia (básica, intermedia, avanzada) para elegir el nivel adecuado para mi necesidad. | 5 |
+| 29 | US29 | Ordenar Resultados por Relevancia o Calificación | Como cliente, deseo ordenar los resultados de búsqueda por calificación o relevancia para facilitar la comparación de perfiles. | 3 |
+| 30 | US30 | Contratar desde el Perfil del Freelancer | Como cliente, deseo poder contratar a un freelancer directamente desde su perfil para ahorrar tiempo en el proceso de negociación. | 5 |
+| 31 | US31 | Confirmación de Contratación Exitosa | Como cliente, deseo recibir una confirmación visual y por correo al contratar a un freelancer para saber que el proceso fue exitoso. | 3 |
+| 32 | US32 | Rechazar o Aceptar una Solicitud de Contrato | Como freelancer, deseo tener la opción de aceptar o rechazar una contratación directa para mantener el control sobre mi disponibilidad. | 3 |
+| 33 | US33 | Ver Historial de Contrataciones Realizadas | Como cliente, deseo ver un historial de las contrataciones directas realizadas para tener un registro de mis actividades. | 2 |
+| 34 | US34 | Visualizar Proyectos Activos | Como freelancer, deseo ver una lista de mis proyectos activos para organizarme y darles seguimiento. | 5 |
+| 35 | US35 | Gestionar Solicitudes Recibidas | Como freelancer, deseo revisar y gestionar solicitudes de nuevos proyectos para aceptar solo las que se ajusten a mi disponibilidad. | 3 |
+| 36 | US36 | Marcar Proyecto como Finalizado | Como freelancer, deseo marcar un proyecto como finalizado para indicar que mi trabajo ha sido completado. | 3 |
+| 37 | US37 | Seguimiento del Estado del Proyecto | Como cliente, deseo ver el estado de mis proyectos en curso para saber si están en espera, en proceso o finalizados. | 5 |
+| 38 | US38 | Calificar al Freelancer Finalizado el Proyecto | Como cliente, deseo dejar una calificación al freelancer al finalizar el proyecto para compartir mi experiencia con otros usuarios. | 3 |
+| 39 | US39 | Ver Calificaciones en Perfil de Freelancer | Como cliente, deseo ver las calificaciones que otros clientes han dejado en el perfil del freelancer para tomar una decisión informada. | 5 |
+| 40 | US40 | Editar Calificación Después de Proyecto | Como cliente, deseo poder editar mi calificación si he cometido un error o si hubo una mejora significativa tras el feedback. | 5 |
+| 41 | US41 | Calificar al Cliente | Como freelancer, deseo calificar al cliente luego de terminar un proyecto para que otros freelancers conozcan su reputación. | 5 |
+| 42 | US42 | Enviar Mensaje a Usuario desde Perfil | Como usuario, deseo enviar un mensaje a otro usuario desde su perfil para coordinar antes de contratar o aceptar un proyecto. | 3 |
+| 43 | US43 | Ver Historial de Conversaciones | Como usuario, deseo ver el historial de mis conversaciones previas para recordar acuerdos y detalles importantes. | 2 |
+| 44 | US44 | Notificación de Nuevo Mensaje | Como usuario, deseo recibir una notificación cuando me envíen un nuevo mensaje para no perderme ninguna comunicación importante. | 1 |
+| 45 | US45 | Bloquear o Reportar Usuario desde Chat | Como usuario, deseo poder bloquear o reportar a alguien desde el chat si recibo mensajes inapropiados o spam. | 2 |
+| 46 | US46 | Sugerencia de Precio Inteligente | Como usuario, deseo recibir una sugerencia automática de precio al momento de negociar, para basarme en un valor justo según experiencia y tipo de servicio. | 8 |
+| 47 | US47 | Ajuste Manual sobre Precio Sugerido | Como usuario, deseo poder modificar manualmente el precio sugerido para adaptarlo a mis propias condiciones. | 5 |
+| 48 | US48 | Detalle del Cálculo del Precio | Como usuario, deseo ver una explicación breve de cómo se calculó el precio sugerido para tener mayor confianza en su lógica. | 5 |
+| 49 | US49 | Comparación entre Propuesta y Oferta | Como usuario, deseo comparar mi propuesta con la oferta del otro usuario para llegar más fácilmente a un acuerdo. | 3 |
+| 50 | US50 | Historial de Precios de Servicios Similares | Como usuario, deseo ver precios promedios de servicios similares contratados anteriormente para decidir mejor mi tarifa. | 2 |
+
+
 ## **4.1. Style Guidelines**
 
 ### **4.1.1. General Style Guidelines**
