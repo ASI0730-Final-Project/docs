@@ -382,6 +382,62 @@ GigU aplicará una estrategia de diferenciación enfocada en el talento universi
 
 ### **2.2.1 Diseño de entrevistas**
 
+**Segmento objetivo: Estudiantes Universitarios Freelancers**
+
+¿Cual es tu nombre completo?
+
+¿Cual es tu edad?
+
+¿En donde vives?
+
+¿Has ofrecido tus servicios como freelancer alguna vez? ¿En qué área?
+
+¿Qué te motivó a ofrecer tus servicios de manera independiente?
+
+¿Dónde sueles buscar oportunidades freelance (redes, plataformas, conocidos, etc.)?
+
+¿Qué dificultades has encontrado al intentar conseguir clientes como estudiante?
+
+
+¿Qué características debería tener una plataforma ideal para ayudarte a encontrar clientes?
+
+¿Qué métodos usas actualmente para cobrar tus servicios? ¿Has tenido problemas con eso?
+
+¿Cuánto tiempo a la semana podrías dedicarle a trabajos freelance?
+
+¿Crees que sería útil tener una app que te sugiera proyectos freelance según tu perfil y habilidades?
+
+¿Qué tan importante es para ti tener una forma segura y automática de cobrar por tu trabajo freelance?
+
+**Segmento objetivo: Personas y Emprendimientos que buscan contratar servicios freelance** 
+
+¿Cual es tu nombre completo?
+
+¿Cual es tu edad?
+
+¿En donde vives?
+
+¿Alguna vez has contratado a un freelancer para un proyecto? ¿Cómo fue tu experiencia?
+
+¿Qué tipo de tareas sueles tercerizar o te gustaría tercerizar?
+
+¿Qué canales usas actualmente para encontrar freelancers (plataformas, conocidos, redes)?
+
+¿Qué te haría confiar en un estudiante universitario como freelancer?
+
+¿Qué tan importante es para ti poder ver recomendaciones o validaciones de otros clientes?
+
+¿Te gustaría una plataforma que se encargue de gestionar los pagos y acuerdos con el freelancer, o prefieres hacerlo tú directamente con la persona? 
+
+¿Qué haría que descartes a un freelancer incluso si su precio es atractivo?
+
+¿Qué funcionalidades te gustaría ver en una plataforma para contratar freelancers?
+
+¿Qué tan importante es para ti poder negociar el precio antes de contratar un servicio freelance? ¿Preferirías un precio fijo o la opción de llegar a un acuerdo con el freelancer?
+
+¿Qué factores tomas en cuenta al elegir a un freelancer: precio, portafolio, tiempo de entrega, reputación, otro? ¿Cuál de ellos pesa más para ti al decidir?
+
+
 ### **2.2.2 Registro de Entrevistas**
 
 <b><u>Segmento objetivo #1: Estudiantes Universitarios Freelancers</u></b>
