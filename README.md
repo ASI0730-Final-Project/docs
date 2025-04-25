@@ -414,6 +414,64 @@ Para Mario, ofrecer servicios como freelancer en la creación de videos de marke
 
 <b><u>Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance</u></b>
 
+Entrevistada N°1: Yulia Estephania Martinez Martinez
+
+![][image1]
+
+<img src="imgs/Entrevista_Yulia.PNG" alt="Entrevista_Yulia" title="Entrevista_Yulia"/>
+
+<img src="imgs/Entrevista_Yulia2.PNG" alt="Cuack cuadros cuenta instagram" title="Entrevista_Yulia"/>
+
+
+* Sexo: Femenino  
+* Edad: 19  
+* Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/MFs44DHr8\_Q](https://youtu.be/MFs44DHr8_Q)  
+* Instante en el que inicia: 0:01  
+* Duración: 5:46
+
+Resumen::  
+Yulia tiene un emprendimiento llamado *Quack\_cuadros*, donde realiza cuadros personalizados al gusto del cliente.  
+No ha contratado freelancers aún, pero está interesada en tercerizar tareas como *marketing digital*, especialmente *reels* para redes sociales, y *diseño web*.
+
+Canales actuales para buscar freelancers:  
+Usa principalmente Instagram y contactos personales, aunque reconoce que puede no ser totalmente confiable.
+
+Criterios para confiar en un freelancer:
+
+* Para trabajos creativos: portafolio visual.
+
+* Para otros trabajos: currículum vitae.
+
+* Valora recomendaciones y validaciones de otros clientes.
+
+Prefiere que la plataforma gestione pagos y acuerdos, ya que no se le da bien la negociación ni el manejo monetario.
+
+Motivos para descartar a un freelancer:
+
+* Mala calidad de trabajo.
+
+* Falta de responsabilidad.
+
+* Poca puntualidad en entregas.
+
+Características deseadas en una plataforma freelance:
+
+* Perfiles detallados de los freelancers.
+
+* Herramientas de negociación de precios.
+
+* Opciones para reuniones dentro de la plataforma (sin necesidad de apps externas).
+
+* Chats y acuerdos formales.
+
+Prefiere negociar dentro de un rango, ya que no tiene claridad sobre cuánto valen ciertos trabajos y confía en el criterio del freelancer para establecer precios razonables.
+
+Factores de decisión:  
+El portafolio es el factor más determinante, seguido del precio. Un trabajo que la impacte positivamente la hace más flexible al pagar.  
 
 Entrevistado N°2: Janet Ramos Soto
 
