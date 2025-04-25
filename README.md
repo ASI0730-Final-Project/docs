@@ -1617,7 +1617,6 @@ Con el objetivo de mantener la coherencia, legibilidad y calidad del código dur
 **Ilustracion Github Software Deployment Configuration 5**
 <img src="imgs/Software Deployment Configuration5.jpg" alt="Software Deployment Configuration5" title="Software Deployment Configuration5"/>
 
-Video de Landing:[Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210167_upc_edu_pe/EdnyKPia8E9JgiZsrh1oo3gBnjmZByEaVxkEXSIe0pTYLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=e0sw3A)
 
 ### **5.2. Landing Page, Services & Applications Implementation.**
 
@@ -1672,12 +1671,15 @@ Video de Landing:[Execution Evidence for Sprint Review](https://upcedupe-my.shar
 En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
 
 ##### **5.2.1.5. Execution Evidence for Sprint Review**
+Aqui se puede ver la evidencia del sprint.
+Video de Landing:[Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210167_upc_edu_pe/EdnyKPia8E9JgiZsrh1oo3gBnjmZByEaVxkEXSIe0pTYLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=e0sw3A)
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
 En el primer Sprint solamente se ha desarrollado la Landing Page por lo que no se ha hecho uso de servicios web.
 
 ##### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+Link de la Landing:[Landing Page](https://asi0730-final-project.github.io/GigU-Landing/)
 
 ##### **5.2.1.8. Team Collaboration Insights during Sprint**
 
@@ -1725,3 +1727,6 @@ https://github.com/ASI0730-Final-Project/docs
 
 *Link Organizacion Github*
 https://github.com/ASI0730-Final-Project
+
+*Link Landing Page*
+https://asi0730-final-project.github.io/GigU-Landing/
