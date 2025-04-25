@@ -442,7 +442,49 @@ GigU aplicará una estrategia de diferenciación enfocada en el talento universi
 
 <b><u>Segmento objetivo #1: Estudiantes Universitarios Freelancers</u></b>
 
-Entrevistado N°1: Mario André Cacho Seminario
+<b><u>Segmento objetivo #1: Estudiantes Universitarios Freelancers</u></b>
+
+Entrevistado N°1: Bruno Sebastián Gamarra Torres
+
+<img src="imgs/Entrevista_Bruno.jpeg" alt="Entrevista_Bruno" title="Entrevista_bruno"/>
+
+* Sexo: Masculino 
+* Edad: 23 
+* Ubicación en la que vive: Surco 
+
+Acerca de la entrevista:
+ 
+* Instante en el que inicia: 0:03 minutos
+* Duración: 3:44
+
+Resumen:
+
+Bruno Sebastián Gamarra Torres, un joven de 23 años que vive en Surco, ofrece servicios de diseño gráfico y edición de video como freelancer desde hace algunos meses, motivado por la necesidad económica y el deseo de ganar experiencia. Consigue clientes principalmente a través de redes sociales como Instagram y TikTok, pero enfrenta dificultades como la falta de confianza de algunos clientes por ser estudiante. Utiliza Yape, Plin y transferencias para cobrar, aunque a veces sufre retrasos en los pagos. Para él, una plataforma ideal debería permitir dejar reseñas reales, tener chat integrado y un sistema de contratos. 
+
+Entrevistado N°2:Werner Lang
+
+<img src="imgs/entrevista2-segmento1.png" alt="" title=""/>
+
+Sexo:Masculino
+
+Edad:20
+
+Ubicación en la que vive:San Isidro
+
+Acerca de la entrevista:
+
+Instante en el que inicia: 3:45 minutos
+
+Duración: 9:57 minutos
+
+Resumen:
+Para Werner, ofrecer servicios como freelancer en diseño gráfico y desarrollo web le ha permitido aplicar lo aprendido en la universidad mientras genera ingresos extra. Su motivación principal es ganar experiencia profesional antes de egresar, trabajando en proyectos reales para pequeños negocios.
+Aunque ha logrado conseguir clientes a través de conocidos, grupos en redes sociales y plataformas como Workana, considera difícil que lo tomen en serio por ser estudiante. Además, la falta de un portafolio sólido y la poca experiencia en negociaciones le han representado retos al momento de cerrar acuerdos.
+Actualmente cobra sus servicios mediante Yape o transferencias bancarias, aunque ha tenido problemas con demoras en los pagos o clientes que buscan renegociar. Puede dedicar entre 8 y 12 horas semanales al trabajo freelance, dependiendo de su carga académica.
+Werner considera que una plataforma ideal debería facilitar mostrar habilidades, contar con herramientas para cotizar servicios, asegurar pagos y permitir una comunicación fluida con los clientes. También valora que una app como GigU pueda sugerirle proyectos alineados con su perfil, lo que le ayudaría a aprovechar mejor su tiempo y aumentar su productividad.
+ 
+
+Entrevistado N°3: Mario André Cacho Seminario
 
 <img src="imgs/Entrevista_Mario.png" alt="Entrevista_Mario" title="Entrevista_mario"/>
 
@@ -452,58 +494,58 @@ Entrevistado N°1: Mario André Cacho Seminario
 
 Acerca de la entrevista:
 
-* Link: [https://youtu.be/hSg2bZ3Jgbc](https://youtu.be/hSg2bZ3Jgbc)   
-* Instante en el que inicia: 0:10  
-* Duración: 3:26
+* Instante en el que inicia: 9:57 minutos  
+* Duración: 13:10 minutos
 
 Resumen:
 
 Para Mario, ofrecer servicios como freelancer en la creación de videos de marketing para pequeñas empresas le ha permitido impulsar su desarrollo personal y profesional. Le motiva expandir su perspectiva trabajando con distintos tipos de negocios. Sin embargo, encuentra complicado conseguir clientes, ya que considera que ser estudiante limita su contratación por parte de empresas que priorizan la experiencia. Por lo general, encuentra oportunidades a través de redes sociales o contactos cercanos, y recibe sus pagos mediante transferencias bancarias directas. Dedica entre 6 y 8 horas semanales al trabajo freelance, equilibrándolo con sus estudios. Cree que una plataforma ideal debería permitir visibilidad a personas de todos los niveles (estudiantes, aficionados, profesionales) y contar con un sistema que sugiera proyectos según habilidades y experiencia. También valora que exista un historial de trabajos realizados y, sobre todo, un sistema de cobros seguro que proteja su esfuerzo.
 
-Entrevistado N°2:Werner Lang
-
-<img src="imgs/entrevistaWerner.png" alt="Entrevista_Werner" title="Entrevista_werner"/>
-
-* Sexo:Masculino
-* Edad:20
-* Ubicación en la que vive:San Isidro
-
-Acerca de la entrevista:
-
-* Link: https://youtu.be/8V8dcplWWys
-* Instante en el que inicia:0:05
-* Duración:6:14
-
-Resumen:
-
-Para Werner, ofrecer servicios como freelancer en diseño gráfico y desarrollo web le ha permitido aplicar lo aprendido en la universidad mientras genera ingresos extra. Su motivación principal es ganar experiencia profesional antes de egresar, trabajando en proyectos reales para pequeños negocios.
-Aunque ha logrado conseguir clientes a través de conocidos, grupos en redes sociales y plataformas como Workana, considera difícil que lo tomen en serio por ser estudiante. Además, la falta de un portafolio sólido y la poca experiencia en negociaciones le han representado retos al momento de cerrar acuerdos.
-Actualmente cobra sus servicios mediante Yape o transferencias bancarias, aunque ha tenido problemas con demoras en los pagos o clientes que buscan renegociar. Puede dedicar entre 8 y 12 horas semanales al trabajo freelance, dependiendo de su carga académica.
-Werner considera que una plataforma ideal debería facilitar mostrar habilidades, contar con herramientas para cotizar servicios, asegurar pagos y permitir una comunicación fluida con los clientes. También valora que una app como GigU pueda sugerirle proyectos alineados con su perfil, lo que le ayudaría a aprovechar mejor su tiempo y aumentar su productivida
-
-Entrevistado N°3: Bruno Sebastián Gamarra Torres
-
-<img src="imgs/Entrevista_Bruno.jpeg" alt="Entrevista_Bruno" title="Entrevista_bruno"/>
-
-* Sexo: Masculino 
-* Edad: 23 
-* Ubicación en la que vive: Surco 
-
-Acerca de la entrevista:
-
-* Link: [https://youtu.be/yrg_gthAY2k](https://youtu.be/yrg_gthAY2k)     
-* Instante en el que inicia: 0:14  
-* Duración: 3:40
-
-Resumen:
-
-Bruno Sebastián Gamarra Torres, un joven de 23 años que vive en Surco, ofrece servicios de diseño gráfico y edición de video como freelancer desde hace algunos meses, motivado por la necesidad económica y el deseo de ganar experiencia. Consigue clientes principalmente a través de redes sociales como Instagram y TikTok, pero enfrenta dificultades como la falta de confianza de algunos clientes por ser estudiante. Utiliza Yape, Plin y transferencias para cobrar, aunque a veces sufre retrasos en los pagos. Para él, una plataforma ideal debería permitir dejar reseñas reales, tener chat integrado y un sistema de contratos. 
 
 <b><u>Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance</u></b>
 
-Entrevistada N°1: Yulia Estephania Martinez Martinez
+Entrevistado N°1: Janet Ramos Soto
 
-![][image1]
+<img src="imgs/Entrevista_Janet.png" alt="Entrevista_Janet" title="Entrevista_Janet"/>
+
+* Sexo: Femenino  
+* Edad: 50  
+* Ubicación en la que vive: Villa El Salvador  
+
+**Acerca de la entrevista:**
+
+* Instante en el que inicia: 13:30 segundos  
+* Duración: 19:40 minutos  
+
+**Resumen:** Janet es una emprendedora de tienda de zapatillas la cual debido a su crecimiento tuvo un incremento considerable de tareas, lo cual llevó a que durante algún momento buscara un trabajador freelance para disminuir su trabajo.  
+
+**Canales actuales para buscar freelancer:**  
+Nos comenta que únicamente ha contratado freelancer por medio de la plataforma fiverr  
+
+**Criterios para confiar en un freelancer:**  
+* Comentarios de los clientes sobre proyectos pasados  
+* Portafolio o muestra de trabajos pasados  
+* Tiempo de experiencia como trabajador freelancer  
+
+Ella misma prefiere gestionar el proceso del pago ya que debido a su edad no se le da bien el pago de los proyectos.  
+
+**Motivos para descartar a un freelancer:**  
+* Mala reputación como trabajador  
+* Poco tiempo de experiencia  
+* Poco interés/compromiso en el proyecto  
+
+**Características deseadas en una plataforma freelance:**  
+* Detalles claros en la plataforma  
+* Costos del proyecto detallado  
+* Acceso a la información y comentarios del freelancer  
+
+Ella prefiere no negociar ya que siente que si el proyecto que solicita al freelancer es complejo y está muy bien hecho pagaría lo cobrado por el freelancer o la plataforma  
+
+**Factores de decisión:**  
+Considera lo más determinante la opinión de otros usuarios sobre la experiencia trabajando con el freelancer.  
+
+Entrevistada N°2: Yulia Estephania Martinez Martinez
+
 
 <img src="imgs/Entrevista_Yulia.PNG" alt="Entrevista_Yulia" title="Entrevista_Yulia"/>
 
@@ -516,9 +558,8 @@ Entrevistada N°1: Yulia Estephania Martinez Martinez
 
 Acerca de la entrevista:
 
-* Link: [https://youtu.be/MFs44DHr8\_Q](https://youtu.be/MFs44DHr8_Q)  
-* Instante en el que inicia: 0:01  
-* Duración: 5:46
+* Instante en el que inicia: 17:45 minutos
+* Duración: 25:30 minutos
 
 Resumen::  
 Yulia tiene un emprendimiento llamado *Quack\_cuadros*, donde realiza cuadros personalizados al gusto del cliente.  
@@ -560,46 +601,50 @@ Prefiere negociar dentro de un rango, ya que no tiene claridad sobre cuánto val
 Factores de decisión:  
 El portafolio es el factor más determinante, seguido del precio. Un trabajo que la impacte positivamente la hace más flexible al pagar.  
 
-Entrevistado N°2: Janet Ramos Soto
+Entrevistado N°3: Fabrizio Morales
 
-<img src="imgs/Entrevista_Janet.png" alt="Entrevista_Janet" title="Entrevista_Janet"/>
+<img src="imgs/entrevista3-segmento2.png" alt="Entrevista_Fabrizio" title="Entrevista_Fabrizio"/>
 
-* Sexo: Femenino  
-* Edad: 50  
-* Ubicación en la que vive: Villa El Salvador  
+* Sexo: Masculino  
+* Edad: 22  
+* Ubicación en la que vive: Molina  
 
 **Acerca de la entrevista:**
 
-* Link: [Ver video](https://drive.google.com/file/d/1GrgiPOIVxOZlzbkVRIbqKf3GxdKc92Cs/view?usp=sharing)  
-* Instante en el que inicia: 0:08 segundos  
-* Duración: 6:16 minutos  
+* Instante en el que inicia: 25:32 minutos
+* Duración 31:17 minutos  
 
-**Resumen:** Janet es una emprendedora de tienda de zapatillas la cual debido a su crecimiento tuvo un incremento considerable de tareas, lo cual llevó a que durante algún momento buscara un trabajador freelance para disminuir su trabajo.  
+## Resumen
+Fabrizio Morales es un joven emprendedor que dirige un negocio de venta de vapes. Actualmente contrata freelancers para apoyar en tareas de marketing y ventas, principalmente a través de redes sociales como Facebook y LinkedIn.
 
-**Canales actuales para buscar freelancer:**  
-Nos comenta que únicamente ha contratado freelancer por medio de la plataforma fiverr  
+## Canales actuales para buscar freelancers
+- Utiliza principalmente **Facebook** y **LinkedIn**.
+- También recurre a recomendaciones de su círculo cercano.
 
-**Criterios para confiar en un freelancer:**  
-* Comentarios de los clientes sobre proyectos pasados  
-* Portafolio o muestra de trabajos pasados  
-* Tiempo de experiencia como trabajador freelancer  
+## Criterios para confiar en un freelancer
+- **Trabajos creativos**: Prioriza portafolio visual o ejemplos previos.
+- **Otros tipos de tareas**: Revisa el currículum vitae (CV).
+- Valora recomendaciones o testimonios de antiguos clientes.
+- Prefiere que haya una plataforma que gestione pagos y acuerdos para evitar negociaciones directas.
 
-Ella misma prefiere gestionar el proceso del pago ya que debido a su edad no se le da bien el pago de los proyectos.  
+## Motivos para descartar a un freelancer
+- Calidad de trabajo deficiente.
+- Falta de responsabilidad.
+- Retrasos en las entregas.
 
-**Motivos para descartar a un freelancer:**  
-* Mala reputación como trabajador  
-* Poco tiempo de experiencia  
-* Poco interés/compromiso en el proyecto  
+## Características deseadas en una plataforma freelance
+- Perfiles completos y detallados de freelancers.
+- Herramientas de negociación de precios.
+- Opciones para realizar reuniones dentro de la plataforma (sin usar apps externas).
+- Chats formales con acuerdos visibles.
 
-**Características deseadas en una plataforma freelance:**  
-* Detalles claros en la plataforma  
-* Costos del proyecto detallado  
-* Acceso a la información y comentarios del freelancer  
+## Factores de decisión
+- El **portafolio visual** es el factor más determinante.
+- Si un trabajo lo impacta positivamente, es flexible para pagar un precio mayor al inicialmente previsto.
 
-Ella prefiere no negociar ya que siente que si el proyecto que solicita al freelancer es complejo y está muy bien hecho pagaría lo cobrado por el freelancer o la plataforma  
 
-**Factores de decisión:**  
-Considera lo más determinante la opinión de otros usuarios sobre la experiencia trabajando con el freelancer.  
+
+Link de entrevista https://upcedupe-my.sharepoint.com/personal/u202213241_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213241%5Fupc%5Fedu%5Fpe%2FDocuments%2FTB1%20web%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4ae92057%2De207%2D4244%2D981f%2D491f492ea6b5 
 
 
 
