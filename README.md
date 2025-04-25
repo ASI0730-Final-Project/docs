@@ -1602,6 +1602,13 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 
 **La propuesta de valor de GigU va más allá de conectar usuarios**, ya que incorpora funcionalidades clave como cotización inteligente, visibilidad mediante portafolios, acuerdos formales y un sistema de pagos seguro. Esto no solo aumenta la confianza entre las partes, sino que también profesionaliza la experiencia freelance desde etapas tempranas, promoviendo relaciones laborales más justas, eficientes y formativas.
 
+## Bibliografia
+
+Empleo informal alcanza más del 85 % de jóvenes peruanos menores de. (2024, January 13). Radio Nacional. https://www.radionacional.gob.pe/noticias/economia/empleo-informal-alcanza-mas-del-85-de-jovenes-peruanos-menores-de-25-anos 
+
+Vista de Jóvenes universitarios que trabajan        | Revista Peruana de Investigación Educativa. (n.d.). https://revistas.siep.org.pe/index.php/RPIE/article/view/388/388#:~:text=En%20el%20Per%C3%BA%2C%20para%20el,Ministerio%20de%20Educaci%C3%B3n%2C%202020a). 
+
+
 ## Anexos
 
 *Enlace del Prototipo*
