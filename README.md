@@ -1335,6 +1335,8 @@ En el alcance del sprint 1 se ha desarrollado el landing page como primera insta
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
+En el primer Sprint solamente se ha desarrollado la Landing Page por lo que no se ha hecho uso de servicios web.
+
 ##### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
 ##### **5.2.1.8. Team Collaboration Insights during Sprint**
