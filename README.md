@@ -442,8 +442,6 @@ GigU aplicará una estrategia de diferenciación enfocada en el talento universi
 
 <b><u>Segmento objetivo #1: Estudiantes Universitarios Freelancers</u></b>
 
-<b><u>Segmento objetivo #1: Estudiantes Universitarios Freelancers</u></b>
-
 Entrevistado N°1: Bruno Sebastián Gamarra Torres
 
 <img src="imgs/Entrevista_Bruno.jpeg" alt="Entrevista_Bruno" title="Entrevista_bruno"/>
