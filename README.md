@@ -1756,6 +1756,33 @@ Con el objetivo de mantener la coherencia, legibilidad y calidad del código dur
 
 ##### **5.2.1.1. Sprint Planning 1**
 
+## Sprint Details
+| **Field**          | **Value**                     |
+|--------------------|-------------------------------|
+| Sprint Number      | Sprint 1                      |
+| Date               | 25 de abril de 2025           |
+| Time               | 05:00 PM                      |
+| Location           | Modalidad remota              |
+| Prepared By        | [Nombre de tu equipo]         |
+| Attendees          | Todos los miembros del equipo |
+
+## Sprint Overview
+**Previous Sprint Summary:**  
+*No hay resúmenes previos (primer sprint).*
+
+**Sprint Goal:**  
+Desarrollar y desplegar una landing page funcional que cumpla con todas las historias de usuario para la interacción inicial con clientes.
+
+## Technical Specifications
+| **Aspect**         | **Details**                   |
+|--------------------|-------------------------------|
+| Duration           | 10 - 25 de abril de 2025              |
+| Team Capacity      | 120 horas totales             |
+| Tech Stack         | HTML5, CSS3, JavaScript, Figma|
+| Velocity           | 18                            |
+| Total Story Points | 18                            |
+
+
 ##### **5.2.1.2. Aspect Leaders and Collaborators**
 
 ##### **5.2.1.3. Sprint Backlog 1**
