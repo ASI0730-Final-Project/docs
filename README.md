@@ -776,13 +776,80 @@ CopiarEditar
 
 <img src="imgs/Image4.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-#### **4.3.1. Landing Page Wireframe**
+#### **4.3.1. Landing Page Wireframe **
 
 <img src="imgs/Image5.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-4.3.2. Landing Page Mock-up
+### **4.3.2. Landing Page Mock-up**
 
 <img src="imgs/Image6.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+
+ #### **4.4. Web Applications UX/UI Design.**
+ #### **4.4.1. Web Applications Wireframes. **
+En esta sección se mostrarán los wireframes de nuestra aplicación
+<h2 align="center">Página Principal</h2>
+
+<img src="imgWireframe/main.png" alt="Main Page" title="Main Page"/>
+
+---
+
+<h2 align="center">Descripción del Servicio</h2>
+
+<img src="imgWireframe/description-app.png" alt="Service Description" title="Service Description"/>
+
+---
+
+<h2 align="center">Confirmación de Registro como Freelancer</h2>
+
+<img src="imgWireframe/freelance-confirmation.png" alt="Freelance Confirmation" title="Freelance Confirmation"/>
+
+---
+
+<h2 align="center">Perfil del Freelancer</h2>
+
+<img src="imgWireframe/freelance-profile.png" alt="Freelance Profile" title="Freelance Profile"/>
+
+---
+
+<h2 align="center">Verificación de Identidad</h2>
+
+<img src="imgWireframe/freelance-verification.png" alt="Freelance Verification" title="Freelance Verification"/>
+
+---
+
+<h2 align="center">Login</h2>
+
+<img src="imgWireframe/login.png" alt="Login Page" title="Login Page"/>
+
+---
+
+<h2 align="center">Confirmación de Inicio de Sesión</h2>
+
+<img src="imgWireframe/loging-ver.png" alt="Login Confirmation" title="Login Confirmation"/>
+
+---
+
+<h2 align="center">Registro de Usuario</h2>
+
+<img src="imgWireframe/sign-up.png" alt="User Sign Up" title="User Sign Up"/>
+
+---
+
+<h2 align="center">Perfil del Usuario</h2>
+
+<img src="imgWireframe/Profile-user.png" alt="User Profile" title="User Profile"/>
+
+---
+
+<h2 align="center">Pull y Negociación de Servicios</h2>
+
+<img src="imgWireframe/Pull.png" alt="Service Pull" title="Service Pull"/>
+
+
+
+ #### **4.4.2. Web Applications Wireflow Diagrams. **
+ #### **4.4.3. Web Applications Mock-ups. **
+ #### **4.4.4. Web Applications User Flow Diagrams. **
 
   #### **4.6. Domain-Driven Software Architecture.**
 
@@ -813,10 +880,11 @@ CopiarEditar
    ![DiagramaComponentesSiete](imgs/DiagramaComponentesSiete.jpeg)
 
    ![DiagramaComponentesOcho](imgs/DiagramaComponentesOcho.jpeg)
-   
-  #### **4.7. Software Object-Oriented Design.**
-
-   ##### **4.7.1. Class Diagrams.**
+  
+ 
+  
+ #### **4.7. Software Object-Oriented Design.**
+##### **4.7.1. Class Diagrams.**
    
    <img src="imgs/Class_Diagram.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
 
