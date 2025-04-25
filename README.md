@@ -1567,6 +1567,44 @@ Video de Landing:[Execution Evidence for Sprint Review](https://upcedupe-my.shar
 
 ##### **5.2.1.3. Sprint Backlog 1**
 
+**Objetivo**: Desarrollar y desplegar una landing page funcional que cumpla con todas las historias de usuario especificadas para la interacción inicial con clientes y presentación del producto.
+
+**Alcance**:
+- Implementar barra de navegación responsive
+- Crear componentes de llamada a la acción (CTA)
+- Desarrollar sección de beneficios del servicio
+- Construir tarjetas interactivas de servicios
+- Implementar funcionalidad de preguntas frecuentes (FAQ)
+
+**Duración**: 1 al 14 de marzo de 2024  
+**Capacidad del equipo**: 120 horas totales  
+**Requisitos técnicos**: HTML5, CSS3, JavaScript, diseños en Figma
+
+![alt text](imgs/ImagenGithubGigU.PNG)
+
+### Líderes de Aspecto y Colaboradores
+| Rol | Líder | Colaboradores |
+|------|--------|---------------|
+| Diseño UI/UX | Seijas Vásquez, Diego Antonio | Oblitas Davila, Mariano |
+| Desarrollo Frontend | Cacho Seminario, Diego Alonso | Solis Santa Cruz, Giancarlo |
+| Control de Calidad | Martinez Ramos, Bryan | Allcca Guerrero, Irving |
+| Documentación | Yauri Chocce, Renato | Todos los miembros |
+
+### Sprint Backlog 1
+| ID Historia de Usuario | Descripción de Tarea | Estado | Asignado a | Horas Estimadas | Horas Reales |
+|--------------|------------------|--------|-------------|-----------------|--------------|
+| US01 | Implementar barra de navegación responsive | Completado | Seijas Vásquez | 5 | 6 |
+| US01 | Diseñar componentes de navegación en Figma | Completado | Seijas Vásquez | 3 | 2.5 |
+| US02 | Desarrollar botones CTA principales | Completado | Seijas Vásquez | 4 | 5 |
+| US08 | Crear contenido de sección de beneficios | Completado | Oblitas Davila | 2 | 3 |
+| US08 | Implementar interfaz de tarjetas de beneficios | Completado | Oblitas Davila | 6 | 7 |
+| US11 | Diseñar tarjetas de servicios | Completado | Cacho Seminario | 4 | 5 |
+| US11 | Programar interactividad de tarjetas | Completado | Cacho Seminario | 5 | 6 |
+| US12 | Investigar y compilar preguntas frecuentes | Completado | Solis Santa Cruz | 3 | 4 |
+| US12 | Implementar acordeón de FAQ | Completado | Solis Santa Cruz | 5 | 4 |
+
+
+
 ##### **5.2.1.4. Development Evidence for Sprint Review**
 
 En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
