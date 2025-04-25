@@ -1351,6 +1351,6 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 
 *READ.ME*
 
-<img src="imgs/2networkcommit.png" alt="GraphCommit2" title="GraphCommit2"/>
+<img src="imgs/2graphcommit.png" alt="GraphCommit2" title="GraphCommit2"/>
 
-<img src="imgs/Database GigU.png" alt="NetworkCommit2" title="LeanUXCaNetworkCommit2nvas"/>
+<img src="imgs/2networkcommit.png" alt="NetworkCommit2" title="LeanUXCaNetworkCommit2nvas"/>
