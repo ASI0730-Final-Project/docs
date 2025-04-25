@@ -1,3 +1,129 @@
+# <p align="center">Informe de Trabajo Final</p>
+
+## <p align="center">Universidad Peruana de Ciencias Aplicadas</p>
+
+<div align="center">
+  <img src="./imgs/upc-logo.png" alt="Logo de UPC" />
+</div>
+
+<p align="center">Ingeniería de Software</p>
+<p align="center">Aplicaciones Web - 4371</p>
+<p align="center"><strong>Docente:</strong> Naldo Reupo-Musayon Gastulo</p>
+<p align="center"><strong>Startup:</strong> GigU</p>
+<p align="center"><strong>Producto:</strong> GigU</p>
+
+<p align="center"><strong>Team members:</strong></p>
+
+| Nombre                            | Código     |
+| --------------------------------- | ---------- |
+|  Allcca Guerrero, Irving          | U202213241 |
+| Solis Santa Cruz,Giancarlo Rafael | U202318615 |
+| Bryan Felix Martinez Ramos        | u202316246 |
+| Oblitas Davila, Mariano Moises    | U202310222 |
+| Cacho Seminario, Diego Alonso     | U202223990 |
+| Seijas Vásquez, Diego Antonio     | U202210167 |
+| Yauri Chocce, Renato              | U202317566 |
+
+<p align="center"><strong>Ciclo 2025-01</strong></p>
+
+# Registro de versiones del informe
+
+| Versión | Fecha      | Autor             | Descripción de modificación                                                                                                                                                                                                                                                                                       |
+| ------- | ---------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TB1     | 25/04/2025 | GigU | En esta primera entrega se han incluido los capítulos:<br />Capítulo I: Introducción <br />Capítulo II: Requirements Elicitation & Analysis<br />Capítulo III: Requirements Specification<br />Capítulo IV: Product Design<br />Capítulo V: Product Implementation, Validation & Deployment                       |
+
+# Student Outcomes
+
+ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+| Criterio específico                                                                                                                          | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Conclusiones                                                                                                                                                                                                                                                                                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                                                              | **Liderazgo distribuido:**<br/>- **Diego C** (U202223990) lideró la planificación del Sprint 1 (5.2.1.1)<br/>- **Mariano** (U202310222) coordinó el backlog del sprint (5.2.1.3)<br/>- **Giancarlo** (U202318615) documentó las colaboraciones (5.2.1.8)<br/>- **Bryan** (u202316246) generó evidencia de desarrollo (5.2.1.4)<br/>- **Seijas** (U202210167) documentó ejecución (5.2.1.5)<br/><br/>**Coordinación general:**<br/>- Todos participaron como Aspect Leaders (5.2.1.2)<br/>- Reuniones diarias para seguimiento de avances<br/>- Uso de tablero Kanban compartido en GitHub Projects<br/>- Rotación de roles en reuniones semanales                                                                 | El liderazgo rotativo demostró ser efectivo, permitiendo que cada miembro asuma roles de guía en sus áreas de expertise (UI/UX, Backend, Documentación). Esto fomentó la responsabilidad compartida. Se recomienda mantener esta dinámica pero con mayor documentación de decisiones clave para futuras referencias.                                                  |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos                                               | **Metodología de trabajo:**<br/>- Definición colectiva de objetivos en reunión inicial<br/>- Asignación de tareas según habilidades (#etiquetas en documentos)<br/>- Revisiones por pares antes de entregas<br/>- Calendarización compartida con hitos clave<br/><br/>**Herramientas colaborativas:**<br/>- Discord para comunicación constante (canales por temas)<br/>- GitHub para documentación colaborativa<br/>- Figma compartido para diseño UI/UX<br/>- Sesiones de pair programming en componentes críticos<br/><br/>**Ejecución TB1:**<br/>- **Irving** (U202213241) y **Bryan** colaboraron en entrevistas (2.2)<br/>- **Mariano** y **Diego C** coordinaron diseño web (4.4)<br/>- **Renato** (U202317566) apoyó en configuración inicial (5.1) | El ambiente inclusivo permitió integrar diversas perspectivas en el diseño de la solución. La planificación fue efectiva pero se identificó que los plazos podrían mejorarse con una distribución más equilibrada de cargas de trabajo. La comunicación constante mediante Discord fue clave para mantener la inclusión y colaboración entre todos los integrantes. |
+
+### Tabla de Contenidos
+
+#### [Capítulo I: Introducción](#capítulo-i-introducción)
+- [1.1. Startup Profile](#11-startup-profile)
+  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+
+#### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+- [2.1. Competidores](#21-competidores)
+  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2. Entrevistas](#22-entrevistas)
+  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [2.3. Needfinding](#23-needfinding)
+  - [2.3.1. User Personas](#231-user-personas)
+  - [2.3.2. User Task Matrix](#232-user-task-matrix)
+  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)
+
+#### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
+
+#### [Capítulo IV: Product Design](#capítulo-iv-product-design)
+- [4.1. Style Guidelines](#41-style-guidelines)
+  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+- [4.2. Information Architecture](#42-information-architecture)
+  - [4.2.1. Organization Systems](#421-organization-systems)
+  - [4.2.2. Labeling Systems](#422-labeling-systems)
+  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+  - [4.2.4. Searching Systems](#424-searching-systems)
+  - [4.2.5. Navigation Systems](#425-navigation-systems)
+- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+  - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
+  - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+  - [4.7.1. Class Diagrams](#471-class-diagrams)
+  - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [4.8. Database Design](#48-database-design)
+  - [4.8.1. Database Diagram](#481-database-diagram)
+
+#### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Aspect Leaders and Collaboradores](#5212-aspect-leaders-and-collaboradores)
+    - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+    - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
 # Capítulo I: Introducción
 
 ### **1.1. Startup Profile**
@@ -1406,3 +1532,9 @@ https://drive.google.com/file/d/198c49nDlMbolfklmcFJzCl5_C-Hjvktt/view?usp=drive
 
 *Link Figma*
 https://www.figma.com/design/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=0-1&t=7if5zvdwgHO5HRyS-1
+
+*Link Repositorio Docs Github*
+https://github.com/ASI0730-Final-Project/docs
+
+*Link Organizacion Github*
+https://github.com/ASI0730-Final-Project
