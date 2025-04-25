@@ -254,6 +254,32 @@ GigU aplicará una estrategia de diferenciación enfocada en el talento universi
 
 ### **2.2.2 Registro de Entrevistas**
 
+<b><u>Segmento objetivo #1: Estudiantes Universitarios Freelancers</u></b>
+
+Entrevistado N°1: Mario André Cacho Seminario
+
+<img src="imgs/Entrevista_Mario.png" alt="Entrevista_Mario" title="Entrevista_mario"/>
+
+* Sexo: Masculino  
+* Edad: 21  
+* Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+* Link: [https://youtu.be/hSg2bZ3Jgbc](https://youtu.be/hSg2bZ3Jgbc)   
+* Instante en el que inicia: 0:10  
+* Duración: 3:26
+
+Resumen:
+
+Para Mario, ofrecer servicios como freelancer en la creación de videos de marketing para pequeñas empresas le ha permitido impulsar su desarrollo personal y profesional. Le motiva expandir su perspectiva trabajando con distintos tipos de negocios. Sin embargo, encuentra complicado conseguir clientes, ya que considera que ser estudiante limita su contratación por parte de empresas que priorizan la experiencia. Por lo general, encuentra oportunidades a través de redes sociales o contactos cercanos, y recibe sus pagos mediante transferencias bancarias directas. Dedica entre 6 y 8 horas semanales al trabajo freelance, equilibrándolo con sus estudios. Cree que una plataforma ideal debería permitir visibilidad a personas de todos los niveles (estudiantes, aficionados, profesionales) y contar con un sistema que sugiera proyectos según habilidades y experiencia. También valora que exista un historial de trabajos realizados y, sobre todo, un sistema de cobros seguro que proteja su esfuerzo.
+
+
+
+
+
+
+
 
 
 <b><u>Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance</u></b>
