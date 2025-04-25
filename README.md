@@ -1482,6 +1482,23 @@ Con el objetivo de mantener la coherencia, legibilidad y calidad del código dur
 
 #### **5.1.4. Software Deployment Configuration.**
 
+**Ilustracion Github Software Deployment Configuration 1**
+<img src="imgs/Software Deployment Configuration1.jpg" alt="Software Deployment Configuration1" title="Software Deployment Configuration1"/>
+
+**Ilustracion Github Software Deployment Configuration 2**
+<img src="imgs/Software Deployment Configuration2.jpg" alt="Software Deployment Configuration2" title="Software Deployment Configuration2"/>
+
+**Ilustracion Github Software Deployment Configuration 3**
+<img src="imgs/Software Deployment Configuration3.jpg" alt="Software Deployment Configuration3" title="Software Deployment Configuration3"/>
+
+**Ilustracion Github Software Deployment Configuration 4**
+<img src="imgs/Software Deployment Configuration4.jpg" alt="Software Deployment Configuration4" title="Software Deployment Configuration4"/>
+
+**Ilustracion Github Software Deployment Configuration 5**
+<img src="imgs/Software Deployment Configuration5.jpg" alt="Software Deployment Configuration5" title="Software Deployment Configuration5"/>
+
+Video de Landing:[Execution Evidence for Sprint Review](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210167_upc_edu_pe/EdnyKPia8E9JgiZsrh1oo3gBnjmZByEaVxkEXSIe0pTYLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=e0sw3A)
+
 ### **5.2. Landing Page, Services & Applications Implementation.**
 
 #### **5.2.1. Sprint 1**
