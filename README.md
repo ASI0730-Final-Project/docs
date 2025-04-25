@@ -263,33 +263,43 @@ Entrevistado N°2: Janet Ramos Soto
 
 <img src="imgs/Entrevista_Janet.png" alt="Entrevista_Janet" title="Entrevista_Janet"/>
 
- * Sexo: Femenino  
- * Edad: 50  
- * Ubicación en la que vive: Villa El Salvador
-Acerca de la entrevista:
- * Link: [Ver video](https://drive.google.com/file/d/1GrgiPOIVxOZlzbkVRIbqKf3GxdKc92Cs/view?usp=sharing)  
- * Instante en el que inicia: 0:08 segundos  
- * Duración: 6:16 minutos
+* Sexo: Femenino  
+* Edad: 50  
+* Ubicación en la que vive: Villa El Salvador  
 
-**Resumen:** Janet es una emprendedora de tienda de zapatillas la cual debido a su crecimiento tuvo un incremento considerable de tareas, lo cual llevó a que durante algún momento buscara un trabajador freelance para disminuir su trabajo.
-**Canales actuales para buscar freelancer:**
-Nos comenta que únicamente ha contratado freelancer por medio de la plataforma fiverr
-**Criterios para confiar en un freelancer:**
- * Comentarios de los clientes sobre proyectos pasados  
- * Portafolio o muestra de trabajos pasados  
- * Tiempo de experiencia como trabajador freelancer
-Ella misma prefiere gestionar el proceso del pago ya que debido a su edad no se le da bien el pago de los proyectos.
-**Motivos para descartar a un freelancer:**
- * Mala reputación como trabajador  
- * Poco tiempo de experiencia  
- * Poco interés/compromiso en el proyecto
-**Características deseadas en una plataforma freelance:**
- * Detalles claros en la plataforma  
- * Costos del proyecto detallado  
- * Acceso a la información y comentarios del freelancer
-Ella prefiere no negociar ya que siente que si el proyecto que solicita al freelancer es complejo y está muy bien hecho pagaría lo cobrado por el freelancer o la plataforma
-**Factores de decisión:**
-Considera lo más determinante la opinión de otros usuarios sobre la experiencia trabajando con el freelancer.
+**Acerca de la entrevista:**
+
+* Link: [Ver video](https://drive.google.com/file/d/1GrgiPOIVxOZlzbkVRIbqKf3GxdKc92Cs/view?usp=sharing)  
+* Instante en el que inicia: 0:08 segundos  
+* Duración: 6:16 minutos  
+
+**Resumen:** Janet es una emprendedora de tienda de zapatillas la cual debido a su crecimiento tuvo un incremento considerable de tareas, lo cual llevó a que durante algún momento buscara un trabajador freelance para disminuir su trabajo.  
+
+**Canales actuales para buscar freelancer:**  
+Nos comenta que únicamente ha contratado freelancer por medio de la plataforma fiverr  
+
+**Criterios para confiar en un freelancer:**  
+* Comentarios de los clientes sobre proyectos pasados  
+* Portafolio o muestra de trabajos pasados  
+* Tiempo de experiencia como trabajador freelancer  
+
+Ella misma prefiere gestionar el proceso del pago ya que debido a su edad no se le da bien el pago de los proyectos.  
+
+**Motivos para descartar a un freelancer:**  
+* Mala reputación como trabajador  
+* Poco tiempo de experiencia  
+* Poco interés/compromiso en el proyecto  
+
+**Características deseadas en una plataforma freelance:**  
+* Detalles claros en la plataforma  
+* Costos del proyecto detallado  
+* Acceso a la información y comentarios del freelancer  
+
+Ella prefiere no negociar ya que siente que si el proyecto que solicita al freelancer es complejo y está muy bien hecho pagaría lo cobrado por el freelancer o la plataforma  
+
+**Factores de decisión:**  
+Considera lo más determinante la opinión de otros usuarios sobre la experiencia trabajando con el freelancer.  
+
 
 
 
