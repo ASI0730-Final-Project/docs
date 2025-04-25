@@ -1112,6 +1112,61 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 
 
  #### **4.4.2. Web Applications Wireflow Diagrams.**
+ 
+# User Goal: Usuario se registra, recupera contraseña y inicia sesión a la aplicación
+
+<img src="imgWireframe/diagram-sign-logout.png" alt="diagram-sign-logout" title="diagram-sign-logout"/>
+
+**Descripción:**  
+Cuando el usuario abre la aplicación, se encuentra con el formulario de **registro de cuenta**. Si ya tiene una cuenta, puede optar por la opción **"Iniciar sesión"**. Al hacerlo, deberá ingresar sus credenciales en el formulario de **inicio de sesión**. Si la información es correcta, accederá a la **página principal** de la plataforma.
+
+Si el usuario ha olvidado su contraseña, puede seleccionar la opción **"Recuperar contraseña"**. Esto lo llevará a un formulario donde debe ingresar su **correo electrónico**. Tras enviarlo, recibirá un **enlace de recuperación** en su correo para restablecer su contraseña.
+
+Una vez que el usuario haya restablecido su contraseña o ingresado las credenciales correctas, podrá acceder a la **página principal** de la plataforma.
+
+---
+
+# User Goal: Usuario se inscribe como freelancer y quiere subir alguna oferta
+
+<img src="imgWireframe/diagram-freelancer.png" alt="diagram-freelancer" title="diagram-freelancer"/>
+
+**Descripción:**  
+El proceso de registro comienza cuando el usuario accede al formulario de **registro de cuenta**. En este formulario, deberá proporcionar sus datos personales, como **nombre completo**, **correo electrónico** y otros detalles relevantes para completar su perfil en la plataforma.
+
+Durante el proceso de inscripción, el usuario deberá **adjuntar dos documentos**:  
+- Una **foto de su DNI**.  
+- Una **foto de su carnet universitario**.  
+
+Estos documentos son necesarios para validar la identidad y el estatus académico del freelancer.
+
+Una vez que el formulario se complete y los documentos se hayan subido, el sistema procederá a **validar los datos** y, si todo es correcto, la cuenta será **verificada y aprobada**.
+
+Luego de la validación exitosa, el sistema enviará un **mensaje de bienvenida**, informando al usuario que su cuenta ha sido aprobada y que ahora puede comenzar a ofrecer sus servicios como freelancer.
+
+Después del registro, el usuario será redirigido a la **pantalla principal** del freelancer, donde podrá ver información sobre su cuenta, estadísticas y las herramientas necesarias para comenzar a ofrecer servicios. En esta pantalla, podrá interactuar con los clientes y gestionar las ofertas de servicio.
+
+Si desea comenzar a ofrecer sus servicios, el freelancer puede hacer clic en **"Crear un nuevo GIG"**. Esto lo llevará a un formulario donde deberá completar los campos como el **título del GIG**, la **categoría** y los **search tags**, los cuales ayudarán a los usuarios a encontrar su servicio dentro de la plataforma.
+
+Finalmente, después de completar el formulario de GIG, el freelancer será llevado a una **página de confirmación**, donde podrá revisar todos los detalles antes de publicar el GIG. Si todo es correcto, podrá proceder con la **publicación** del GIG y comenzar a recibir solicitudes o propuestas.
+
+---
+
+# User Goal: Usuario quiere contratar a un freelancer
+
+<img src="imgWireframe/diagram-contact-freelancer.png" alt="diagram-freelancer" title="diagram-freelancer"/>
+
+**Descripción:**  
+El proceso comienza cuando el **usuario** decide contratar a un freelancer. El usuario accede a la **publicación** del freelancer, donde puede consultar la información básica sobre los servicios ofrecidos, los **comentarios de otros usuarios** y la **tarifa mínima** del servicio.
+
+Si el usuario está interesado y desea continuar, hace clic en el botón **"Contratar"**, lo que lo llevará a la **calculadora inteligente**.
+
+En esta calculadora, el usuario completará un formulario donde ingresará detalles sobre el **trabajo a realizar**, como **duración** y **funcionalidades requeridas**. Con esta información, el sistema calculará automáticamente una **estimación de costo** para el servicio solicitado.
+
+Una vez recibida la estimación, el usuario puede decidir **aceptar el presupuesto** o negociar el precio con el freelancer. Si acepta la oferta, será redirigido a una página donde podrá interactuar con el freelancer para llegar a un acuerdo final sobre el **precio y las condiciones** del trabajo.
+
+Cuando ambas partes acuerden el precio, el usuario pasará a la **página de pago**, donde podrá realizar el pago correspondiente. El sistema le proporcionará las opciones de pago disponibles, y una vez completado el proceso de pago, el usuario recibirá una **notificación de confirmación** de que el pago fue exitoso y que el trabajo está en proceso.
+
+Finalmente, el usuario será redirigido a su **perfil personal**, donde podrá ver una lista de **órdenes activas**, con detalles sobre el estado de cada una y la opción de interactuar con los freelancers asignados.
 
 
  #### **4.4.3. Web Applications Mock-ups.**
@@ -1129,7 +1184,7 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 
 ---
 
-<h2 align="center">freelace verification</h2>
+<h2 align="center">freelance verification</h2>
 
 <img src="imgMockup/freelace-verification.png" alt="freelace-verification" title="freelace-verification"/>
 
@@ -1213,6 +1268,7 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 
  #### **4.4.4. Web Applications User Flow Diagrams.**
  **User Goal:** Usuario se registra, recupera contraseña y inicia sesión a la aplicación con credenciales
+ 
 <img src="imgMockup/wireflow-register.png" alt="wireflow-register" title="wireflow-register"/>
 
 **Description:** Al iniciar la aplicación, el usuario se encuentra en el formulario de registro de cuenta. Si ya tiene una cuenta, puede seleccionar la opción "Iniciar sesión". Si el usuario ya tiene una cuenta, ingresará sus credenciales en el formulario de inicio de sesión. Si las credenciales son correctas, accederá a la página principal de la plataforma.
@@ -1220,6 +1276,9 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 En caso de que el usuario no recuerde su contraseña, podrá hacer clic en "Recuperar contraseña". Esto lo llevará a un formulario donde ingresará su correo electrónico asociado a la cuenta. Al enviar el formulario, el sistema enviará un enlace de recuperación al correo proporcionado para que el usuario pueda restablecer su contraseña.
 
 Una vez que el usuario ingrese sus credenciales correctas, ya sea después de haber restablecido la contraseña o al haberlas ingresado correctamente en el inicio de sesión, accederá a la página principal de la plataforma.
+
+---
+
 
  **User Goal:** Usuario se inscribe como freelancer y quiere subir alguna oferta
 <img src="imgMockup/wireflow-register-freelancer.png" alt="wireflow-register" title="wireflow-register"/>
@@ -1237,6 +1296,9 @@ Luego de completar el registro, el usuario será dirigido a la pantalla principa
 Si el freelancer desea comenzar a ofrecer sus servicios, podrá hacer clic en la opción "Crear un nuevo GIG", lo que lo llevará a un formulario de creación de GIG. En este formulario, el freelancer deberá proporcionar información clave como el título del GIG, la categoría en la que se encuentra el servicio que ofrece, y los search tags, que ayudarán a los usuarios a encontrar su servicio más fácilmente dentro de la plataforma.
 
 Finalmente, después de completar el formulario de GIG, el freelancer será redirigido a una página de confirmación, donde podrá revisar todos los detalles del GIG antes de proceder con su publicación. Si todo está correcto, podrá publicar el GIG y comenzar a recibir ofertas o solicitudes de los usuarios interesados en sus servicios.
+
+---
+
 
  **User Goal:** Usuario quiere contratar a un freelancer
 <img src="imgMockup/wireflow-contact-freelancer.png" alt="wireflow-register" title="wireflow-register"/>
