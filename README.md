@@ -1079,10 +1079,13 @@ Una vez que ambas partes acuerden el precio, el usuario procederá a la página 
 
 Finalmente, el usuario será dirigido a su perfil personal, donde podrá visualizar una lista de las órdenes activas (es decir, los trabajos que ha contratado), incluyendo detalles sobre el estado de cada uno y la posibilidad de interactuar con los freelancers asignados.
 
-### **4.5. Web Applications Prototyping.**  
+### *4.5. Web Applications Prototyping.*  
 En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos.
 
-**Figma Web Applications Prototype:**https://www.figma.com/design/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=1-4863&t=mF1ObeVYMU2JmBdf-0
+Enlace del Prototipo:[Ver Prototipo](https://www.figma.com/proto/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=1-4863&p=f&t=AUYuxuxOvdv1Z2d3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A575)
+
+Enlace del Video de Prototipo:[Ver Video de Prototipo](https://drive.google.com/file/d/198c49nDlMbolfklmcFJzCl5_C-Hjvktt/view?usp=drive_link)
+
 #### **4.6. Domain-Driven Software Architecture.**
 
    ##### **4.6.1. Software Architecture Context Diagram.**
@@ -1400,3 +1403,16 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 <img src="imgs/2graphcommit.png" alt="GraphCommit2" title="GraphCommit2"/>
 
 <img src="imgs/2networkcommit.png" alt="NetworkCommit2" title="LeanUXCaNetworkCommit2nvas"/>
+
+
+
+## Anexos
+
+*Enlace del Prototipo*
+https://www.figma.com/proto/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=1-4863&p=f&t=AUYuxuxOvdv1Z2d3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A575
+
+*Enlace del Video de Prototipo*
+https://drive.google.com/file/d/198c49nDlMbolfklmcFJzCl5_C-Hjvktt/view?usp=drive_link
+
+*Link Figma*
+https://www.figma.com/design/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=0-1&t=7if5zvdwgHO5HRyS-1
