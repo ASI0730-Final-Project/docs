@@ -1341,3 +1341,16 @@ En el primer Sprint solamente se ha desarrollado la Landing Page por lo que no s
 
 ##### **5.2.1.8. Team Collaboration Insights during Sprint**
 
+El equipo desarrolló la landing page por ramas para desarrollar cada user story asignadas de la sprint. Una vez terminado con el desarrollo pasaría por las validaciones para el despliegue de la aplicación. Debido a la disponibilidad de tiempos se delegó la responsabilidad del desarrollo a un integrante con capacidades para realizarlo.Ademas se mostrara el corecto proceso que se realizo en la documentacion por parte del grupo. A continuación se presenta el insight.
+
+*Landing Page*
+
+<img src="imgs/1graphcommit.png" alt="GraphCommit1" title="GraphCommit1"/>
+
+<img src="imgs/1networkcommit.png" alt="NetworkCommit1" title="NetworkCommit1"/>
+
+*READ.ME*
+
+<img src="imgs/2networkcommit.png" alt="GraphCommit2" title="GraphCommit2"/>
+
+<img src="imgs/Database GigU.png" alt="NetworkCommit2" title="LeanUXCaNetworkCommit2nvas"/>
