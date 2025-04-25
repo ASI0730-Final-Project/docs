@@ -938,6 +938,8 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 
 
  #### **4.4.2. Web Applications Wireflow Diagrams. **
+
+
  #### **4.4.3. Web Applications Mock-ups. **
 <h1 align="center">Wireframes y Mockups del Proyecto</h1>
 
@@ -1036,8 +1038,52 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 <img src="imgMockup/user-payment.png" alt="user-payment" title="user-payment"/>
 
  #### **4.4.4. Web Applications User Flow Diagrams. **
+ **User Goal:** Usuario se registra, recupera contraseña y inicia sesión a la aplicación con credenciales
+<img src="imgMockup/wireflow-register.png" alt="wireflow-register" title="wireflow-register"/>
 
-  #### **4.6. Domain-Driven Software Architecture.**
+**Description:** Al iniciar la aplicación, el usuario se encuentra en el formulario de registro de cuenta. Si ya tiene una cuenta, puede seleccionar la opción "Iniciar sesión". Si el usuario ya tiene una cuenta, ingresará sus credenciales en el formulario de inicio de sesión. Si las credenciales son correctas, accederá a la página principal de la plataforma.
+
+En caso de que el usuario no recuerde su contraseña, podrá hacer clic en "Recuperar contraseña". Esto lo llevará a un formulario donde ingresará su correo electrónico asociado a la cuenta. Al enviar el formulario, el sistema enviará un enlace de recuperación al correo proporcionado para que el usuario pueda restablecer su contraseña.
+
+Una vez que el usuario ingrese sus credenciales correctas, ya sea después de haber restablecido la contraseña o al haberlas ingresado correctamente en el inicio de sesión, accederá a la página principal de la plataforma.
+
+ **User Goal:** Usuario se inscribe como freelancer y quiere subir alguna oferta
+<img src="imgMockup/wireflow-register-freelancer.png" alt="wireflow-register" title="wireflow-register"/>
+
+**Description:** El proceso de inscripción comienza cuando el usuario accede al formulario de registro de cuenta. En este formulario, debe ingresar sus datos personales reales, como su nombre completo, correo electrónico, y otros detalles relevantes que ayudarán a completar su perfil en la plataforma.
+
+A continuación, durante la inscripción, el usuario debe adjuntar dos documentos esenciales para la validación de su cuenta. Estos documentos son una foto de su DNI y una foto de su carnet universitario, los cuales son necesarios para verificar la identidad y el estatus académico del freelancer.
+
+Una vez que el formulario se ha completado y los documentos han sido subidos, el sistema procederá a validar la información y los documentos proporcionados por el usuario. Si todo es correcto, la cuenta será verificada y aprobada para que el freelancer pueda continuar con el proceso.
+
+Tras la validación exitosa, el sistema enviará un mensaje de bienvenida, informando al usuario que su cuenta ha sido aprobada y que ahora tiene acceso a la plataforma como freelancer. Desde este momento, podrá comenzar a ofrecer sus servicios y gestionar su perfil.
+
+Luego de completar el registro, el usuario será dirigido a la pantalla principal del freelancer, donde podrá visualizar detalles sobre su cuenta, estadísticas relevantes y las herramientas necesarias para comenzar a ofrecer sus servicios a través de la plataforma. Esta pantalla principal proporciona acceso a todas las funcionalidades para interactuar con los clientes y gestionar las ofertas de servicio.
+
+Si el freelancer desea comenzar a ofrecer sus servicios, podrá hacer clic en la opción "Crear un nuevo GIG", lo que lo llevará a un formulario de creación de GIG. En este formulario, el freelancer deberá proporcionar información clave como el título del GIG, la categoría en la que se encuentra el servicio que ofrece, y los search tags, que ayudarán a los usuarios a encontrar su servicio más fácilmente dentro de la plataforma.
+
+Finalmente, después de completar el formulario de GIG, el freelancer será redirigido a una página de confirmación, donde podrá revisar todos los detalles del GIG antes de proceder con su publicación. Si todo está correcto, podrá publicar el GIG y comenzar a recibir ofertas o solicitudes de los usuarios interesados en sus servicios.
+
+ **User Goal:** Usuario quiere contratar a un freelancer
+<img src="imgMockup/wireflow-contact-freelancer.png" alt="wireflow-register" title="wireflow-register"/>
+
+**Description:** El proceso comienza cuando el usuario desea contratar a un freelancer. Este accede a la publicación del freelancer, donde puede ver la información básica sobre los servicios ofrecidos, los comentarios de otros usuarios y la tarifa mínima del servicio.
+
+Una vez que el usuario revisa la publicación y decide continuar, puede hacer clic en el botón de "Contratar" para proceder con el siguiente paso del proceso de contratación. Al hacerlo, será redirigido a la calculadora inteligente.
+
+En la calculadora inteligente, el usuario deberá completar un formulario con las características de su trabajo. Este formulario permite ingresar detalles como la duración del proyecto, las funcionalidades requeridas y cualquier otro dato relevante. Una vez que el usuario complete la información, el sistema calculará automáticamente una estimación de costo para el servicio solicitado.
+
+Después de recibir la estimación de precio, el usuario tendrá la opción de aceptar el presupuesto o negociar con el freelancer. Si el usuario acepta el precio, será redirigido a una página de interacción donde podrá comunicarse directamente con el freelancer para llegar a un acuerdo final sobre el precio y las condiciones del trabajo.
+
+Una vez que ambas partes acuerden el precio, el usuario procederá a la página de pago, donde podrá realizar el pago correspondiente por el servicio. El sistema proporcionará las opciones de pago disponibles, y una vez completada la transacción, el usuario recibirá una notificación de confirmación indicando que el pago ha sido exitoso y que el trabajo está en proceso.
+
+Finalmente, el usuario será dirigido a su perfil personal, donde podrá visualizar una lista de las órdenes activas (es decir, los trabajos que ha contratado), incluyendo detalles sobre el estado de cada uno y la posibilidad de interactuar con los freelancers asignados.
+
+### **4.5. Web Applications Prototyping.**  
+En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos.
+
+**Figma Web Applications Prototype:**https://www.figma.com/design/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=1-4863&t=mF1ObeVYMU2JmBdf-0
+#### **4.6. Domain-Driven Software Architecture.**
 
    ##### **4.6.1. Software Architecture Context Diagram.**
 
