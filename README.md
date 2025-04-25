@@ -52,7 +52,11 @@ Además, con GigU, los estudiantes tienen una forma flexible, accesible y efecti
 | Nombre: Irving Allcca                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | <img src="imgIntegrantes/irving.jpg" alt="Irving" title="Foto de Irving" />         |
 | **Código:** U202213241                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                      |
 | **Carrera:** Ingeniería de Software                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                      |
-| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 5to ciclo de mi carrera en la UPC y tengo 20 años. Soy una persona empática e intuitiva. Me gusta desarrollar los proyectos de manera secuencial y eficiente. En equipo, me esfuerzo por colaborar. Tengo experiencia en programación con C + +, Java, Python, así como en el diseño web con html, CSS y JavaScript.                                                                                                                                              |                                                                                      |
+| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 5to ciclo de mi carrera en la UPC y tengo 20 años. Soy una persona empática e intuitiva. Me gusta desarrollar los proyectos de manera secuencial y eficiente. En equipo, me esfuerzo por colaborar. Tengo experiencia en programación con C + +, Java, Python, así como en el diseño web con html, CSS y JavaScript.                                                                                |                                                                                      |
+| Nombre: Renato Yauri Chocce                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | <img src="imgIntegrantes/renato.jpg" alt="Renato" title="Foto de Renato" />         |
+| **Código:** U202317566                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                      |
+| **Carrera:** Ingeniería de Software                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                      |
+| **Habilidades:** Soy estudiante de Ingeniería de Software cursando el 5to ciclo de mi carrera en la UPC y tengo 21 años. Soy una persona amable y tranquila. Me gusta desarrollar los proyectos de manera minuciosa. En equipo, me esfuerzo por colaborar. Tengo experiencia con C++, Java, JavaScript, html y CSS.                                                                                                                                                     |                                                                                      |
 
 ### **1.2. Solution Profile** 
 
@@ -1310,4 +1314,28 @@ Con el objetivo de mantener la coherencia, legibilidad y calidad del código dur
 - **Espaciado Uniforme**: Se mantiene un espacio después de los dos puntos y dentro de las llaves de los bloques.  
     
 - **Comillas en Atributos**: Los valores como fuentes están entre comillas simples.
+
+#### **5.1.4. Software Deployment Configuration.**
+
+### **5.2. Landing Page, Services & Applications Implementation.**
+
+#### **5.2.1. Sprint 1**
+
+##### **5.2.1.1. Sprint Planning 1**
+
+##### **5.2.1.2. Aspect Leaders and Collaborators**
+
+##### **5.2.1.3. Sprint Backlog 1**
+
+##### **5.2.1.4. Development Evidence for Sprint Review**
+
+En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
+
+##### **5.2.1.5. Execution Evidence for Sprint Review**
+
+##### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+
+##### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+
+##### **5.2.1.8. Team Collaboration Insights during Sprint**
 
