@@ -404,13 +404,23 @@ Resumen:
 
 Para Mario, ofrecer servicios como freelancer en la creación de videos de marketing para pequeñas empresas le ha permitido impulsar su desarrollo personal y profesional. Le motiva expandir su perspectiva trabajando con distintos tipos de negocios. Sin embargo, encuentra complicado conseguir clientes, ya que considera que ser estudiante limita su contratación por parte de empresas que priorizan la experiencia. Por lo general, encuentra oportunidades a través de redes sociales o contactos cercanos, y recibe sus pagos mediante transferencias bancarias directas. Dedica entre 6 y 8 horas semanales al trabajo freelance, equilibrándolo con sus estudios. Cree que una plataforma ideal debería permitir visibilidad a personas de todos los niveles (estudiantes, aficionados, profesionales) y contar con un sistema que sugiera proyectos según habilidades y experiencia. También valora que exista un historial de trabajos realizados y, sobre todo, un sistema de cobros seguro que proteja su esfuerzo.
 
+Entrevistado N°3: Bruno Sebastián Gamarra Torres
 
+<img src="imgs/Entrevista_Bruno.jpeg" alt="Entrevista_Bruno" title="Entrevista_bruno"/>
 
+* Sexo: Masculino 
+* Edad: 23 
+* Ubicación en la que vive: Surco 
 
+Acerca de la entrevista:
 
+* Link: [https://youtu.be/yrg_gthAY2k](https://youtu.be/yrg_gthAY2k)     
+* Instante en el que inicia: 0:14  
+* Duración: 3:40
 
+Resumen:
 
-
+Bruno Sebastián Gamarra Torres, un joven de 23 años que vive en Surco, ofrece servicios de diseño gráfico y edición de video como freelancer desde hace algunos meses, motivado por la necesidad económica y el deseo de ganar experiencia. Consigue clientes principalmente a través de redes sociales como Instagram y TikTok, pero enfrenta dificultades como la falta de confianza de algunos clientes por ser estudiante. Utiliza Yape, Plin y transferencias para cobrar, aunque a veces sufre retrasos en los pagos. Para él, una plataforma ideal debería permitir dejar reseñas reales, tener chat integrado y un sistema de contratos. 
 
 <b><u>Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance</u></b>
 
