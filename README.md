@@ -644,15 +644,11 @@ Fabrizio Morales es un joven emprendedor que dirige un negocio de venta de vapes
 
 Link de entrevista https://upcedupe-my.sharepoint.com/personal/u202213241_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213241%5Fupc%5Fedu%5Fpe%2FDocuments%2FTB1%20web%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4ae92057%2De207%2D4244%2D981f%2D491f492ea6b5 
 
+#### **2.2.3 Análisis de entrevistas** 
 
+El Segmento 1: Estudiantes Universitarios Freelancers muestra jóvenes motivados principalmente por la necesidad de ganar experiencia y generar ingresos adicionales mientras estudian. Bruno, Werner y Mario coinciden en que conseguir clientes es complicado debido a la falta de confianza de los empleadores hacia estudiantes y a la necesidad de contar con un portafolio sólido. Utilizan redes sociales y plataformas como Workana para buscar oportunidades, y prefieren métodos de pago sencillos como Yape y transferencias, aunque han enfrentado problemas de demoras en pagos. Para ellos, una plataforma ideal debería facilitar contratos, reseñas reales, chats integrados y sugerencias de proyectos alineados a sus habilidades, además de asegurar los pagos. Valoran la visibilidad de su talento más allá de la experiencia previa, dándoles la oportunidad de competir en el mercado freelance.
 
-
-
-
-
-
-
-
+En el Segmento 2: Personas y Emprendimientos que buscan contratar freelancers, encontramos a Janet, Yulia y Fabrizio, quienes buscan apoyo externo principalmente para tareas de marketing, diseño y ventas. Sus principales preocupaciones son la calidad del trabajo, la responsabilidad del freelancer y la facilidad para gestionar pagos y acuerdos. Prefieren plataformas que ofrezcan perfiles detallados, portafolios visibles, comentarios de otros clientes y herramientas de negociación claras. Aunque Janet tiene más experiencia y prefiere manejar directamente los pagos, Yulia y Fabrizio valoran que la plataforma gestione los acuerdos para evitar problemas. En todos los casos, el portafolio visual y las buenas referencias son los factores decisivos para la contratación, y están dispuestos a pagar más si el resultado los impacta positivamente.
 
 ### **2.3. NeedFinding** 
 
