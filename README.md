@@ -793,18 +793,14 @@ CopiarEditar
 ○      WhatsApp, Email, Dirección, y redes sociales como Facebook, Instagram y LinkedIn.  
   
 
-●      **Estructura modular:  
-  
-**
+●      **Estructura modular:**
 
 ○      Cada sección puede contener tarjetas, grids o listas de contenido reutilizable.  
   
 
 #### **4.2.2. Labeling Systems**
 
-●      **Etiquetas claras y estándar:  
-  
-**
+●      **Etiquetas claras y estándar:**
 
 ○      Menú: Inicio, Sobre Nosotros,Servicios, Contacto.  
   
@@ -812,8 +808,7 @@ CopiarEditar
 ○      Botones: “Explorar más”, “ver mas ”, “Enviar correo”.”Saber más”  
   
 
-●      **URL Amigables:  
-** /servicios, /contacto, /proyectos/nombre-aplicacion
+●      **URL Amigables:** /servicios, /contacto, /proyectos/nombre-aplicacion
 
 4.2.3. SEO Tags and Meta Tags
 
@@ -833,9 +828,7 @@ CopiarEditar
 
 #### **4.2.4. Searching Systems**
 
-●      **Buscador en la landing page y header.  
-  
-**
+●      **Buscador en la landing page y header.**
 
 ●      Filtro por tipo de aplicación o categoría (administrativas, educativas, gestión).  
   
@@ -845,14 +838,11 @@ CopiarEditar
 
 #### **4.2.5. Navigation Systems**
 
-●      **Menú Fijo (Sticky):  
-** Con accesos a Inicio, Servicios, Contacto.
+●      **Menú Fijo (Sticky):** Con accesos a Inicio, Servicios, Contacto.
 
-●      **Navegación Interna (anchor links):  
-** Scroll suave a secciones dentro de una misma página.
+●      **Navegación Interna (anchor links):** Scroll suave a secciones dentro de una misma página.
 
-●      **Footer completo:  
-** Enlaces rápidos, redes sociales, contacto, política de privacidad.
+●      **Footer completo:** Enlaces rápidos, redes sociales, contacto, política de privacidad.
 
 ### **4.3. Landing Page UI Design**
 
@@ -866,7 +856,7 @@ CopiarEditar
 
 <img src="imgs/Image4.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-#### **4.3.1. Landing Page Wireframe **
+#### **4.3.1. Landing Page Wireframe**
 
 <img src="imgs/Image5.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
@@ -875,7 +865,7 @@ CopiarEditar
 <img src="imgs/Image6.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
  #### **4.4. Web Applications UX/UI Design.**
- #### **4.4.1. Web Applications Wireframes. **
+ #### **4.4.1. Web Applications Wireframes.**
 En esta sección se mostrarán los wireframes de nuestra aplicación
 <h2 align="center">Página Principal</h2>
 
@@ -937,10 +927,10 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 
 
 
- #### **4.4.2. Web Applications Wireflow Diagrams. **
+ #### **4.4.2. Web Applications Wireflow Diagrams.**
 
 
- #### **4.4.3. Web Applications Mock-ups. **
+ #### **4.4.3. Web Applications Mock-ups.**
 <h1 align="center">Wireframes y Mockups del Proyecto</h1>
 
 <h2 align="center">forgot pass</h2>
@@ -1037,7 +1027,7 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 
 <img src="imgMockup/user-payment.png" alt="user-payment" title="user-payment"/>
 
- #### **4.4.4. Web Applications User Flow Diagrams. **
+ #### **4.4.4. Web Applications User Flow Diagrams.**
  **User Goal:** Usuario se registra, recupera contraseña y inicia sesión a la aplicación con credenciales
 <img src="imgMockup/wireflow-register.png" alt="wireflow-register" title="wireflow-register"/>
 
