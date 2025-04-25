@@ -460,6 +460,27 @@ Resumen:
 
 Para Mario, ofrecer servicios como freelancer en la creación de videos de marketing para pequeñas empresas le ha permitido impulsar su desarrollo personal y profesional. Le motiva expandir su perspectiva trabajando con distintos tipos de negocios. Sin embargo, encuentra complicado conseguir clientes, ya que considera que ser estudiante limita su contratación por parte de empresas que priorizan la experiencia. Por lo general, encuentra oportunidades a través de redes sociales o contactos cercanos, y recibe sus pagos mediante transferencias bancarias directas. Dedica entre 6 y 8 horas semanales al trabajo freelance, equilibrándolo con sus estudios. Cree que una plataforma ideal debería permitir visibilidad a personas de todos los niveles (estudiantes, aficionados, profesionales) y contar con un sistema que sugiera proyectos según habilidades y experiencia. También valora que exista un historial de trabajos realizados y, sobre todo, un sistema de cobros seguro que proteja su esfuerzo.
 
+Entrevistado N°2:Werner Lang
+
+<img src="imgs/entrevistaWerner.png" alt="Entrevista_Werner" title="Entrevista_werner"/>
+
+* Sexo:Masculino
+* Edad:20
+* Ubicación en la que vive:San Isidro
+
+Acerca de la entrevista:
+
+* Link: https://youtu.be/8V8dcplWWys
+* Instante en el que inicia:0:05
+* Duración:6:14
+
+Resumen:
+
+Para Werner, ofrecer servicios como freelancer en diseño gráfico y desarrollo web le ha permitido aplicar lo aprendido en la universidad mientras genera ingresos extra. Su motivación principal es ganar experiencia profesional antes de egresar, trabajando en proyectos reales para pequeños negocios.
+Aunque ha logrado conseguir clientes a través de conocidos, grupos en redes sociales y plataformas como Workana, considera difícil que lo tomen en serio por ser estudiante. Además, la falta de un portafolio sólido y la poca experiencia en negociaciones le han representado retos al momento de cerrar acuerdos.
+Actualmente cobra sus servicios mediante Yape o transferencias bancarias, aunque ha tenido problemas con demoras en los pagos o clientes que buscan renegociar. Puede dedicar entre 8 y 12 horas semanales al trabajo freelance, dependiendo de su carga académica.
+Werner considera que una plataforma ideal debería facilitar mostrar habilidades, contar con herramientas para cotizar servicios, asegurar pagos y permitir una comunicación fluida con los clientes. También valora que una app como GigU pueda sugerirle proyectos alineados con su perfil, lo que le ayudaría a aprovechar mejor su tiempo y aumentar su productivida
+
 Entrevistado N°3: Bruno Sebastián Gamarra Torres
 
 <img src="imgs/Entrevista_Bruno.jpeg" alt="Entrevista_Bruno" title="Entrevista_bruno"/>
