@@ -911,97 +911,97 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
  #### **4.4.3. Web Applications Mock-ups. **
 <h1 align="center">Wireframes y Mockups del Proyecto</h1>
 
-<h2 align="center">forgot-pass.png</h2>
+<h2 align="center">forgot pass</h2>
 
 <img src="imgMockup/forgot-pass.png" alt="forgot-pass" title="forgot-pass"/>
 
 ---
 
-<h2 align="center">forgot-pop.png</h2>
+<h2 align="center">forgot pop</h2>
 
 <img src="imgMockup/forgot-pop.png" alt="forgot-pop" title="forgot-pop"/>
 
 ---
 
-<h2 align="center">freelace-verification.png</h2>
+<h2 align="center">freelace verification</h2>
 
 <img src="imgMockup/freelace-verification.png" alt="freelace-verification" title="freelace-verification"/>
 
 ---
 
-<h2 align="center">freelance-profile.png</h2>
+<h2 align="center">freelance profile</h2>
 
 <img src="imgMockup/freelance-profile.png" alt="freelance-profile" title="freelance-profile"/>
 
 ---
 
-<h2 align="center">freelance-verificated.png</h2>
+<h2 align="center">freelance verificated</h2>
 
 <img src="imgMockup/freelance-verificated.png" alt="freelance-verificated" title="freelance-verificated"/>
 
 ---
 
-<h2 align="center">login.png</h2>
+<h2 align="center">log in</h2>
 
 <img src="imgMockup/login.png" alt="login" title="login"/>
 
 ---
 
-<h2 align="center">login-verified.png</h2>
+<h2 align="center">login verified/h2>
 
 <img src="imgMockup/login-verified.png" alt="login-verified" title="login-verified"/>
 
 ---
 
-<h2 align="center">main-logout.png</h2>
+<h2 align="center">main log out</h2>
 
 <img src="imgMockup/main-logout.png" alt="main-logout" title="main-logout"/>
 
 ---
 
-<h2 align="center">posting-gig.png</h2>
+<h2 align="center">posting gig</h2>
 
 <img src="imgMockup/posting-gig.png" alt="posting-gig" title="posting-gig"/>
 
 ---
 
-<h2 align="center">profile-freelancer-ocupacion.png</h2>
+<h2 align="center">profile freelancer ocupacion</h2>
 
 <img src="imgMockup/profile-freelancer-ocupacion.png" alt="profile-freelancer-ocupacion" title="profile-freelancer-ocupacion"/>
 
 ---
 
-<h2 align="center">user-profile.png</h2>
+<h2 align="center">user profile</h2>
 
 <img src="imgMockup/user-profile.png" alt="user-profile" title="user-profile"/>
 
 ---
 
-<h2 align="center">user-profile-main.png</h2>
+<h2 align="center">user profile main </h2>
 
 <img src="imgMockup/user-profile-main.png" alt="user-profile-main" title="user-profile-main"/>
 
 ---
 
-<h2 align="center">pull.png</h2>
+<h2 align="center">pull </h2>
 
 <img src="imgMockup/pull.png" alt="pull" title="pull"/>
 
 ---
 
-<h2 align="center">sign-up.png</h2>
+<h2 align="center">sign up</h2>
 
 <img src="imgMockup/sign-up.png" alt="sign-up" title="sign-up"/>
 
 ---
 
-<h2 align="center">startup-description.png</h2>
+<h2 align="center">startup description</h2>
 
 <img src="imgMockup/startup-description.png" alt="startup-description" title="startup-description"/>
 
 ---
 
-<h2 align="center">user-payment.png</h2>
+<h2 align="center">user payment</h2>
 
 <img src="imgMockup/user-payment.png" alt="user-payment" title="user-payment"/>
 
