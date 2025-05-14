@@ -1450,34 +1450,80 @@ Enlace del Video de Prototipo:[Ver Video de Prototipo](https://drive.google.com/
 
 #### **4.6. Domain-Driven Software Architecture.**
 
+Este segmento se describe los diagramas arquitectónicos para la plataforma GigU, una plataforma de servicios freelance para estudiantes universitarios.
+---
+
    ##### **4.6.1. Software Architecture Context Diagram.**
 
-   ![DiagramaContexto](imgs/DiagramaContexto.jpeg)
+**Objetivo:**  
+Mostrar el sistema GigU en su entorno, identificando actores y sistemas externos que interactúan con la plataforma.
 
+ ![DiagramaContexto](imgs/structurizr-102394-SystemContext-001.png)
+
+**Elementos principales:**  
+- **Actores:** Estudiante universitario freelance, Cliente.  
+- **Sistema:** GigU.  
+- **Sistemas externos:** APIs de Factiliza, SendGrid, RENIEC y Google.
+
+**Relaciones:**  
+- Los actores usan GigU para ofrecer o contratar servicios freelance.  
+- GigU consume servicios externos para validar información y enviar notificaciones.
+
+**Componentes Utilizados**
+![DiagramaContexto](imgs/structurizr-102394-SystemContext-001-key.png)
+
+---
    ##### **4.6.2. Software Architecture Container Diagrams.**
 
-   ![DiagramaContenedores](imgs/DiagramaContenedores.jpeg)
+**Objetivo:**  
+Descomponer el sistema GigU en sus contenedores tecnológicos principales y mostrar sus interacciones.
+
+ ![DiagramaContenedores](imgs/structurizr-102394-Container-001.png)
+
+**Contenedores:**  
+- **Landing Page:** Página web estática para presentación y redireccionamiento.  
+- **Aplicación Web:** Frontend en Vue.js para interacción de usuarios.  
+- **API RESTful:** Backend en ASP.NET Core que maneja la lógica y acceso a datos.  
+- **Base de Datos:** MySQL que almacena toda la información del sistema.
+
+**Relaciones:**  
+- Los usuarios interactúan con la Landing Page y la Aplicación Web.  
+- La Aplicación Web se comunica con el API RESTful para operaciones.  
+- El API RESTful accede a la Base de Datos para lectura y escritura.  
+- El API también integra servicios externos para validaciones y notificaciones.
+
+**Componentes Utilizados**
+ ![DiagramaContenedores](imgs/structurizr-102394-Container-001-key.png)
+
+---
+
+  
 
    ##### **4.6.3. Software Architecture Components Diagrams**
+   **Objetivo:**  
+Detallar los componentes internos del API RESTful para definir responsabilidades y dependencias.
 
-   ![DiagramaComponentes](imgs/DiagramaComponentes.jpeg)
+   ![DiagramaComponentes](imgs/structurizr-102394-Component-001-001.png)
+**Componentes:**  
+- Notificaciones  
+- Chat  
+- Gestión de servicios  
+- Contratos  
+- Calificaciones y comentarios  
+- Calculadora  
+- Autenticación y registro  
+- Perfiles  
+- Shared Kernel
 
-   ![DiagramaComponentesUno](imgs/DiagramaComponentesUno.jpeg)
+**Relaciones:**  
+- Todos los componentes interactúan con la Base de Datos para persistencia.  
+- Los componentes *Perfiles* y *Autenticación y registro* consumen servicios externos (Factiliza, RENIEC, Google, SendGrid).  
+- La Landing Page y Aplicación Web llaman al componente *Autenticación y registro* para la gestión de usuarios.
 
-   ![DiagramaComponentesDos](imgs/DiagramaComponentesDos.jpeg)
 
-   ![DiagramaComponentesTres](imgs/DiagramaComponentesTres.jpeg)
+  **Componentes Utilizados**
+ ![DiagramaContenedores](imgs/structurizr-102394-Component-001-key.png)
 
-   ![DiagramaComponentesCuatro](imgs/DiagramaComponentesCuatro.jpeg)
-
-   ![DiagramaComponentesCinco](imgs/DiagramaComponentesCinco.jpeg)
-
-   ![DiagramaComponentesSeis](imgs/DiagramaComponentesSeis.jpeg)
-
-   ![DiagramaComponentesSiete](imgs/DiagramaComponentesSiete.jpeg)
-
-   ![DiagramaComponentesOcho](imgs/DiagramaComponentesOcho.jpeg)
-  
  
   
  #### **4.7. Software Object-Oriented Design.**
