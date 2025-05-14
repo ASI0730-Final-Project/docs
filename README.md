@@ -1968,17 +1968,21 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 
 **Requisitos técnicos:** Vue, PrimeVue, JavaScript diseños en Figma
 
-\*img commits\*
 
-| Sprint \# | Sprint 2 |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| User Story |  | Work-Item / Task |  |  |  |
-| ID | Descripción de Tarea | Horas estimadas | Horas reales | Asignado a | Estado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
+| **Task ID** | **User Story** | **Description** | **Assigned To** | **Estimated Hours** | **Status** | **Epic** |
+|------------|----------------|-----------------|-----------------|----------------------|------------|----------|
+| T01 | US03, US04 | Implement login/register with email/password (Fake API) | Mariano Oblitas | 15 | Completed | EP02 |
+| T02 | US05 | Integrate Google OAuth for social login (Fake API) | Giancarlo Solis | 10 | Completed | EP02 |
+| T03 | US06, US07 | Password recovery flow (email simulation) | Mariano Oblitas | 12 | Completed | EP03 |
+| T04 | US15, US16 | Freelancer profile creation (skills, description, fake API save) | Diego Seijas | 20 | Completed | EP06 |
+| T05 | US20, US21 | Service publication form (title, description, pricing) | Renato Yauri | 18 | Completed | EP07 |
+| T06 | US25, US26 | Freelancer search/filter UI (mock data) | Bryan Martinez | 15 | Completed | EP08 |
+| T07 | US30 | "Hire Freelancer" button (Fake API interaction) | Diego Cacho | 10 | Completed | EP09 |
+| T08 | US42 | Chat UI for messaging (no backend, mock data) | Diego Seijas | 10 | Completed | EP12 |
+| T09 | - | Code organization: Refactor folder structure (Vue best practices) | Giancarlo Solis | 5 | Completed | - |
+| T10 | - | Basic security: Input validation, fake JWT simulation | Giancarlo Solis | 5 | Completed | EP02 |
+
+---
 
 ##### 
 
