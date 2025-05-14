@@ -1959,6 +1959,18 @@ Link de la Landing Page:
 ##### 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint 2\.
+El equipo realizó el front end por ramas con el objetivo de mejorar la organización del código y el desarrollo individual de las historias de usuario. Al finalizar con el sprint, se realizó el despliegue de la aplicación. Se presenta el siguiente insight.
+
+*Landing Page*  
+<img src="imgs/GraphCommitSprint2_Landing.png">
+ 
+<img src="imgs/NetworkCommitSprint2_Landing.png">
+
+*READ.ME*  
+<img src="imgs/GraphCommitSprint2_doc.png">
+
+<img src="imgs/NetworkCommitSprint2_doc.png">
+
 
 ## Conclusiones
 **- TB1:**
@@ -1997,3 +2009,6 @@ https://github.com/ASI0730-Final-Project
 
 *Link Landing Page*
 https://asi0730-final-project.github.io/GigU-Landing/
+
+*Link aplicacion web deployada(Firebase)*
+https://gigu-3873a.web.app
