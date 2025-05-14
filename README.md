@@ -1988,6 +1988,9 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review 2\.
 
+Se evidencia la funcionalidad por medio del siguiente link: https://drive.google.com/drive/folders/1NrkH2ayB4qU-eCF1u6Z2NhzptuG3ecv8?usp=sharing
+
+
 
 
 ##### 
@@ -2008,7 +2011,7 @@ Servicio de users:
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review 2\.
 
-Link de la Landing Page:
+Link de frontend web app: https://gigu-3873a.web.app 
 
 ##### 
 
