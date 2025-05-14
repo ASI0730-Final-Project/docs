@@ -1887,6 +1887,15 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators.
 
+#####
+| Rol | Líder | Colaboradores |
+| :---: | :---: | :---: |
+| Diseño UI/UX | Martinez Ramos, Bryan | Solis Santa Cruz, Giancarlo |
+| Desarrollo Frontend | Seijas Vásquez, Diego Antonio | Oblitas Davila, Mariano |
+| Control de Calidad | Allcca Guerrero, Irving | Yauri Chocce, Renato |
+| Documentación | Cacho Seminario, Diego Alonso | Todos los miembros |
+#####
+
 ##### 
 
 | Rol | Líder | Colaboradores |
@@ -1900,31 +1909,31 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 
 ##### 5.2.2.3. Sprint Backlog 2\.
 
-**Objetivo:**
+**Objetivo:** Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las historias de usuario anteriormente especificadas implementando además el uso de fake APIs.
 
 **Alcance:**
 
-*   
-*   
-*   
-* 
+* Implementar un Fake API para el guardado de información  
+* Aplicar seguridades básicas  
+* Corregir la organización del código y carpetas
 
 **Duración:** 26 de Abril \- 14 de Mayo de 2025
 
-**Capacidad de equipo:** 120 horas totales \- 7 integrantes  
+**Capacidad de equipo:** 120 horas totales \- 7 integrantes
+
 **Requisitos técnicos:** Vue, PrimeVue, JavaScript diseños en Figma
 
 \*img commits\*
 
-| Sprint \# | Sprint 2 |  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| User Story |  | Work-Item / Task |  |  |  |  |  |
-| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| Sprint \# | Sprint 2 |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |
+| ID | Descripción de Tarea | Horas estimadas | Horas reales | Asignado a | Estado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
 
 ##### 
 
