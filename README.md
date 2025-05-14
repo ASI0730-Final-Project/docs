@@ -1997,7 +1997,7 @@ Se evidencia la funcionalidad por medio del siguiente link: https://drive.google
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review 2\.
 
-Se evidencia el avance del segundo Sprint (Front End) por medio del siguiente link: 
+Se evidencia el avance del segundo Sprint (Front End) por medio del siguiente link: https://drive.google.com/drive/folders/1TL6bSnb1KhhZmNsHx1sYCbuYTvyv_TtS?usp=sharing
 
 ##### 
 
