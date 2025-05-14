@@ -1850,13 +1850,119 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 
 <img src="imgs/2networkcommit.png" alt="NetworkCommit2" title="LeanUXCaNetworkCommit2nvas"/>
 
-## Conclusiones
+#### **5.2.2. Sprint 2**
 
+##### 5.2.2.1. Sprint Planning 2\.
+
+##### 
+
+*  Sprint Details
+
+| Field | Value |
+| :---: | :---: |
+| Sprint Number | Sprint 2 |
+| Date | 10 de Mayo de 2025 |
+| Time | 04:30 PM |
+| Location | Modalidad remota |
+| Prepared By | GigU |
+| Attendees | Todos los miembros del equipo |
+
+* Sprint Overview
+
+**Previous Sprint Summary:**  
+Para el Sprint 1, buscamos desarrollar y desplegar una landing page funcional que cumpla con todas las historias de usuario especificadas para la interacción inicial con clientes y presentación del producto.
+
+**Sprint Goal:**  
+Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las historias de usuario anteriormente especificadas implementando además el uso de fake APIs.
+
+**Technical Specifications:**
+
+| Aspect | Details |
+| :---: | :---: |
+| Duration | 26 de Abril \- 14 de Mayo de 2025 |
+| Team Capacity | 120 horas totales |
+| Tech Stack | Vue, PrimeVue, JavaScript, Figma |
+| Velocity | \# |
+| Total Story Points | \# |
+
+##### 5.2.2.2. Aspect Leaders and Collaborators.
+
+##### 
+
+| Rol | Líder | Colaboradores |
+| :---: | :---: | :---: |
+|  |  |  |
+|  |  |  |
+| Control de Calidad |  |  |
+| Documentación |  |  |
+
+##### 
+
+##### 5.2.2.3. Sprint Backlog 2\.
+
+**Objetivo:**
+
+**Alcance:**
+
+*   
+*   
+*   
+* 
+
+**Duración:** 26 de Abril \- 14 de Mayo de 2025
+
+**Capacidad de equipo:** 120 horas totales \- 7 integrantes  
+**Requisitos técnicos:** Vue, PrimeVue, JavaScript diseños en Figma
+
+\*img commits\*
+
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+##### 
+
+##### 5.2.2.4. Development Evidence for Sprint Review 2\.
+
+Debido al desarrollo del Landing Page y del Front End Application dentro del Sprint 2, se omite esta sección para el presente avance del proyecto. En futuro desarrollo se brindará información con mayor detalle.
+
+##### 
+
+##### 5.2.2.5. Execution Evidence for Sprint Review 2\.
+
+Se evidencia el avance del segundo Sprint (Front End) por medio del siguiente link: 
+
+##### 
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review 2\.
+
+Se evidencia el avance del segundo Sprint por medio del siguiente link:
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review 2\.
+
+Link de la Landing Page:
+
+##### 
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint 2\.
+
+## Conclusiones
+**- TB1:**
 **GigU atiende una necesidad concreta en el entorno universitario y emprendedor**, ofreciendo una solución que permite a los estudiantes monetizar sus habilidades mientras adquieren experiencia profesional en un entorno real. A la vez, brinda a los emprendedores y pequeños empresarios acceso a talento joven, creativo y accesible, que puede cubrir tareas específicas sin los altos costos de una agencia o empleados fijos.
 
 
 **La propuesta de valor de GigU va más allá de conectar usuarios**, ya que incorpora funcionalidades clave como cotización inteligente, visibilidad mediante portafolios, acuerdos formales y un sistema de pagos seguro. Esto no solo aumenta la confianza entre las partes, sino que también profesionaliza la experiencia freelance desde etapas tempranas, promoviendo relaciones laborales más justas, eficientes y formativas.
 
+**- TP1:**
+En la presente entrega nos enfocamos principalmente en mejorar la experiencia de usuario por medio de mejoras respecto al Landing Page y nuevas funciones para esta misma. Pulimos diversos aspectos respecto a la entrega anterior, mejorando además el diseño y organización del documento.
+
+Implementamos el uso de un FakeAPI dentro de nuestra página con el objetivo de guardar la información de los usuarios de una manera más dinámica y funcional.
 ## Bibliografia
 
 Empleo informal alcanza más del 85 % de jóvenes peruanos menores de. (2024, January 13). Radio Nacional. https://www.radionacional.gob.pe/noticias/economia/empleo-informal-alcanza-mas-del-85-de-jovenes-peruanos-menores-de-25-anos 
