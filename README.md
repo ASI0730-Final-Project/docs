@@ -2059,3 +2059,6 @@ https://github.com/ASI0730-Final-Project
 
 *Link Landing Page*
 https://asi0730-final-project.github.io/GigU-Landing/
+
+*Link aplicacion web deployada(Firebase)*
+https://gigu-3873a.web.app
