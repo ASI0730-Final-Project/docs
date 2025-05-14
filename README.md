@@ -1797,12 +1797,18 @@ Desarrollar y desplegar una landing page funcional que cumpla con todas las hist
 ![alt text](imgs/ImagenGithubGigU.PNG)
 
 ### Líderes de Aspecto y Colaboradores
-| Rol | Líder | Colaboradores |
-|------|--------|---------------|
-| Diseño UI/UX | Seijas Vásquez, Diego Antonio | Oblitas Davila, Mariano |
-| Desarrollo Frontend | Cacho Seminario, Diego Alonso | Solis Santa Cruz, Giancarlo |
-| Control de Calidad | Martinez Ramos, Bryan | Allcca Guerrero, Irving |
-| Documentación | Yauri Chocce, Renato | Todos los miembros |
+#####
+| Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Mariano Moises Oblitas Davila | MarianoOblitas | C | L | C |
+| Diego Alonso Cacho Seminario | Memesitos | C | C | C |
+| Bryan Felix Martinez Ramos | BryanMR1 | C | C | C |
+| Renato Yauri Chocce | JavierRog | C | C | C |
+| Diego Antonio Seijas Vásquez | NotSeijas |L | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | C | L |
+| Irving Washington Allcca Guerrero | Diegosaurio18 | C | C | C |
+
+##### 
 
 ### Sprint Backlog 1
 | ID Historia de Usuario | Descripción de Tarea | Estado | Asignado a | Horas Estimadas | Horas Reales |
@@ -1888,22 +1894,15 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 ##### 5.2.2.2. Aspect Leaders and Collaborators.
 
 #####
-| Rol | Líder | Colaboradores |
-| :---: | :---: | :---: |
-| Diseño UI/UX | Martinez Ramos, Bryan | Solis Santa Cruz, Giancarlo |
-| Desarrollo Frontend | Seijas Vásquez, Diego Antonio | Oblitas Davila, Mariano |
-| Control de Calidad | Allcca Guerrero, Irving | Yauri Chocce, Renato |
-| Documentación | Cacho Seminario, Diego Alonso | Todos los miembros |
-#####
-
-##### 
-
-| Rol | Líder | Colaboradores |
-| :---: | :---: | :---: |
-|  |  |  |
-|  |  |  |
-| Control de Calidad |  |  |
-| Documentación |  |  |
+| Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Mariano Moises Oblitas Davila | MarianoOblitas | C | L | C |
+| Diego Alonso Cacho Seminario | Memesitos | C | C | L |
+| Bryan Felix Martinez Ramos | BryanMR1 | C | C | C |
+| Renato Yauri Chocce | JavierRog | C | C | C |
+| Diego Antonio Seijas Vásquez | NotSeijas |L | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | C | C |
+| Irving Washington Allcca Guerrero | Diegosaurio18 | C | C | C |
 
 ##### 
 
