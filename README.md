@@ -1951,7 +1951,10 @@ Se evidencia el avance del segundo Sprint (Front End) por medio del siguiente li
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review 2\.
 
 Aquí se muestra la documentación de los servicios empleados. En esta ocasión, hemos utilizado servicios simulados (fake services) para desarrollar la interfaz frontal, simulando así los servicios finales de nuestro producto.
-Servicio de users
+
+Servicio de users:
+
+<img src="imgs/user-service.jpeg">
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review 2\.
 
