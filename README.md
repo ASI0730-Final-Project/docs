@@ -1938,7 +1938,7 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review 2\.
 
-Debido al desarrollo del Landing Page y del Front End Application dentro del Sprint 2, se omite esta sección para el presente avance del proyecto. En futuro desarrollo se brindará información con mayor detalle.
+
 
 ##### 
 
