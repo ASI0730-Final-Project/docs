@@ -1158,13 +1158,13 @@ CopiarEditar
 
 
 
-<img src="imgs/image1.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image1.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-<img src="imgs/image2.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image2.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-<img src="imgs/image3.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image3.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-<img src="imgs/image4.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image4.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
 #### **4.3.1. Landing Page Wireframe**
 
