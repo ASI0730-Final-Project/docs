@@ -1158,7 +1158,7 @@ CopiarEditar
 
 
 
-<img src="imgs/image1.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/Image1.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
 <img src="imgs/image2.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
@@ -1168,7 +1168,7 @@ CopiarEditar
 
 #### **4.3.1. Landing Page Wireframe**
 
-<img src="imgs/Image5.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgWireframe/main.png" alt="Main Page" title="Main Page"/>
 
 ### **4.3.2. Landing Page Mock-up**
 
