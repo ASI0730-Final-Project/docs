@@ -88,9 +88,9 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
   - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
   - [4.2.4. Searching Systems](#424-searching-systems)
   - [4.2.5. Navigation Systems](#425-navigation-systems)
-- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+- [4.3.  UI Design](#43-landing-page-ui-design)
+  - [4.3.1.  Wireframe](#431-landing-page-wireframe)
+  - [4.3.2.  Mock-up](#432-landing-page-mock-up)
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
   - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
@@ -113,7 +113,7 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
   - [5.1.2. Source Code Management](#512-source-code-management)
   - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+- [5.2. , Services & Applications Implementation](#52-landing-page-services--applications-implementation)
   - [5.2.1. Sprint 1](#521-sprint-1)
     - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
     - [5.2.1.2. Aspect Leaders and Collaboradores](#5212-aspect-leaders-and-collaboradores)
@@ -1158,13 +1158,13 @@ CopiarEditar
 
 
 
-<img src="imgs/Image1.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image1.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-<img src="imgs/Image2.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image2.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-<img src="imgs/Image3.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image3.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
-<img src="imgs/Image4.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image4.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
 #### **4.3.1. Landing Page Wireframe**
 
