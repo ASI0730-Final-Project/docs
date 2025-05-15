@@ -1172,7 +1172,7 @@ CopiarEditar
 
 ### **4.3.2. Landing Page Mock-up**
 
-<img src="imgs/Image6.jpg" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<img src="imgs/image3.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
 
  #### **4.4. Web Applications UX/UI Design.**
  #### **4.4.1. Web Applications Wireframes.**
