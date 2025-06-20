@@ -2188,7 +2188,7 @@ Con el objetivo de recolectar información de nuestros usuarios se realizaron un
 
 ##### **5.3.2. Registro de Entrevistas.**
 
-Video completo con las entrevistas:
+Video completo con las entrevistas: [Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Segmento objetivo #1: Estudiantes Universitarios Freelancers**  
 
