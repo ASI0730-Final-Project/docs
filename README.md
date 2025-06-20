@@ -2034,20 +2034,6 @@ El equipo realizó el front end por ramas con el objetivo de mejorar la organiza
 
   * Sprint Details.
     
-  * Sprint Overview
-
-  **Previous Sprint Summary:**
-  
-  **Sprint Goal:**
-
-  **Technical Specifications:**
-
-##### 5.2.3.2. Aspect Leaders and Collaborators.\.
-
-##### 5.2.3.3. Sprint Backlog 3.\.
-
-*  Sprint Details
-
 | Field | Value |
 | :---: | :---: |
 | Sprint Number | Sprint 3 |
@@ -2057,8 +2043,7 @@ El equipo realizó el front end por ramas con el objetivo de mejorar la organiza
 | Prepared By | GigU |
 | Attendees | Todos los miembros del equipo |
 
-* Sprint Overview
-
+  * Sprint Overview
 **Previous Sprint Summary:**  
 Para el Sprint 2, buscamos desarrollar y desplegar el frontend de nuestra aplicación teniendo en cuenta las historias de usuario anteriormente especificadas implementando además el uso de fake APIs.
 
@@ -2075,16 +2060,19 @@ Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando
 | Velocity | \# |
 | Total Story Points | \# |
 
-5.2.3.2. Aspect Leaders and Collaborators.
+##### 5.2.3.2. Aspect Leaders and Collaborators.\.
 
 ##### 
 
-| Rol | Líder | Colaboradores |
-| :---: | :---: | :---: |
-| Diseño UI/UX |  |  |
-| Desarrollo Backend |  |  |
-| Control de Calidad |  |  |
-| Documentación |  |  |
+| Team Member (Last Name, First Name) | GitHub Username | Diseño UI/UX Leader (L) / Collaborator (C) | Desarrollo Backend Leader (L) / Collaborator (C) | Control de Calidad Leader (L) / Collaborator (C) | Documentación Leader (L) / Collaborator (C) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Mariano Moises Oblitas Davila | MarianoOblitas | C | L | C | C |
+| Diego Alonso Cacho Seminario | Memesitos | C | C | C | L |
+| Bryan Felix Martinez Ramos | BryanMR1 | C | C | C | C |
+| Renato Yauri Chocce | JavierRog | C | C | C | C |
+| Diego Antonio Seijas Vásquez | NotSeijas | L | C | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | C | L | C |
+| Irving Washington Allcca Guerrero | Diegosaurio18 | C | C | C | C |
 
 ##### 
 
@@ -2104,29 +2092,29 @@ Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando
 
 **Requisitos técnicos:** Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger
 
-| Sprint \# | Sprint 3 |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| User Story |  | Work-Item / Task |  |  |  |
-| ID | Descripción de Tarea | Horas estimadas | Horas reales | Asignado a | Estado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
-| US\#\# |  |  |  |  | Completado |
+| Task ID | User Story | Description | Assigned To | Estimated Hours | Status | Epic |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| T01 | US46 | Sugerencia de Precio Inteligente | Mariano Moises Oblitas Davila | 15 | Completado | EP13 |
+| T02 | US42 | Enviar Mensaje a Usuario desde Perfil (Back end) | Diego Alonso Cacho Seminario | 10 | Completado | EP12 |
+| T03 | US34 | Visualizar Proyectos Activos | Bryan Felix Martinez Ramos | 12 | Completado | EP10 |
+| T04 | US24 | Añadir Imágenes o Archivos al Servicio | Renato Yauri Chocce | 15 | Completado | EP07 |
+| T05 | US23 | Pausar o Eliminar Servicios Publicados (Back end) | Diego Antonio Seijas Vásquez | 16 | Completado | EP07 |
+| T06 | US11 | Detalles sobre tipos de servicios | Giancarlo Rafael Solis Santa Cruz | 13 | Completado | EP04 |
+| T07 | US09 | Diferencias entre roles (freelancer / cliente) (Back end) | Irving Washington Allcca Guerrero | 12 | Completado | EP04 |
 
-##### 5.2.3.4. Development Evidence for Sprint Review.\.
+#####
+
+##### 5.2.3.4. Development Evidence for Sprint Review 3.\.
 
 Se evidencia la funcionalidad por medio del siguiente link:
 
-##### 5.2.3.5.  Execution Evidence for Sprint Review.\.
+##### 5.2.3.5.  Execution Evidence for Sprint Review 3.\.
 
 Se evidencia el avance del segundo Sprint (Front End) por medio del siguiente link:
 
-##### 5.2.3.6.  Services Documentation Evidence for Sprint Review.\.
+##### 5.2.3.6.  Services Documentation Evidence for Sprint Review 3.\.
 
-Aquí se muestra la documentación de 
+Aquí se muestra la documentación de.... 
 
 ##### 5.2.3.7.  Software Deployment Evidence for Sprint Review 3.\.
 
