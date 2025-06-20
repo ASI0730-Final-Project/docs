@@ -2029,6 +2029,230 @@ El equipo realizó el front end por ramas con el objetivo de mejorar la organiza
 <img src="imgs/NetworkCommitSprint2_doc.png">
 
 
+#### **5.2.3. Sprint 3**
+##### 5.2.3.1. Spring Planning 3\.
+
+  * Sprint Details.
+    
+  * Sprint Overview
+
+  **Previous Sprint Summary:**
+  
+  **Sprint Goal:**
+
+  **Technical Specifications:**
+
+##### 5.2.3.2. Aspect Leaders and Collaborators.\.
+
+##### 5.2.3.3. Sprint Backlog 3.\.
+
+**Objetivo:**
+
+**Alcance:**
+
+**Duración:** 14 de Mayo - 20 de Junio de 2025
+
+**Capacidad de equipo:** 120 horas totales - 7 integrantes
+
+**Requisitos técnicos:** Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger
+
+##### 5.2.3.4. Development Evidence for Sprint Review.\.
+
+Se evidencia la funcionalidad por medio del siguiente link:
+
+##### 5.2.3.5.  Execution Evidence for Sprint Review.\.
+
+Se evidencia el avance del segundo Sprint (Front End) por medio del siguiente link:
+
+##### 5.2.3.6.  Services Documentation Evidence for Sprint Review.\.
+
+Aquí se muestra la documentación de 
+
+##### 5.2.3.7.  Software Deployment Evidence for Sprint Review 3.\.
+
+Link de frontend web app: https://gigu-3873a.web.app
+Link de
+
+##### 5.2.3.8.  STeam Collaboration Insights during Sprint.\.
+
+El equipo realizó el back end por
+
+### **5.3. Validation Interviews.**
+##### **5.3.1. Diseño de entrevistas.**
+
+Con el objetivo de recolectar información de nuestros usuarios se realizaron una serie de entrevistas para verificar el rendimiento de la página web.
+
+**Segmento objetivo #1: Estudiantes Universitarios Freelancers**  
+
+**Preguntas personales:**
+  * ¿Cuál es tu nombre?
+  * ¿Cuántos años tienes?
+  * ¿Qué carrera estás estudiando y en qué ciclo te encuentras?
+  * ¿Qué tipo de servicio ofreces como freelancer?
+  * ¿Cuánto tiempo llevas como freelancer?
+
+**Preguntas principales:**
+  * ¿Nuestra página te pareció atractiva visualmente? ¿Por qué?
+  * ¿Crees que el diseño se siente moderno y profesional?
+  * ¿Pudiste entender fácilmente de qué trata la página?
+  * ¿Hubo algo que te confundió o te hizo dudar?
+  * ¿Sientes que la página responde a tus necesidades o intereses?
+  * ¿Hay algo que crees que debería agregarse o eliminarse?
+  * Como freelancer, ¿usarías la página?
+
+**Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance** 
+
+**Preguntas personales:**
+  * ¿Cuál es tu nombre?
+  * ¿Cuántos años tienes?
+  * ¿Cuántos años llevas como emprendedor?
+  * ¿A qué se dedica tu empresa?
+  * ¿Has contratado alguna vez a algún freelancer?
+
+**Preguntas principales:**
+  * ¿Qué opinas del diseño general de la página?
+  * ¿La página te inspira confianza para contratar freelancers?
+  * ¿La navegación te pareció clara y sencilla?
+  * ¿Qué parte de la página te pareció más útil o destacada?
+  * ¿Qué mejorarías o cambiarías en la página?
+  * ¿Crees que la información presentada es suficiente para tomar una decisión de contratación?
+  * ¿La recomendarías a otros emprendedores o personas que necesiten contratar freelancers?
+
+##### **5.3.2. Registro de Entrevistas.**
+
+Video completo con las entrevistas:
+
+**Segmento objetivo #1: Estudiantes Universitarios Freelancers**  
+
+Entrevistado N°1: Mario André Cacho Seminario
+
+
+
+  * Sexo: Masculino
+  * Edad: 22
+  * Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
+
+ Resumen:
+
+ Para Mario,
+
+
+ Entrevistado N°2: Werner Lang
+
+
+
+  * Sexo: Masculino
+  * Edad: 20
+  * Ubicación en la que vive: San Isidro
+
+Acerca de la entrevista:
+
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
+
+ Resumen:
+
+ Para Werner,
+
+
+ Entrevistado N°3: Bruno Sebastián Gamarra Torres
+
+  * Sexo: Masculino
+  * Edad: 23
+  * Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
+
+Resumen: 
+Bruno Sebastián Gamarra Torres,
+
+
+**Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance** 
+
+Entrevistada N°1: Yulia Estephania Martinez Martinez
+
+
+  * Sexo: Femenino
+  * Edad: 19
+  * Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
+
+Resumen: 
+Yulia,
+
+
+Entrevistada N°2: Janet Ramos Soto
+
+
+  * Sexo: Femenino
+  * Edad: 50
+  * Ubicación en la que vive: Villa el salvador
+
+Acerca de la entrevista:
+
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
+
+Resumen: 
+Janet,
+
+
+Entrevistada N°3: Fabrizio Morales Alarcón
+
+
+  * Sexo: Masculino
+  * Edad: 22
+  * Ubicación en la que vive: San Borja
+
+Acerca de la entrevista:
+
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
+
+Resumen: 
+Para Fabrizio,
+
+
+##### **5.3.3. Evaluaciones según heurísticas.**
+
+
+### **5.4. Video About-the-Product.**
+
+La presente sección incluye el video promocional que resume nuestro modelo de negocio, los beneficios del producto y sus características.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
 ## Conclusiones
 **- TB1:**
 **GigU atiende una necesidad concreta en el entorno universitario y emprendedor**, ofreciendo una solución que permite a los estudiantes monetizar sus habilidades mientras adquieren experiencia profesional en un entorno real. A la vez, brinda a los emprendedores y pequeños empresarios acceso a talento joven, creativo y accesible, que puede cubrir tareas específicas sin los altos costos de una agencia o empleados fijos.
@@ -2044,7 +2268,8 @@ Implementamos el uso de un FakeAPI dentro de nuestra página con el objetivo de 
 
 Empleo informal alcanza más del 85 % de jóvenes peruanos menores de. (2024, January 13). Radio Nacional. https://www.radionacional.gob.pe/noticias/economia/empleo-informal-alcanza-mas-del-85-de-jovenes-peruanos-menores-de-25-anos 
 
-Vista de Jóvenes universitarios que trabajan        | Revista Peruana de Investigación Educativa. (n.d.). https://revistas.siep.org.pe/index.php/RPIE/article/view/388/388#:~:text=En%20el%20Per%C3%BA%2C%20para%20el,Ministerio%20de%20Educaci%C3%B3n%2C%202020a). 
+Vista de Jóvenes universitarios que trabajan        | Revista Peruana de Investigación Educativa. (n.d.). https://revistas.siep.org.pe/index.php/RPIE/article/view/388/388#:~:text=En%20el%20Per%C3%BA%2C%20para%20el,Ministerio%20de%20Educaci%C3%B3n%2C%202020a).
+
 
 
 ## Anexos
