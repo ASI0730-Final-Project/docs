@@ -38,9 +38,8 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
 
 | Criterio específico                                                                                                                          | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Conclusiones                                                                                                                                                                                                                                                                                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                                                              | **Liderazgo distribuido:**<br/>- **Diego C** (U202223990) lideró la planificación del Sprint 1 (5.2.1.1)<br/>- **Mariano** (U202310222) coordinó el backlog del sprint (5.2.1.3)<br/>- **Giancarlo** (U202318615) documentó las colaboraciones (5.2.1.8)<br/>- **Bryan** (u202316246) generó evidencia de desarrollo (5.2.1.4)<br/>- **Seijas** (U202210167) documentó ejecución (5.2.1.5)<br/><br/>Liderazgo distribuido TB2:- Irving (U202213241) lideró mejoras en lógica y estética del Frontend.- Mariano (U202310222) impulsó el desarrollo base del Backend y coordinó entrevistas de validación.- Diego Seijas (U202210167) lideró la implementación del dominio Pull y la grabación del video.- Diego Cacho (U202223990) lideró el dominio Chat y evaluación de la interfaz.<br/><br/>**Coordinación general:**<br/>- Todos participaron como Aspect Leaders (5.2.1.2)<br/>- Reuniones diarias para seguimiento de avances<br/>- Uso de tablero Kanban compartido en GitHub Projects<br/>- Rotación de roles en reuniones semanales<br/><br/>Coordinación general:- Se mantuvieron reuniones frecuentes para seguimiento.- Roles técnicos asignados por dominio (Users, Chat, Gigs, Portfolio, Pull).- Documentación y planificación continua vía GitHub y Discord.
-                                                                 | El liderazgo rotativo demostró ser efectivo, permitiendo que cada miembro asuma roles de guía en sus áreas de expertise (UI/UX, Backend, Documentación). Esto fomentó la responsabilidad compartida. Se recomienda mantener esta dinámica pero con mayor documentación de decisiones clave para futuras referencias.                                                  |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos                                               | **Metodología de trabajo:**<br/>- Definición colectiva de objetivos en reunión inicial<br/>- Asignación de tareas según habilidades (#etiquetas en documentos)<br/>- Revisiones por pares antes de entregas<br/>- Calendarización compartida con hitos clave<br/><br/>Metodología de trabajo en TB2:- Redistribución de tareas por dominio técnico.- Pair programming y colaboración en entrevistas.- Diseño y ejecución de entrevistas de validación.- Participación activa en el diseño y testeo del producto.Aportes individuales destacados:- Giancarlo (U202318615) y Bryan (U202316246): diseño y avance en entrevistas.- Renato (U202317566): desarrollo del dominio Portfolio.- Diego Cacho: evaluación heurística y validación visual del Frontend. <br/><br/>**Herramientas colaborativas:**<br/>- Discord para comunicación constante (canales por temas)<br/>- GitHub para documentación colaborativa<br/>- Figma compartido para diseño UI/UX<br/>- Sesiones de pair programming en componentes críticos<br/><br/>**Ejecución TB1:**<br/>- **Irving** (U202213241) y **Bryan** colaboraron en entrevistas (2.2)<br/>- **Mariano** y **Diego C** coordinaron diseño web (4.4)<br/>- **Renato** (U202317566) apoyó en configuración inicial (5.1)<br/><br/>Herramientas utilizadas:- GitHub, Discord, Figma, y herramientas de grabación de video. | El ambiente inclusivo permitió integrar diversas perspectivas en el diseño de la solución. La planificación fue efectiva pero se identificó que los plazos podrían mejorarse con una distribución más equilibrada de cargas de trabajo. La comunicación constante mediante Discord fue clave para mantener la inclusión y colaboración entre todos los integrantes. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                                                              | **Liderazgo distribuido:**<br/>- **Diego C** (U202223990) lideró la planificación del Sprint 1 (5.2.1.1)<br/>- **Mariano** (U202310222) coordinó el backlog del sprint (5.2.1.3)<br/>- **Giancarlo** (U202318615) documentó las colaboraciones (5.2.1.8)<br/>- **Bryan** (u202316246) generó evidencia de desarrollo (5.2.1.4)<br/>- **Seijas** (U202210167) documentó ejecución (5.2.1.5)<br/><br/>**Coordinación general:**<br/>- Todos participaron como Aspect Leaders (5.2.1.2)<br/>- Reuniones diarias para seguimiento de avances<br/>- Uso de tablero Kanban compartido en GitHub Projects<br/>- Rotación de roles en reuniones semanales                                                                 | El liderazgo rotativo demostró ser efectivo, permitiendo que cada miembro asuma roles de guía en sus áreas de expertise (UI/UX, Backend, Documentación). Esto fomentó la responsabilidad compartida. Se recomienda mantener esta dinámica pero con mayor documentación de decisiones clave para futuras referencias.                                                  |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos                                               | **Metodología de trabajo:**<br/>- Definición colectiva de objetivos en reunión inicial<br/>- Asignación de tareas según habilidades (#etiquetas en documentos)<br/>- Revisiones por pares antes de entregas<br/>- Calendarización compartida con hitos clave<br/><br/>**Herramientas colaborativas:**<br/>- Discord para comunicación constante (canales por temas)<br/>- GitHub para documentación colaborativa<br/>- Figma compartido para diseño UI/UX<br/>- Sesiones de pair programming en componentes críticos<br/><br/>**Ejecución TB1:**<br/>- **Irving** (U202213241) y **Bryan** colaboraron en entrevistas (2.2)<br/>- **Mariano** y **Diego C** coordinaron diseño web (4.4)<br/>- **Renato** (U202317566) apoyó en configuración inicial (5.1) | El ambiente inclusivo permitió integrar diversas perspectivas en el diseño de la solución. La planificación fue efectiva pero se identificó que los plazos podrían mejorarse con una distribución más equilibrada de cargas de trabajo. La comunicación constante mediante Discord fue clave para mantener la inclusión y colaboración entre todos los integrantes. |
 
 ### Tabla de Contenidos
 
@@ -1892,7 +1891,7 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 
 ##### 5.2.2.1. Sprint Planning 2\.
 
-##### 
+ 
 
 *  Sprint Details
 
@@ -1925,7 +1924,7 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators.
 
-#####
+
 | Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
 | :---- | :---- | :---- | :---- | :---- |
 | Mariano Moises Oblitas Davila | MarianoOblitas | C | L | C |
@@ -1936,7 +1935,7 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 | Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | C | C |
 | Irving Washington Allcca Guerrero | Diegosaurio18 | C | C | C |
 
-##### 
+ 
 
 ##### 5.2.2.3. Sprint Backlog 2\.
 
@@ -1970,22 +1969,18 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 
 ---
 
-##### 
+ 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review 2\.
 
 Se evidencia la funcionalidad por medio del siguiente link: https://drive.google.com/drive/folders/1NrkH2ayB4qU-eCF1u6Z2NhzptuG3ecv8?usp=sharing
-
-
-
-
-##### 
+ 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review 2\.
 
 Se evidencia el avance del segundo Sprint (Front End) por medio del siguiente link: https://drive.google.com/drive/folders/1TL6bSnb1KhhZmNsHx1sYCbuYTvyv_TtS?usp=sharing
 
-##### 
+ 
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review 2\.
 
@@ -1999,7 +1994,7 @@ Servicio de users:
 
 Link de frontend web app: https://gigu-3873a.web.app 
 
-##### 
+ 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint 2\.
 El equipo realizó el front end por ramas con el objetivo de mejorar la organización del código y el desarrollo individual de las historias de usuario. Al finalizar con el sprint, se realizó el despliegue de la aplicación. Se presenta el siguiente insight.
@@ -2047,8 +2042,7 @@ Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando
 | Total Story Points | \# |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.\.
-
-##### 
+ 
 
 | Team Member (Last Name, First Name) | GitHub Username | Diseño UI/UX Leader (L) / Collaborator (C) | Desarrollo Backend Leader (L) / Collaborator (C) | Control de Calidad Leader (L) / Collaborator (C) | Documentación Leader (L) / Collaborator (C) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -2060,9 +2054,7 @@ Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando
 | Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | C | C | L | C |
 | Irving Washington Allcca Guerrero | Diegosaurio18 | C | C | C | C |
 
-##### 
-
-5.2.3.3. Sprint Backlog 3\.
+##### 5.2.3.3. Sprint Backlog 3\.
 
 **Objetivo:** Realizar el backend de nuestra aplicación realizando diversos endpoints y conectarlos hacia una base de datos.
 
@@ -2088,7 +2080,7 @@ Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando
 | T06 | US11 | Detalles sobre tipos de servicios | Giancarlo Rafael Solis Santa Cruz | 13 | Completado | EP04 |
 | T07 | US09 | Diferencias entre roles (freelancer / cliente) (Back end) | Irving Washington Allcca Guerrero | 12 | Completado | EP04 |
 
-#####
+
 
 ##### 5.2.3.4. Development Evidence for Sprint Review 3.\.
 
@@ -2196,8 +2188,7 @@ Con el objetivo de recolectar información de nuestros usuarios se realizaron un
 
 ##### **5.3.2. Registro de Entrevistas.**
 
-Video completo con las entrevistas: [Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
+Video completo con las entrevistas:
 
 **Segmento objetivo #1: Estudiantes Universitarios Freelancers**  
 
@@ -2211,7 +2202,7 @@ Entrevistado N°1: Mario André Cacho Seminario
 
 Acerca de la entrevista:
 
-* Link: [Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990\_upc\_edu\_pe/EbxaK-FoFGRNhZfZwCqcQRsBLuZ\_sgnuJ3xLZC1OZzfhNw?e=fcDKJU](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbxaK-FoFGRNhZfZwCqcQRsBLuZ_sgnuJ3xLZC1OZzfhNw?e=fcDKJU)   
 * Instante en el que inicia: 0:10  
 * Duración: 4:48
 
@@ -2230,56 +2221,35 @@ Para Mario, la página parece ayudarle en sus proyectos como freelancer, conside
 
 Acerca de la entrevista:
 
-  * Link: [Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-  * Instante en el que inicia: 4:49
-  * Duración: 5:10
+  * Link:
+  * Instante en el que inicia:
+  * Duración:5:10
 
  Resumen:
 
  Para Enrique,mencionó que le gustó la aplicación por la adecuada selección de colores, ya que facilitó su comprensión y entendimiento del funcionamiento. Comentó que, por el momento, no considera necesarias mejoras, pues con lo básico le resulta suficiente para desarrollarse en este campo. Además, destacó que la aplicación le permite ofrecer sus servicios como editor sin inconvenientes, y que la funcionalidad de pagos fue beneficiosa y no presentó ningún problema.
 
 
+ Entrevistado N°3: Bruno Sebastián Gamarra Torres
+
+  * Sexo: Masculino
+  * Edad: 23
+  * Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
+
+Resumen: 
+Bruno Sebastián Gamarra Torres,
+
 
 **Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance** 
 
-Entrevistado N°1: Ciro Torbisco
+Entrevistada N°1: Yulia Estephania Martinez Martinez
 
-<img src="imgs/Ciro_E.png">
-
-  * Sexo: Masculino
-  * Edad: 22
-  * Ubicación en la que vive: San Borja
-
-Acerca de la entrevista:
-
-  * Link:[Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-  * Instante en el que inicia: 10:00 
-  * Duración: 6:10 
-
-Resumen: 
-Para Ciro la página es una idea muy interesante, además de que puede apoyar mucho más a emprendedores con gran capital que requieran un servicio más profesionalizado, le gusta ya que la aplicación sea directa lo cual le brinda confianza al momento contratar un freelancer. 
-
-
-Entrevistada N°2: Fabrizio Morales Alarcón
-
-<img src="imgs/Fabrizio_E.png">
-
-  * Sexo: Masculino
-  * Edad: 25
-  * Ubicación en la que vive: San Borja
-
-Acerca de la entrevista:
-
-  * Link:[Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-  * Instante en el que inicia: 16:11 
-  * Duración: 5:35 
-
-Resumen: 
-Para Fabrizio la página está muy balanceada y dinámica, además de que puede encontrar con facilidad lo que busca lo cual lo hace sentir que es una página profesional y le da confianza para contratar servicios.
-
-Entrevistada N°3: Yulia Estephania Martinez Martinez
-
-<img src="imgs/Yulia_E.png">
 
   * Sexo: Femenino
   * Edad: 19
@@ -2287,12 +2257,29 @@ Entrevistada N°3: Yulia Estephania Martinez Martinez
 
 Acerca de la entrevista:
 
-  * Link:[Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-  * Instante en el que inicia: 21:47
-  * Duración: 6:24
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
 
-Resumen:
-Para Yulia le gusto el diseño ya que se siente intuitiva y fácil de navegar en la página, además de que las funcionalidades como el chat que le permite tener una charla previa con el freelancer le inspira confianza tanto en la página como el freelancer.
+Resumen: 
+Yulia,
+
+
+Entrevistada N°2: Fabrizio Morales Alarcón
+
+
+  * Sexo: Masculino
+  * Edad: 22
+  * Ubicación en la que vive: San Borja
+
+Acerca de la entrevista:
+
+  * Link:
+  * Instante en el que inicia:
+  * Duración:
+
+Resumen: 
+Para Fabrizio,
 
 
 ##### **5.3.3. Evaluaciones según heurísticas.**
@@ -2403,11 +2390,11 @@ Habilitar estos botones para que muestren la información necesaria o eliminarlo
 
 ### **5.4. Video About-the-Product.**
 
-La presente sección incluye el video promocional que resume nuestro modelo de negocio, los beneficios del producto y sus características.
+El siguiente link corresponde al video promocional que resume nuestro modelo de negocio, los beneficios del producto y sus características.
 
 
 
-
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310222_upc_edu_pe/ETWOnCw8v9hJkQClwVU_1MABNC1EgU-niEKYL8Dzh8yzcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DO3TRb
 
 
 
@@ -2465,3 +2452,12 @@ https://asi0730-final-project.github.io/GigU-Landing/
 
 *Link aplicacion web deployada(Firebase)*
 https://gigu-3873a.web.app
+
+*Link aplicacion web deployada-backend(Azure)*
+https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html
+
+*Link respectia de la database*
+https://www.freesqldatabase.com/account/
+
+*Link about the product*
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310222_upc_edu_pe/ETWOnCw8v9hJkQClwVU_1MABNC1EgU-niEKYL8Dzh8yzcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DO3TRb
