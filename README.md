@@ -2203,21 +2203,21 @@ Video completo con las entrevistas:
 
 Entrevistado N°1: Mario André Cacho Seminario
 
+<img src="imgs/Entrevista_Mario2.png">
 
-
-  * Sexo: Masculino
-  * Edad: 22
-  * Ubicación en la que vive: Surco
+* Sexo: Masculino  
+* Edad: 22  
+* Ubicación en la que vive: Surco
 
 Acerca de la entrevista:
 
-  * Link:
-  * Instante en el que inicia:
-  * Duración:
+* Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990\_upc\_edu\_pe/EbxaK-FoFGRNhZfZwCqcQRsBLuZ\_sgnuJ3xLZC1OZzfhNw?e=fcDKJU](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbxaK-FoFGRNhZfZwCqcQRsBLuZ_sgnuJ3xLZC1OZzfhNw?e=fcDKJU)   
+* Instante en el que inicia: 0:10  
+* Duración: 4:48
 
- Resumen:
+Resumen:
 
- Para Mario,
+Para Mario, la página parece ayudarle en sus proyectos como freelancer, considera que los colores y el diseño es atractivo y moderno y le agrada bastante la posibilidad de calcular el precio en base a la actividad y puntos que se registran en ella. Por último le gustaría ver una personalización un poco más detallada de los servicios que brinda con el objetivo de llamar un poco más la atención de ciertas empresas.
 
 
  Entrevistado N°2: Werner Lang
