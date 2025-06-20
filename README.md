@@ -123,6 +123,30 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+- [5.2.2. Sprint 2](#522-sprint-2)
+  - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+  - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+  - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+  - [5.2.2.4. Development Evidence for Sprint Review 2](#5224-development-evidence-for-sprint-review-2)
+  - [5.2.2.5. Execution Evidence for Sprint Review 2](#5225-execution-evidence-for-sprint-review-2)
+  - [5.2.2.6. Services Documentation Evidence for Sprint Review 2](#5226-services-documentation-evidence-for-sprint-review-2)
+  - [5.2.2.7. Software Deployment Evidence for Sprint Review 2](#5227-software-deployment-evidence-for-sprint-review-2)
+  - [5.2.2.8. Team Collaboration Insights during Sprint 2](#5228-team-collaboration-insights-during-sprint-2)
+- [5.2.3. Sprint 3](#523-sprint-3)
+  - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+  - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+  - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+  - [5.2.3.4. Development Evidence for Sprint Review 3](#5234-development-evidence-for-sprint-review-3)
+  - [5.2.3.5. Execution Evidence for Sprint Review 3](#5235-execution-evidence-for-sprint-review-3)
+  - [5.2.3.6. Services Documentation Evidence for Sprint Review 3](#5236-services-documentation-evidence-for-sprint-review-3)
+  - [5.2.3.7. Software Deployment Evidence for Sprint Review 3](#5237-software-deployment-evidence-for-sprint-review-3)
+  - [5.2.3.8. Team Collaboration Insights during Sprint 3](#5238-team-collaboration-insights-during-sprint-3)
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product](#54-video-about-the-product)
+
 
 # Capítulo I: Introducción
 
@@ -501,48 +525,9 @@ Para Mario, ofrecer servicios como freelancer en la creación de videos de marke
 
 
 <b><u>Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance</u></b>
+ 
 
-Entrevistado N°1: Janet Ramos Soto
-
-<img src="imgs/Entrevista_Janet.png" alt="Entrevista_Janet" title="Entrevista_Janet"/>
-
-* Sexo: Femenino  
-* Edad: 50  
-* Ubicación en la que vive: Villa El Salvador  
-
-**Acerca de la entrevista:**
-
-* Instante en el que inicia: 13:30 segundos  
-* Duración: 19:40 minutos  
-
-**Resumen:** Janet es una emprendedora de tienda de zapatillas la cual debido a su crecimiento tuvo un incremento considerable de tareas, lo cual llevó a que durante algún momento buscara un trabajador freelance para disminuir su trabajo.  
-
-**Canales actuales para buscar freelancer:**  
-Nos comenta que únicamente ha contratado freelancer por medio de la plataforma fiverr  
-
-**Criterios para confiar en un freelancer:**  
-* Comentarios de los clientes sobre proyectos pasados  
-* Portafolio o muestra de trabajos pasados  
-* Tiempo de experiencia como trabajador freelancer  
-
-Ella misma prefiere gestionar el proceso del pago ya que debido a su edad no se le da bien el pago de los proyectos.  
-
-**Motivos para descartar a un freelancer:**  
-* Mala reputación como trabajador  
-* Poco tiempo de experiencia  
-* Poco interés/compromiso en el proyecto  
-
-**Características deseadas en una plataforma freelance:**  
-* Detalles claros en la plataforma  
-* Costos del proyecto detallado  
-* Acceso a la información y comentarios del freelancer  
-
-Ella prefiere no negociar ya que siente que si el proyecto que solicita al freelancer es complejo y está muy bien hecho pagaría lo cobrado por el freelancer o la plataforma  
-
-**Factores de decisión:**  
-Considera lo más determinante la opinión de otros usuarios sobre la experiencia trabajando con el freelancer.  
-
-Entrevistada N°2: Yulia Estephania Martinez Martinez
+Entrevistada N°1: Yulia Estephania Martinez Martinez
 
 
 <img src="imgs/Entrevista_Yulia.PNG" alt="Entrevista_Yulia" title="Entrevista_Yulia"/>
@@ -599,7 +584,7 @@ Prefiere negociar dentro de un rango, ya que no tiene claridad sobre cuánto val
 Factores de decisión:  
 El portafolio es el factor más determinante, seguido del precio. Un trabajo que la impacte positivamente la hace más flexible al pagar.  
 
-Entrevistado N°3: Fabrizio Morales
+Entrevistado N°2: Fabrizio Morales
 
 <img src="imgs/entrevista3-segmento2.png" alt="Entrevista_Fabrizio" title="Entrevista_Fabrizio"/>
 
@@ -2262,24 +2247,7 @@ Resumen:
 Yulia,
 
 
-Entrevistada N°2: Janet Ramos Soto
-
-
-  * Sexo: Femenino
-  * Edad: 50
-  * Ubicación en la que vive: Villa el salvador
-
-Acerca de la entrevista:
-
-  * Link:
-  * Instante en el que inicia:
-  * Duración:
-
-Resumen: 
-Janet,
-
-
-Entrevistada N°3: Fabrizio Morales Alarcón
+Entrevistada N°2: Fabrizio Morales Alarcón
 
 
   * Sexo: Masculino
