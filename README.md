@@ -2106,15 +2106,32 @@ Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando
 
 ##### 5.2.3.4. Development Evidence for Sprint Review 3.\.
 
-Se evidencia la funcionalidad por medio del siguiente link:
+Se evidencia la funcionalidad por medio del siguiente link: https://github.com/ASI0730-Final-Project/backend
 
 ##### 5.2.3.5.  Execution Evidence for Sprint Review 3.\.
 
-Se evidencia el avance del segundo Sprint (Front End) por medio del siguiente link:
+Se evidencia el avance del tercer Sprint (Back End) por medio del siguiente link: https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html
 
 ##### 5.2.3.6.  Services Documentation Evidence for Sprint Review 3.\.
 
-Aquí se muestra la documentación de.... 
+Aquí se muestra la documentación de el deployment y execution.
+![SqlFreeDatabase Creation](imgs/SQLfree.JPG)
+
+![Db Creation In MySQL](<imgs/DB CONECTION.JPG>)
+
+![Creacion de Tablas en SQL](imgs/SQL.JPG)
+
+![Conection string en backend](imgs/CONECCTION.JPG)
+
+![Azure Project view](imgs/AzureProyect.JPG)
+
+![Azure Conection](imgs/AzureConections.JPG)
+
+![Creacion de las acciones en github](imgs/ActionCreatrionYarn.JPG)
+
+![Listener Execution in GitHub](imgs/ListenerImageExecution.JPG)
+
+![AzureServer Execution Swagger](imgs/Execution.JPG)
 
 ##### 5.2.3.7.  Software Deployment Evidence for Sprint Review 3.\.
 
