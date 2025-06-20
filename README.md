@@ -2195,7 +2195,8 @@ Con el objetivo de recolectar información de nuestros usuarios se realizaron un
 
 ##### **5.3.2. Registro de Entrevistas.**
 
-Video completo con las entrevistas:
+Video completo con las entrevistas: [Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 **Segmento objetivo #1: Estudiantes Universitarios Freelancers**  
 
@@ -2209,7 +2210,7 @@ Entrevistado N°1: Mario André Cacho Seminario
 
 Acerca de la entrevista:
 
-* Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990\_upc\_edu\_pe/EbxaK-FoFGRNhZfZwCqcQRsBLuZ\_sgnuJ3xLZC1OZzfhNw?e=fcDKJU](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbxaK-FoFGRNhZfZwCqcQRsBLuZ_sgnuJ3xLZC1OZzfhNw?e=fcDKJU)   
+* Link: [Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Instante en el que inicia: 0:10  
 * Duración: 4:48
 
@@ -2228,51 +2229,19 @@ Para Mario, la página parece ayudarle en sus proyectos como freelancer, conside
 
 Acerca de la entrevista:
 
-  * Link:
-  * Instante en el que inicia:
-  * Duración:5:10
+  * Link: [Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  * Instante en el que inicia: 4:49
+  * Duración: 5:10
 
  Resumen:
 
  Para Enrique,mencionó que le gustó la aplicación por la adecuada selección de colores, ya que facilitó su comprensión y entendimiento del funcionamiento. Comentó que, por el momento, no considera necesarias mejoras, pues con lo básico le resulta suficiente para desarrollarse en este campo. Además, destacó que la aplicación le permite ofrecer sus servicios como editor sin inconvenientes, y que la funcionalidad de pagos fue beneficiosa y no presentó ningún problema.
 
 
- Entrevistado N°3: Bruno Sebastián Gamarra Torres
-
-  * Sexo: Masculino
-  * Edad: 23
-  * Ubicación en la que vive: Surco
-
-Acerca de la entrevista:
-
-  * Link:
-  * Instante en el que inicia:
-  * Duración:
-
-Resumen: 
-Bruno Sebastián Gamarra Torres,
-
 
 **Segmento objetivo #2: Personas y Emprendimientos que buscan contratar servicios freelance** 
 
-Entrevistada N°1: Yulia Estephania Martinez Martinez
-
-
-  * Sexo: Femenino
-  * Edad: 19
-  * Ubicación en la que vive: Surco
-
-Acerca de la entrevista:
-
-  * Link:
-  * Instante en el que inicia:
-  * Duración:
-
-Resumen: 
-Yulia,
-
-
-Entrevistada N°2: Fabrizio Morales Alarcón
+Entrevistado N°1: Ciro Torbisco
 
 
   * Sexo: Masculino
@@ -2281,12 +2250,44 @@ Entrevistada N°2: Fabrizio Morales Alarcón
 
 Acerca de la entrevista:
 
-  * Link:
-  * Instante en el que inicia:
-  * Duración:
+  * Link:[Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  * Instante en el que inicia: 10:00 
+  * Duración: 6:10 
 
 Resumen: 
-Para Fabrizio,
+Para Ciro la página es una idea muy interesante, además de que puede apoyar mucho más a emprendedores con gran capital que requieran un servicio más profesionalizado, le gusta ya que la aplicación sea directa lo cual le brinda confianza al momento contratar un freelancer. 
+
+
+Entrevistada N°2: Fabrizio Morales Alarcón
+
+
+  * Sexo: Masculino
+  * Edad: 25
+  * Ubicación en la que vive: San Borja
+
+Acerca de la entrevista:
+
+  * Link:[Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  * Instante en el que inicia: 16:11 
+  * Duración: 5:35 
+
+Resumen: 
+Para Fabrizio la página está muy balanceada y dinámica, además de que puede encontrar con facilidad lo que busca lo cual lo hace sentir que es una página profesional y le da confianza para contratar servicios.
+
+Entrevistada N°3: Yulia Estephania Martinez Martinez
+
+  * Sexo: Femenino
+  * Edad: 19
+  * Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+  * Link:[Ver video de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316246_upc_edu_pe/ES8sterK-ilHpaXHHNZeqWoBC4_yGYa9T_ETHo2f8GiO9Q?e=RvBwOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  * Instante en el que inicia: 21:47
+  * Duración: 6:24
+
+Resumen:
+Para Yulia le gusto el diseño ya que se siente intuitiva y fácil de navegar en la página, además de que las funcionalidades como el chat que le permite tener una charla previa con el freelancer le inspira confianza tanto en la página como el freelancer.
 
 
 ##### **5.3.3. Evaluaciones según heurísticas.**
