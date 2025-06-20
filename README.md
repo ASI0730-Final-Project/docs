@@ -2097,6 +2097,14 @@ Se evidencia la funcionalidad por medio del siguiente link: https://github.com/A
 
 Se evidencia el avance del tercer Sprint (Back End) por medio del siguiente link: https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html
 
+<img src="imgs/ExecutionEvidenceSprint3-1.png">
+
+<img src="imgs/ExecutionEvidenceSprint3-2.png">
+
+<img src="imgs/ExecutionEvidenceSprint3-3.png">
+
+<img src="imgs/ExecutionEvidenceSprint3-4.png">
+
 ##### 5.2.3.6.  Services Documentation Evidence for Sprint Review 3.\.
 
 Aquí se muestra la documentación de el deployment y execution.
