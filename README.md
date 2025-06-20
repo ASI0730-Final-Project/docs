@@ -2121,26 +2121,26 @@ Aquí se muestra la documentación de....
 Link de frontend web app: https://gigu-3873a.web.app
 Link de
 
-##### 5.2.3.8.  STeam Collaboration Insights during Sprint.\.
+##### 5.2.3.8.  Team Collaboration Insights during Sprint.\.
 El equipo realizó el back end actualizando la rama principal. Al finalizar el sprint, se realizó el despliegue de la aplicación. Se presenta ele siguiente insight.
 
 *Front End*  
-IMG DE INSIGHTS
+<img src="imgs/frontend-insight2.png">
 
 *Network graph (Front End)*  
-IMG DE NETWORK GRAPH
+<img src="imgs/networkgraph-2.png">
 
 *Back End*  
-IMG DE INSIGHTS
+<img src="imgs/insight-backend2.png">
 
 *Network graph (Back End)*  
-IMG DE NETWORK GRAPH
+<img src="imgs/networkgraph-2.png">
 
 *README*  
-IMG DE README
+<img src="imgs/readme-insight2.png">
 
 *Network graph (README)*  
-IMG DE NETWORK GRAPH
+<img src="imgs/networkgraph-readme2.png">
 
 ### **5.3. Validation Interviews.**
 ##### **5.3.1. Diseño de entrevistas.**
@@ -2208,23 +2208,23 @@ Resumen:
 Para Mario, la página parece ayudarle en sus proyectos como freelancer, considera que los colores y el diseño es atractivo y moderno y le agrada bastante la posibilidad de calcular el precio en base a la actividad y puntos que se registran en ella. Por último le gustaría ver una personalización un poco más detallada de los servicios que brinda con el objetivo de llamar un poco más la atención de ciertas empresas.
 
 
- Entrevistado N°2: Werner Lang
+ Entrevistado N°2: Enrique Gonzales
 
-
+<img src="imgs/entrevista-Enrique.png">
 
   * Sexo: Masculino
-  * Edad: 20
-  * Ubicación en la que vive: San Isidro
+  * Edad: 23
+  * Ubicación en la que vive: San Miguel
 
 Acerca de la entrevista:
 
   * Link:
   * Instante en el que inicia:
-  * Duración:
+  * Duración:5:10
 
  Resumen:
 
- Para Werner,
+ Para Enrique,mencionó que le gustó la aplicación por la adecuada selección de colores, ya que facilitó su comprensión y entendimiento del funcionamiento. Comentó que, por el momento, no considera necesarias mejoras, pues con lo básico le resulta suficiente para desarrollarse en este campo. Además, destacó que la aplicación le permite ofrecer sus servicios como editor sin inconvenientes, y que la funcionalidad de pagos fue beneficiosa y no presentó ningún problema.
 
 
  Entrevistado N°3: Bruno Sebastián Gamarra Torres
