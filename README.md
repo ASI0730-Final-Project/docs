@@ -2046,15 +2046,75 @@ El equipo realizó el front end por ramas con el objetivo de mejorar la organiza
 
 ##### 5.2.3.3. Sprint Backlog 3.\.
 
-**Objetivo:**
+*  Sprint Details
+
+| Field | Value |
+| :---: | :---: |
+| Sprint Number | Sprint 3 |
+| Date | 10 de Junio de 2025 |
+| Time | 04:30 PM |
+| Location | Modalidad remota |
+| Prepared By | GigU |
+| Attendees | Todos los miembros del equipo |
+
+* Sprint Overview
+
+**Previous Sprint Summary:**  
+Para el Sprint 2, buscamos desarrollar y desplegar el frontend de nuestra aplicación teniendo en cuenta las historias de usuario anteriormente especificadas implementando además el uso de fake APIs.
+
+**Sprint Goal:**  
+Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando diversos endpoints y conectarlos hacia una base de datos.
+
+**Technical Specifications:**
+
+| Aspect | Details |
+| :---: | :---: |
+| Duration | 14 de Mayo \- 20 de Junio de 2025 |
+| Team Capacity | 120 horas totales |
+| Tech Stack | Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger |
+| Velocity | \# |
+| Total Story Points | \# |
+
+5.2.3.2. Aspect Leaders and Collaborators.
+
+##### 
+
+| Rol | Líder | Colaboradores |
+| :---: | :---: | :---: |
+| Diseño UI/UX |  |  |
+| Desarrollo Backend |  |  |
+| Control de Calidad |  |  |
+| Documentación |  |  |
+
+##### 
+
+5.2.3.3. Sprint Backlog 3\.
+
+**Objetivo:** Realizar el backend de nuestra aplicación realizando diversos endpoints y conectarlos hacia una base de datos.
 
 **Alcance:**
 
-**Duración:** 14 de Mayo - 20 de Junio de 2025
+* Implementar endpoints que satisfagan el uso de nuestra aplicación  
+* Conectar nuestro proyecto con una base de datos en tiempo real  
+* Corregir la organización de nuestro proyecto
 
-**Capacidad de equipo:** 120 horas totales - 7 integrantes
+**Duración:** 14 de Mayo \- 20 de Junio de 2025
+
+**Capacidad de equipo:** 120 horas totales \- 7 integrantes
 
 **Requisitos técnicos:** Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger
+
+| Sprint \# | Sprint 3 |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |
+| ID | Descripción de Tarea | Horas estimadas | Horas reales | Asignado a | Estado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
+| US\#\# |  |  |  |  | Completado |
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.\.
 
@@ -2074,8 +2134,25 @@ Link de frontend web app: https://gigu-3873a.web.app
 Link de
 
 ##### 5.2.3.8.  STeam Collaboration Insights during Sprint.\.
+El equipo realizó el back end actualizando la rama principal. Al finalizar el sprint, se realizó el despliegue de la aplicación. Se presenta ele siguiente insight.
 
-El equipo realizó el back end por
+*Front End*  
+IMG DE INSIGHTS
+
+*Network graph (Front End)*  
+IMG DE NETWORK GRAPH
+
+*Back End*  
+IMG DE INSIGHTS
+
+*Network graph (Back End)*  
+IMG DE NETWORK GRAPH
+
+*README*  
+IMG DE README
+
+*Network graph (README)*  
+IMG DE NETWORK GRAPH
 
 ### **5.3. Validation Interviews.**
 ##### **5.3.1. Diseño de entrevistas.**
@@ -2232,6 +2309,109 @@ Para Fabrizio,
 
 
 ##### **5.3.3. Evaluaciones según heurísticas.**
+**SITE o APP A EVALUAR:** GIG U
+
+**TAREAS A EVALUAR:**  
+El alcance de la siguiente evaluación presenta la revisión de la usabilidad de las presentes tareas:
+
+1. Registro de nuevo usuario  
+2. Navegación de usuario  
+3. Create Gig (visión freelancer)  
+4. My Orders (visión emprendimiento)  
+5. Pestaña de gigs disponibles
+
+No están incluidas en esta versión de evaluaciones las siguientes tareas:
+
+1. Métodos de pago  
+2. Soporte  
+3. Sección de mensajes
+
+**ESCALA DE SEVERIDAD**  
+Se presenta una lista de puntuación para la calificación de las tareas.
+
+| Nivel | Descripción |
+| ----- | :---- |
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN**
+
+| \# | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :---: | ----- | :---: | ----- |
+| **1** | En la página de registro de usuario, al seleccionar una imagen como foto de perfil usando la opción de “Profile Image” el registro de usuario no se puede completar. | 2 | Information Architecture: Is it usable? |
+| **2** | En la página de inicio, el botón de cambiar de idioma se encuentra en una posición muy alejada. | 1 | Aesthetic and minimalist design. |
+| **3** | En la vista de freelancer, al seleccionar la categoría y/o subcategoría, el despliegue de opciones solo muestra la opción de “Select a Category” y “Select a Subcategory” respectivamente. | 2 | Information Architecture: Is it usable? |
+| **4** | El botón de “My Orders” en la vista del Buyer no cambia de página al ser presionado. | 4 | Information Architecture: Is it usable? |
+| **5** | En pestaña de gigs disponibles, al interactuar con una de ellas los botones de la parte superior que tienen el overview, la  descripción, el about the seller, el compare packages, el recommendations y el reviews no funciona correctamente. | 2 | Information Architecture: Is it usable? |
+
+**DESCRIPCIÓN DE PROBLEMAS**
+
+PROBLEMA 1: En la página de registro de usuario, al seleccionar una imagen como foto de perfil usando la opción de “Profile Image” el registro de usuario no se puede completar.
+
+Severidad: 2  
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:  
+Al ingresar a la página de registro de usuario, cuando se selecciona una imagen de nuestro dispositivo utilizando la opción de “Profile Image” el registro de usuario no se llega a terminar, lo que nos brinda un error de registro fallido.
+
+<img src="imgs/ProblemaHeu1.png" alt="ProblemaHeu1" title="ProblemaHeu1"/>
+
+Recomendación:  
+Permitir al usuario colocar una imagen de perfil al registrarse.
+
+PROBLEMA 2: En la página de inicio, el botón de cambiar de idioma se encuentra en una posición muy alejada.
+
+Severidad: 1  
+Heurística violada: Aesthetic and minimalist design.
+
+Problema:  
+Al ingresar a la aplicación y encontrarnos en la página de inicio, cuando se busca el botón para cambiar de idioma este es difícil de encontrar ya que se encuentra en la parte inferior del final de la página de inicio.
+
+<img src="imgs/ProblemaHeu2.png" alt="ProblemaHeu2" title="ProblemaHeu2"/>
+
+Recomendación:  
+Brindar la opción de cambiar de idioma en la parte superior de la pantalla o brindarle la posibilidad al usuario de cambiar el idioma en cualquier momento con un botón que sigue la pantalla a medida que esta sube o baja.
+
+PROBLEMA 3: En la vista de freelancer, al seleccionar la categoría y/o subcategoría, el despliegue de opciones solo muestra la opción de “Select a Category” y “Select a Subcategory” respectivamente.
+
+Severidad: 2  
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:  
+En la página de crear gig en la vista de freelancer, al seleccionar la categoría y/o subcategoría, el despliegue de opciones solo muestra la opción de “Select a Category” y “Select a Subcategory” respectivamente.
+
+<img src="imgs/ProblemaHeu3.png" alt="ProblemaHeu3" title="ProblemaHeu3"/>
+
+Recomendación:  
+Brindar una lista más amplia de categorías disponibles para que el usuario freelancer pueda categorizar correctamente sus “gigs”.
+
+PROBLEMA 4: El botón de “My Orders” en la vista del Buyer no cambia de página al ser presionado.
+
+Severidad: 4  
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:  
+En la página principal cuando el usuario se encuentra en la vista de “Buyer”, al presionar el botón de  “My Orders”, la página no lleva a otra sección que contenga las órdenes del “Buyer”/
+
+<img src="imgs/ProblemaHeu4.png" alt="ProblemaHeu4" title="ProblemaHeu4"/>
+
+Recomendación:  
+Implementar una página que le permita al usuario Buyer poder revisar las órdenes que tiene.
+
+PROBLEMA 5: En pestaña de gigs disponibles, al interactuar con una de ellas los botones de la parte superior que tienen el overview, la  descripción, el about the seller, el compare packages, el recommendations y el reviews no funciona correctamente.
+
+Severidad: 2  
+Heurística violada: Information Architecture: Is it usable?
+
+Problema:  
+Al estar en la página principal, luego de interactuar con una de las tarjetas que contienen los gigs disponibles, los botones de la parte superior que tienen el overview, la  descripción, el about the seller, el compare packages, el recommendations y el reviews no funciona correctamente.
+
+<img src="imgs/ProblemaHeu5.png" alt="ProblemaHeu5" title="ProblemaHeu5"/>
+
+Recomendación:  
+Habilitar estos botones para que muestren la información necesaria o eliminarlos ya que la información ya se encuentra disponible en la sección de overview.
 
 
 ### **5.4. Video About-the-Product.**
@@ -2264,6 +2444,10 @@ La presente sección incluye el video promocional que resume nuestro modelo de n
 En la presente entrega nos enfocamos principalmente en mejorar la experiencia de usuario por medio de mejoras respecto al Landing Page y nuevas funciones para esta misma. Pulimos diversos aspectos respecto a la entrega anterior, mejorando además el diseño y organización del documento.
 
 Implementamos el uso de un FakeAPI dentro de nuestra página con el objetivo de guardar la información de los usuarios de una manera más dinámica y funcional.
+
+**- TB2:**
+Para esta entrega, mejoramos diversos aspectos de las entregas pasadas teniendo en cuenta las correcciones brindadas en el Landing Page y el Front End, además iniciamos con el proceso del Back End de nuestro proyecto creando diferentes endpoints para satisfacer con las necesidades de nuestros servicios.
+
 ## Bibliografia
 
 Empleo informal alcanza más del 85 % de jóvenes peruanos menores de. (2024, January 13). Radio Nacional. https://www.radionacional.gob.pe/noticias/economia/empleo-informal-alcanza-mas-del-85-de-jovenes-peruanos-menores-de-25-anos 
