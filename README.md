@@ -2243,6 +2243,7 @@ Acerca de la entrevista:
 
 Entrevistado N°1: Ciro Torbisco
 
+<img src="imgs/Ciro_E.png">
 
   * Sexo: Masculino
   * Edad: 22
@@ -2260,6 +2261,7 @@ Para Ciro la página es una idea muy interesante, además de que puede apoyar mu
 
 Entrevistada N°2: Fabrizio Morales Alarcón
 
+<img src="imgs/Fabrizio_E.png">
 
   * Sexo: Masculino
   * Edad: 25
@@ -2275,6 +2277,8 @@ Resumen:
 Para Fabrizio la página está muy balanceada y dinámica, además de que puede encontrar con facilidad lo que busca lo cual lo hace sentir que es una página profesional y le da confianza para contratar servicios.
 
 Entrevistada N°3: Yulia Estephania Martinez Martinez
+
+<img src="imgs/Yulia_E.png">
 
   * Sexo: Femenino
   * Edad: 19
