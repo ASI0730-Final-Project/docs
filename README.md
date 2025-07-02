@@ -2446,7 +2446,7 @@ https://asi0730-final-project.github.io/GigU-Landing/
 https://gigu-3873a.web.app
 
 *Link aplicacion web deployada-backend(Azure)*
-https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html
+[https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html](https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/index.html)
 
 *Link respectia de la database*
 https://www.freesqldatabase.com/account/
