@@ -94,8 +94,8 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
   - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
-  - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
   - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -116,7 +116,7 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
 - [5.2. , Services & Applications Implementation](#52-landing-page-services--applications-implementation)
   - [5.2.1. Sprint 1](#521-sprint-1)
     - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2. Aspect Leaders and Collaboradores](#5212-aspect-leaders-and-collaboradores)
+    - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
     - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
     - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
@@ -637,7 +637,7 @@ En el Segmento 2: Personas y Emprendimientos que buscan contratar freelancers, e
 
 ### **2.3. NeedFinding** 
 
-#### **2.3.1 User Persona** 
+#### **2.3.1 User Personas** 
 
 User Persona del Usuario estudiante Freelancer
 
@@ -686,7 +686,7 @@ Empathy mapping de persona o empresa:
 
 <img src="imgs/Empathymap2.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
 
-#### **2.3.5 AS-IS Mapping**
+#### **2.3.5 As-is Scenario Mapping**
 
 Se realizaron los siguientes cuadros en la herramienta Miro, el link original puede ser observado aquí: 
 
@@ -700,7 +700,7 @@ As-Is Scenario Mapping para Personas y Emprendimientos que buscan contratar serv
 
 <img src="imgs/AS-IS2.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
 
-### **2.3. Ubiquitous Language.** 
+### **2.4. Ubiquitous Language.** 
 
 * **Freelancer:** Estudiante que ofrece servicios a través de la plataforma.
 
@@ -1644,7 +1644,7 @@ Detallar los componentes internos del API RESTful para definir responsabilidades
 
   #### **4.8. Database Design**
 
-   ##### **4.8.1. Database Diagrams.**
+   ##### **4.8.1. Database Diagram.**
    
    <img src="imgs/Database GigU.png" alt="LeanUXCanvas" title="LeanUXCanvas"/>
 
@@ -2011,7 +2011,7 @@ El equipo realizó el front end por ramas con el objetivo de mejorar la organiza
 
 
 #### **5.2.3. Sprint 3**
-##### 5.2.3.1. Spring Planning 3\.
+##### 5.2.3.1. Sprint Planning 3\.
 
   * Sprint Details.
     
@@ -2086,7 +2086,7 @@ Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando
 
 Se evidencia la funcionalidad por medio del siguiente link: https://github.com/ASI0730-Final-Project/backend
 
-##### 5.2.3.5.  Execution Evidence for Sprint Review 3.\.
+##### 5.2.3.5. Execution Evidence for Sprint Review 3.\.
 
 Se evidencia el avance del tercer Sprint (Back End) por medio del siguiente link: https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html
 
@@ -2098,7 +2098,7 @@ Se evidencia el avance del tercer Sprint (Back End) por medio del siguiente link
 
 <img src="imgs/ExecutionEvidenceSprint3-4.png">
 
-##### 5.2.3.6.  Services Documentation Evidence for Sprint Review 3.\.
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review 3.\.
 
 Aquí se muestra la documentación de el deployment y execution.
 ![SqlFreeDatabase Creation](imgs/SQLfree.JPG)
@@ -2119,12 +2119,12 @@ Aquí se muestra la documentación de el deployment y execution.
 
 ![AzureServer Execution Swagger](imgs/Execution.JPG)
 
-##### 5.2.3.7.  Software Deployment Evidence for Sprint Review 3.\.
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review 3.\.
 
 Link de frontend web app: https://gigu-3873a.web.app
 Link de
 
-##### 5.2.3.8.  Team Collaboration Insights during Sprint.\.
+##### 5.2.3.8. Team Collaboration Insights during Sprint 3.\.
 El equipo realizó el back end actualizando la rama principal. Al finalizar el sprint, se realizó el despliegue de la aplicación. Se presenta ele siguiente insight.
 
 *Front End*  
