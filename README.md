@@ -141,6 +141,15 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
   - [5.2.3.6. Services Documentation Evidence for Sprint Review 3](#5236-services-documentation-evidence-for-sprint-review-3)
   - [5.2.3.7. Software Deployment Evidence for Sprint Review 3](#5237-software-deployment-evidence-for-sprint-review-3)
   - [5.2.3.8. Team Collaboration Insights during Sprint 3](#5238-team-collaboration-insights-during-sprint-3)
+- [5.2.4. Sprint 4](#524-sprint-4)
+  - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-3)
+  - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+  - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+  - [5.2.4.4. Development Evidence for Sprint Review 4](#5244-development-evidence-for-sprint-review-4)
+  - [5.2.4.5. Execution Evidence for Sprint Review 4](#5245-execution-evidence-for-sprint-review-4)
+  - [5.2.4.6. Services Documentation Evidence for Sprint Review 4](#5246-services-documentation-evidence-for-sprint-review-4)
+  - [5.2.4.7. Software Deployment Evidence for Sprint Review 4](#5247-software-deployment-evidence-for-sprint-review-4)
+  - [5.2.4.8. Team Collaboration Insights during Sprint 4](#5248-team-collaboration-insights-during-sprint-4)
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -2144,6 +2153,17 @@ El equipo realizó el back end actualizando la rama principal. Al finalizar el s
 
 *Network graph (README)*  
 <img src="imgs/networkgraph-readme2.png">
+
+#### **5.2.4. Sprint 4**
+
+##### **5.2.4.1. Sprint Planning 4**
+##### **5.2.4.2. Aspect Leaders and Collaborators.**
+##### **5.2.4.3. Sprint Backlog 4.**
+##### **5.2.4.4. Development Evidence for Sprint Review.**
+##### **5.2.4.5. Execution Evidence for Sprint Review.**
+##### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
+##### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
+##### **5.2.4.8. Team Collaboration Insights during Sprint.**
 
 ### **5.3. Validation Interviews.**
 ##### **5.3.1. Diseño de entrevistas.**
