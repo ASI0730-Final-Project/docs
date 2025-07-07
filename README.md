@@ -2187,7 +2187,7 @@ Para el Sprint 4, buscamos optimizar y completar la parte de backend al 100%, un
 | Velocity | # |
 | Total Story Points | # |
 
----
+
 
 ##### **5.2.4.2. Aspect Leaders and Collaborators**
 
@@ -2201,7 +2201,7 @@ Para el Sprint 4, buscamos optimizar y completar la parte de backend al 100%, un
 | Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | L | C | L | C |
 | Irving Washington Allcca Guerrero | Diegosaurio18 | C | C | C | C |
 
----
+
 
 ##### **5.2.4.3. Sprint Backlog 4**
 
@@ -2229,7 +2229,7 @@ Para el Sprint 4, buscamos optimizar y completar la parte de backend al 100%, un
 | T06 | US55 | Validación final de despliegue conjunto | Giancarlo Rafael Solis Santa Cruz | 15 | Completado | EP15 |
 | T07 | US56 | Ajustes finales en despliegue Frontend | Irving Washington Allcca Guerrero | 10 | Completado | EP15 |
 
----
+
 
 ##### **5.2.4.4. Development Evidence for Sprint Review 4**
 
@@ -2237,7 +2237,7 @@ Se evidencia la funcionalidad optimizada del backend y su integración con el fr
 [GitHub Backend Repository](https://github.com/ASI0730-Final-Project/backend)  
 [GitHub Frontend Repository](https://github.com/ASI0730-Final-Project/frontend)
 
----
+
 
 ##### **5.2.4.5. Execution Evidence for Sprint Review 4**
 
@@ -2245,32 +2245,30 @@ Se evidencia el avance del cuarto Sprint (integración Back End & Front End) por
 [Swagger Execution Link](https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html)
 
 **Capturas de evidencia:**  
-![ExecutionEvidenceSprint4-1](imgs/ExecutionEvidenceSprint4-1.png)  
-![ExecutionEvidenceSprint4-2](imgs/ExecutionEvidenceSprint4-2.png)  
-![ExecutionEvidenceSprint4-3](imgs/ExecutionEvidenceSprint4-3.png)  
-![ExecutionEvidenceSprint4-4](imgs/ExecutionEvidenceSprint4-4.png)
+![ExecutionEvidenceSprint4-1](imgs/ExecutionEvidenceSprint3-1.png)  
+![ExecutionEvidenceSprint4-2](imgs/ExecutionEvidenceSprint3-2.png)  
+![ExecutionEvidenceSprint4-3](imgs/ExecutionEvidenceSprint3-3.png)  
+![ExecutionEvidenceSprint4-4](imgs/ExecutionEvidenceSprint3-4.png)
 
----
+
 
 ##### **5.2.4.6. Services Documentation Evidence for Sprint Review 4**
 
 Aquí se muestra la documentación del deployment y la integración final:
 
-![SqlFreeDatabase Final](imgs/SQLfree4.JPG)  
-![Db Final MySQL](imgs/DBFINAL.JPG)  
-![Conection string actualizada](imgs/CONNECTIONFINAL.JPG)  
-![Azure Updated Project](imgs/AzureProject4.JPG)  
-![Integración GitHub Actions](imgs/ActionIntegration.JPG)  
-![Listener Final](imgs/ListenerFinal.JPG)
+![Conection string actualizada](<imgs/DB CONECTION.JPG>)
+![Db Final MySQL](imgs/SQL.JPG)  
+![Azure Updated Project](imgs/AzureProyect.JPG)    
+![Listener Final](imgs/Execution.JPG)
 
----
+
 
 ##### **5.2.4.7. Software Deployment Evidence for Sprint Review 4**
 
 Link de frontend web app: [https://gigu-3873a.web.app](https://gigu-3873a.web.app)  
 Link de backend: [https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html](https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html)
 
----
+
 
 ##### **5.2.4.8. Team Collaboration Insights during Sprint 4**
 
