@@ -142,7 +142,7 @@ ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
   - [5.2.3.7. Software Deployment Evidence for Sprint Review 3](#5237-software-deployment-evidence-for-sprint-review-3)
   - [5.2.3.8. Team Collaboration Insights during Sprint 3](#5238-team-collaboration-insights-during-sprint-3)
 - [5.2.4. Sprint 4](#524-sprint-4)
-  - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-3)
+  - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
   - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
   - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
   - [5.2.4.4. Development Evidence for Sprint Review 4](#5244-development-evidence-for-sprint-review-4)
@@ -2154,16 +2154,146 @@ El equipo realizó el back end actualizando la rama principal. Al finalizar el s
 *Network graph (README)*  
 <img src="imgs/networkgraph-readme2.png">
 
-#### **5.2.4. Sprint 4**
+### #### **5.2.4. Sprint 4**
 
 ##### **5.2.4.1. Sprint Planning 4**
-##### **5.2.4.2. Aspect Leaders and Collaborators.**
-##### **5.2.4.3. Sprint Backlog 4.**
-##### **5.2.4.4. Development Evidence for Sprint Review.**
-##### **5.2.4.5. Execution Evidence for Sprint Review.**
-##### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
-##### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
-##### **5.2.4.8. Team Collaboration Insights during Sprint.**
+
+* Sprint Details.
+
+| Field | Value |
+| :---: | :---: |
+| Sprint Number | Sprint 4 |
+| Date | 21 de Junio de 2025 |
+| Time | 04:30 PM |
+| Location | Modalidad remota |
+| Prepared By | GigU |
+| Attendees | Todos los miembros del equipo |
+
+* Sprint Overview
+
+**Previous Sprint Summary:**  
+Para el Sprint 3, logramos construir la base del backend de nuestra aplicación, desarrollando endpoints clave y conectándolos a la base de datos para garantizar la funcionalidad principal.
+
+**Sprint Goal:**  
+Para el Sprint 4, buscamos optimizar y completar la parte de backend al 100%, unirla con el frontend mediante integraciones funcionales, y realizar mejoras y ajustes visuales en la interfaz de usuario.
+
+**Technical Specifications:**
+
+| Aspect | Details |
+| :---: | :---: |
+| Duration | 21 de Junio - 30 de Junio de 2025 |
+| Team Capacity | 120 horas totales |
+| Tech Stack | Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger |
+| Velocity | # |
+| Total Story Points | # |
+
+---
+
+##### **5.2.4.2. Aspect Leaders and Collaborators**
+
+| Team Member (Last Name, First Name) | GitHub Username | Diseño UI/UX Leader (L) / Collaborator (C) | Desarrollo Backend Leader (L) / Collaborator (C) | Control de Calidad Leader (L) / Collaborator (C) | Documentación Leader (L) / Collaborator (C) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Mariano Moises Oblitas Davila | MarianoOblitas | C | L | C | C |
+| Diego Alonso Cacho Seminario | Memesitos | C | C | C | L |
+| Bryan Felix Martinez Ramos | BryanMR1 | C | C | C | C |
+| Renato Yauri Chocce | JavierRog | C | C | C | C |
+| Diego Antonio Seijas Vásquez | NotSeijas | L | C | C | C |
+| Giancarlo Rafael Solis Santa Cruz | LucidVoid10 | L | C | L | C |
+| Irving Washington Allcca Guerrero | Diegosaurio18 | C | C | C | C |
+
+---
+
+##### **5.2.4.3. Sprint Backlog 4**
+
+**Objetivo:** Optimizar y completar la parte de backend, integrarla con el frontend y realizar ajustes funcionales y visuales en la interfaz de usuario.
+
+**Alcance:**
+
+* Mejorar la funcionalidad y eficiencia del backend existente  
+* Integrar de forma funcional todos los endpoints con el frontend  
+* Realizar mejoras en la visualización y experiencia de usuario del frontend
+
+**Duración:** 21 de Junio - 30 de Junio de 2025
+
+**Capacidad de equipo:** 120 horas totales - 7 integrantes
+
+**Requisitos técnicos:** Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger
+
+| Task ID | User Story | Description | Assigned To | Estimated Hours | Status | Epic |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| T01 | US50 | Optimización y mejoras finales del Backend | Mariano Moises Oblitas Davila | 18 | Completado | EP13 |
+| T02 | US51 | Integración de Backend con Frontend | Diego Alonso Cacho Seminario | 20 | Completado | EP14 |
+| T03 | US52 | Ajustes visuales en interfaz de usuario | Bryan Felix Martinez Ramos | 15 | Completado | EP15 |
+| T04 | US53 | Pruebas y control de calidad de la integración | Renato Yauri Chocce | 14 | Completado | EP14 |
+| T05 | US54 | Documentación de endpoints y flujos de integración | Diego Antonio Seijas Vásquez | 10 | Completado | EP13 |
+| T06 | US55 | Validación final de despliegue conjunto | Giancarlo Rafael Solis Santa Cruz | 15 | Completado | EP15 |
+| T07 | US56 | Ajustes finales en despliegue Frontend | Irving Washington Allcca Guerrero | 10 | Completado | EP15 |
+
+---
+
+##### **5.2.4.4. Development Evidence for Sprint Review 4**
+
+Se evidencia la funcionalidad optimizada del backend y su integración con el frontend por medio del siguiente link:  
+[GitHub Backend Repository](https://github.com/ASI0730-Final-Project/backend)  
+[GitHub Frontend Repository](https://github.com/ASI0730-Final-Project/frontend)
+
+---
+
+##### **5.2.4.5. Execution Evidence for Sprint Review 4**
+
+Se evidencia el avance del cuarto Sprint (integración Back End & Front End) por medio del siguiente link:  
+[Swagger Execution Link](https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html)
+
+**Capturas de evidencia:**  
+![ExecutionEvidenceSprint4-1](imgs/ExecutionEvidenceSprint4-1.png)  
+![ExecutionEvidenceSprint4-2](imgs/ExecutionEvidenceSprint4-2.png)  
+![ExecutionEvidenceSprint4-3](imgs/ExecutionEvidenceSprint4-3.png)  
+![ExecutionEvidenceSprint4-4](imgs/ExecutionEvidenceSprint4-4.png)
+
+---
+
+##### **5.2.4.6. Services Documentation Evidence for Sprint Review 4**
+
+Aquí se muestra la documentación del deployment y la integración final:
+
+![SqlFreeDatabase Final](imgs/SQLfree4.JPG)  
+![Db Final MySQL](imgs/DBFINAL.JPG)  
+![Conection string actualizada](imgs/CONNECTIONFINAL.JPG)  
+![Azure Updated Project](imgs/AzureProject4.JPG)  
+![Integración GitHub Actions](imgs/ActionIntegration.JPG)  
+![Listener Final](imgs/ListenerFinal.JPG)
+
+---
+
+##### **5.2.4.7. Software Deployment Evidence for Sprint Review 4**
+
+Link de frontend web app: [https://gigu-3873a.web.app](https://gigu-3873a.web.app)  
+Link de backend: [https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html](https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html)
+
+---
+
+##### **5.2.4.8. Team Collaboration Insights during Sprint 4**
+
+El equipo realizó la optimización completa del backend y la integración con el frontend. Además, se realizaron ajustes de visualización y experiencia de usuario en el front. Se presentan los siguientes insights.
+
+*Front End*  
+![frontend-insight4](imgs/frontend-insight4.png)
+
+*Network graph (Front End)*  
+![networkgraph-frontend4](imgs/networkgraph-frontend4.png)
+
+*Back End*  
+![insight-backend4](imgs/insight-backend4.png)
+
+*Network graph (Back End)*  
+![networkgraph-backend4](imgs/networkgraph-backend4.png)
+
+*README*  
+![readme-insight4](imgs/readme-insight4.png)
+
+*Network graph (README)*  
+![networkgraph-readme4](imgs/networkgraph-readme4.png)
+
 
 ### **5.3. Validation Interviews.**
 ##### **5.3.1. Diseño de entrevistas.**
