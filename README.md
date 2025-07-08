@@ -2275,22 +2275,22 @@ Link de backend: [https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-
 El equipo realizó la optimización completa del backend y la integración con el frontend. Además, se realizaron ajustes de visualización y experiencia de usuario en el front. Se presentan los siguientes insights.
 
 *Front End*  
-![frontend-insight4](imgs/frontend-insight4.png)
+![frontend-insight4](https://imgur.com/YvskNyE.png)
 
 *Network graph (Front End)*  
-![networkgraph-frontend4](imgs/networkgraph-frontend4.png)
+![networkgraph-frontend4](https://imgur.com/5Uwmw2b.png)
 
 *Back End*  
-![insight-backend4](imgs/insight-backend4.png)
+![insight-backend4](https://imgur.com/LYwz1fh.png)
 
 *Network graph (Back End)*  
-![networkgraph-backend4](imgs/networkgraph-backend4.png)
+![networkgraph-backend4](https://imgur.com/ghbNZcy.png)
 
 *README*  
-![readme-insight4](imgs/readme-insight4.png)
+![readme-insight4](https://imgur.com/gows5YH.png)
 
 *Network graph (README)*  
-![networkgraph-readme4](imgs/networkgraph-readme4.png)
+![networkgraph-readme4](https://imgur.com/Vwo6i0U.png)
 
 
 ### **5.3. Validation Interviews.**
