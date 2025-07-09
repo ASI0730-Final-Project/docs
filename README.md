@@ -1942,7 +1942,6 @@ El equipo realizó el front end por ramas con el objetivo de mejorar la organiza
 | **Attendees (to planning meeting)** | Todos los miembros del equipo |
 | **Sprint n – 1 Review Summary** | Para el Sprint 2, se desarrolló y desplegó el frontend de la aplicación, considerando todas las historias de usuario especificadas e implementando el uso de fake APIs. |
 | **Sprint n – 1 Retrospective Summary** | El equipo destacó como fortalezas la organización del trabajo y la correcta implementación de fake APIs. Se identificaron oportunidades para optimizar la conexión con bases de datos en los próximos sprints. |
-| **Sprint Goal & User Stories** | Para el Sprint 3, se busca realizar el backend de la aplicación, desarrollando diversos endpoints y conectándolos a una base de datos funcional. |
 | **Tech Stack** | Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger |
 | Sprint Goal & User Stories |
 | **Sprint Goal** | Para el Sprint 3, se busca realizar el backend de la aplicación, desarrollando diversos endpoints y conectándolos a una base de datos funcional. |
