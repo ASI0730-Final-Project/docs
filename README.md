@@ -2486,17 +2486,26 @@ https://www.figma.com/design/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=0-
 *Link Repositorio Docs Github*
 https://github.com/ASI0730-Final-Project/docs
 
+*Link Repositorio Frontend Github*
+https://github.com/ASI0730-Final-Project/frontend
+
+*Link Repositorio Backend Github*
+https://github.com/ASI0730-Final-Project/backend
+
+*Link Repositorio LandingPage Github*
+https://github.com/ASI0730-Final-Project/landing
+
 *Link Organizacion Github*
 https://github.com/ASI0730-Final-Project
 
 *Link Landing Page*
-https://asi0730-final-project.github.io/GigU-Landing/
+https://asi0730-final-project.github.io/landing/
 
 *Link aplicacion web deployada(Firebase)*
 https://gigu-3873a.web.app
 
 *Link aplicacion web deployada-backend(Azure)*
-[https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/swagger/index.html](https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/index.html)
+https://gigu-appbackend-webapi-dqasbuf8fwe8dvf9.canadacentral-01.azurewebsites.net/index.html
 
 *Link respectia de la database*
 https://www.freesqldatabase.com/account/
