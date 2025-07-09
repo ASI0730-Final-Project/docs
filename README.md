@@ -1150,9 +1150,9 @@ CopiarEditar
 
 ### **4.3. Landing Page UI Design**
 
-En esta parte se presentarán las propuestas de estructura para el producto Landing Page, así como la forma en que se organizará la información relacionada. se utilizará Figma, una herramienta colaborativa destinada al diseño, en este caso, de tipo web.
+En esta parte se presentarán las propuestas de estructura para el producto Landing Page, así como la forma en que se organizará la información relacionada. se utilizará Figma, una herramienta colaborativa destinada al diseño, en este caso, de tipo web, el contenido se encuentra en la siguiente link:
 
-Link a los WireframesyMock-Ups: https://www.figma.com/design/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=506-388
+https://www.figma.com/design/O1zE6NSzWnY5it05zPM9D8/figma-gigs?node-id=0-1&p=f
 
 #### **4.3.1. Landing Page Wireframe**
 
