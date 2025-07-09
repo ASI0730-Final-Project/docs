@@ -1719,31 +1719,20 @@ Con el objetivo de mantener la coherencia, legibilidad y calidad del código dur
 
 ##### **5.2.1.1. Sprint Planning 1**
 
-## Sprint Details
-| **Field**          | **Value**                     |
-|--------------------|-------------------------------|
-| Sprint Number      | Sprint 1                      |
-| Date               | 25 de abril de 2025           |
-| Time               | 05:00 PM                      |
-| Location           | Modalidad remota              |
-| Prepared By        | [Nombre de tu equipo]         |
-| Attendees          | Todos los miembros del equipo |
-
-## Sprint Overview
-**Previous Sprint Summary:**  
-*No hay resúmenes previos (primer sprint).*
-
-**Sprint Goal:**  
-Desarrollar y desplegar una landing page funcional que cumpla con todas las historias de usuario para la interacción inicial con clientes.
-
-## Technical Specifications
-| **Aspect**         | **Details**                   |
-|--------------------|-------------------------------|
-| Duration           | 10 - 25 de abril de 2025              |
-| Team Capacity      | 120 horas totales             |
-| Tech Stack         | HTML5, CSS3, JavaScript, Figma|
-| Velocity           | 18                            |
-| Total Story Points | 18                            |
+| Sprint # | Sprint 1 |
+|-----------------------------|----------------------------------------------|
+| **Sprint Planning Background** | |
+| **Date** | 8 de Abril \- 25 de Abril del 2025 |
+| **Time** | 05:00 PM |
+| **Location** | Modalidad remota |
+| **Prepared By** | Jiménez Rosas, Arturo Eduardo |
+| **Attendees (to planning meeting)** | Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / … |
+| **Sprint n – 1 Retrospective Summary** | No hay retrospección previa (primer sprint). |
+| **Tech Stack** |HTML5, CSS3, JavaScript, Figma |
+| Sprint Goal & User Stories | |
+| **Sprint Goal** | Nuestro objetivo es desarrollar y desplegar una landing page completamente funcional que permita a los clientes tener una interacción inicial efectiva con nuestro producto. Creemos que esto generará una primera impresión positiva y aumentará la confianza y la conversión de clientes potenciales. Esto se confirmará cuando la página esté accesible y funcional para los usuarios finales. |
+| **Sprint 1 Velocity** | 18 |
+| **Sum of Story Points** | 18 |
 
 
 ##### **5.2.1.2. Aspect Leaders and Collaborators**
@@ -1829,36 +1818,26 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 
 ##### 5.2.2.1. Sprint Planning 2\.
 
- 
 
 *  Sprint Details
 
-| Field | Value |
-| :---: | :---: |
-| Sprint Number | Sprint 2 |
-| Date | 10 de Mayo de 2025 |
-| Time | 04:30 PM |
-| Location | Modalidad remota |
-| Prepared By | GigU |
-| Attendees | Todos los miembros del equipo |
+| Sprint # | Sprint 2 |
+|-------------------------------|-----------------------------------------------------------|
+| **Sprint Planning Background** | |
+| **Date** | 26 de Abril - 14 de Mayo de 2025 |
+| **Time** | 04:30 PM |
+| **Location** | Modalidad remota |
+| **Prepared By** | GigU |
+| **Attendees (to planning meeting)** | Todos los miembros del equipo |
+| **Sprint n – 1 Review Summary** | Para el Sprint 1, se desarrolló y desplegó una landing page funcional que cumple con todas las historias de usuario especificadas para la interacción inicial con clientes y presentación del producto. |
+| **Sprint n – 1 Retrospective Summary** | El equipo identificó la buena coordinación y la correcta división de tareas como fortalezas. Se plantea optimizar la integración de fake APIs para el siguiente Sprint. |
+| **Tech Stack** | Vue, PrimeVue, JavaScript, Figma, Postman |
+| **Sprint Goal & User Stories** |
+| **Sprint Goal** | Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las historias de usuario previamente definidas, implementando el uso de fake APIs para simular la lógica de negocio. |
+| **Sprint 2 Velocity** | 32 |
+| **Sum of Story Points** | 32 |
 
-* Sprint Overview
 
-**Previous Sprint Summary:**  
-Para el Sprint 1, buscamos desarrollar y desplegar una landing page funcional que cumpla con todas las historias de usuario especificadas para la interacción inicial con clientes y presentación del producto.
-
-**Sprint Goal:**  
-Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las historias de usuario anteriormente especificadas implementando además el uso de fake APIs.
-
-**Technical Specifications:**
-
-| Aspect | Details |
-| :---: | :---: |
-| Duration | 26 de Abril \- 14 de Mayo de 2025 |
-| Team Capacity | 120 horas totales |
-| Tech Stack | Vue, PrimeVue, JavaScript, Figma |
-| Velocity | \# |
-| Total Story Points | \# |
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators.
 
@@ -1905,7 +1884,7 @@ Desarrollar y desplegar el front end de nuestro producto teniendo en cuenta las 
 | T09 | - | Code organization: Refactor folder structure (Vue best practices) | Giancarlo Solis | 5 | Completed | - |
 | T10 | - | Basic security: Input validation, fake JWT simulation | Giancarlo Solis | 5 | Completed | EP02 |
 
----
+
 
  
 
@@ -1953,31 +1932,23 @@ El equipo realizó el front end por ramas con el objetivo de mejorar la organiza
 
   * Sprint Details.
     
-| Field | Value |
-| :---: | :---: |
-| Sprint Number | Sprint 3 |
-| Date | 10 de Junio de 2025 |
-| Time | 04:30 PM |
-| Location | Modalidad remota |
-| Prepared By | GigU |
-| Attendees | Todos los miembros del equipo |
+| Sprint # | Sprint 3 |
+|---------------------------------|----------------------------------------------|
+| **Sprint Planning Background** | |
+| **Date** | 14 de Mayo - 20 de Junio de 2025  |
+| **Time** | 04:30 PM |
+| **Location** | Modalidad remota |
+| **Prepared By** | GigU |
+| **Attendees (to planning meeting)** | Todos los miembros del equipo |
+| **Sprint n – 1 Review Summary** | Para el Sprint 2, se desarrolló y desplegó el frontend de la aplicación, considerando todas las historias de usuario especificadas e implementando el uso de fake APIs. |
+| **Sprint n – 1 Retrospective Summary** | El equipo destacó como fortalezas la organización del trabajo y la correcta implementación de fake APIs. Se identificaron oportunidades para optimizar la conexión con bases de datos en los próximos sprints. |
+| **Sprint Goal & User Stories** | Para el Sprint 3, se busca realizar el backend de la aplicación, desarrollando diversos endpoints y conectándolos a una base de datos funcional. |
+| **Tech Stack** | Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger |
+| Sprint Goal & User Stories |
+| **Sprint Goal** | Para el Sprint 3, se busca realizar el backend de la aplicación, desarrollando diversos endpoints y conectándolos a una base de datos funcional. |
+| **Sprint 3 Velocity** | 27 |
+| **Sum of Story Points** |27 |
 
-  * Sprint Overview
-**Previous Sprint Summary:**  
-Para el Sprint 2, buscamos desarrollar y desplegar el frontend de nuestra aplicación teniendo en cuenta las historias de usuario anteriormente especificadas implementando además el uso de fake APIs.
-
-**Sprint Goal:**  
-Para el Sprint 3, buscamos realizar el backend de nuestra aplicación realizando diversos endpoints y conectarlos hacia una base de datos.
-
-**Technical Specifications:**
-
-| Aspect | Details |
-| :---: | :---: |
-| Duration | 14 de Mayo \- 20 de Junio de 2025 |
-| Team Capacity | 120 horas totales |
-| Tech Stack | Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger |
-| Velocity | \# |
-| Total Story Points | \# |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.\.
  
@@ -2089,32 +2060,21 @@ El equipo realizó el back end actualizando la rama principal. Al finalizar el s
 
 * Sprint Details.
 
-| Field | Value |
-| :---: | :---: |
-| Sprint Number | Sprint 4 |
-| Date | 21 de Junio de 2025 |
-| Time | 04:30 PM |
-| Location | Modalidad remota |
-| Prepared By | GigU |
-| Attendees | Todos los miembros del equipo |
-
-* Sprint Overview
-
-**Previous Sprint Summary:**  
-Para el Sprint 3, logramos construir la base del backend de nuestra aplicación, desarrollando endpoints clave y conectándolos a la base de datos para garantizar la funcionalidad principal.
-
-**Sprint Goal:**  
-Para el Sprint 4, buscamos optimizar y completar la parte de backend al 100%, unirla con el frontend mediante integraciones funcionales, y realizar mejoras y ajustes visuales en la interfaz de usuario.
-
-**Technical Specifications:**
-
-| Aspect | Details |
-| :---: | :---: |
-| Duration | 21 de Junio - 30 de Junio de 2025 |
-| Team Capacity | 120 horas totales |
-| Tech Stack | Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger |
-| Velocity | # |
-| Total Story Points | # |
+| Sprint # | Sprint 4 |
+|---------------------------------|----------------------------------------------|
+| **Sprint Planning Background** | |
+| **Date** | 21 de Junio - 7 de Julio de 2025 |
+| **Time** | 04:30 PM |
+| **Location** | Modalidad remota |
+| **Prepared By** | GigU |
+| **Attendees (to planning meeting)** | Todos los miembros del equipo |
+| **Sprint n – 1 Review Summary** | Para el Sprint 3, se construyó la base del backend de la aplicación, desarrollando endpoints clave y conectándolos a la base de datos para garantizar la funcionalidad principal. |
+| **Sprint n – 1 Retrospective Summary** | El equipo resaltó la correcta implementación de endpoints y la conexión con la base de datos como logros. Se plantea mejorar la integración con el frontend y pulir aspectos visuales. |
+| **Tech Stack** | Vue, PrimeVue, JavaScript, Figma, Rider, Postman, MySQL Workbench, Swagger |
+| **Sprint Goal & User Stories** |
+|**Sprint Goal** | Para el Sprint 4, se busca optimizar y completar la parte de backend al 100%, unirla con el frontend mediante integraciones funcionales, y realizar mejoras y ajustes visuales en la interfaz de usuario. |
+| **Sprint 4 Velocity** | 32 |
+| **Sum of Story Points** | 32 |
 
 
 
