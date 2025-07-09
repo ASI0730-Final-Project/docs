@@ -1231,6 +1231,11 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
 
 ---
 
+<h2 align="center">Pagina principal</h2>
+
+<img src="imgs/WK_PP.png">
+
+---
 <h2 align="center">Pefil de usuario</h2>
 
 <img src="imgs/WR_Per.png">
@@ -1261,11 +1266,11 @@ En esta sección se mostrarán los wireframes de nuestra aplicación
  
 # User Goal: El usuario se registra satisfactoriamente como freelancer, inicia sesión con su correo electrónico
 
-<img src="imgs/WR_D1.png">
+<img src="imgs/WK_D1.png">
 
 **Descripción:**  
 
-Cuando se inicia la aplicación, el usuario ve la opción de iniciar sesion, se loguea con sus credenciales y lo dirigira a su perfil, si no está registrado debe ir a la opción de registrarse, ahí colocara sus datos, los cuales incluyen correo, nombres, rol,etc una vez completado se registrará, despues se redirigira a login y ingresara con su nueva cuenta.
+Cuando se inicia la aplicación, el usuario ve la opción de iniciar sesion, se loguea con sus credenciales y lo dirigira a su perfil, si no está registrado debe ir a la opción de registrarse, ahí colocara sus datos, los cuales incluyen correo, nombres, rol,etc una vez completado se registrará, despues se redirigira a login y ingresara con su nueva cuenta lo cual lo mandara al menú principal con las diferentes propuestas.
 
 ---
 
@@ -1274,7 +1279,7 @@ Cuando se inicia la aplicación, el usuario ve la opción de iniciar sesion, se 
 <img src="imgs/WR_D2.png">
 
 **Descripción:**  
-Una vez el usuario termino de iniciar sesion, se encuentra en su perfil y se dirige a la opción de my pulls
+Una vez el usuario termino de iniciar sesion, se encuentra en el menú principal y se dirige a la opción de my pulls
 
 ahí encontrará diferentes proyectos los cuales podrá elegir, el usuario elige el proyecto que desea contratar
 
@@ -1303,6 +1308,12 @@ Una vez el usuario termino de iniciar sesion, se dirige a la opción de my pulls
 <h2 align="center">Registro de cuenta</h2>
 
 <img src="imgs/WR_2_Reg.png">
+
+---
+
+<h2 align="center">Pagina Principal</h2>
+
+<img src="imgs/WK_2_PP.png">
 
 ---
 
@@ -1335,11 +1346,11 @@ Una vez el usuario termino de iniciar sesion, se dirige a la opción de my pulls
  
  # User Goal: El usuario se registra satisfactoriamente como freelancer, inicia sesión con su correo electrónico
 
-<img src="imgs/WR_2_D1.png">
+<img src="imgs/WK_2_D1.png">
 
 **Descripción:**  
 
-Cuando se inicia la aplicación, el usuario ve la opción de iniciar sesion, se loguea con sus credenciales y lo dirigira a su perfil, si no está registrado debe ir a la opción de registrarse, ahí colocara sus datos, los cuales incluyen correo, nombres, rol,etc una vez completado se registrará, despues se redirigira a login y ingresara con su nueva cuenta.
+Cuando se inicia la aplicación, el usuario ve la opción de iniciar sesion, se loguea con sus credenciales y lo dirigira a su perfil, si no está registrado debe ir a la opción de registrarse, ahí colocara sus datos, los cuales incluyen correo, nombres, rol,etc una vez completado se registrará, despues se redirigira a login y ingresara con su nueva cuenta lo cual lo mandara al menú principal con las diferentes propuestas.
 
 ---
 
