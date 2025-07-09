@@ -2154,7 +2154,7 @@ El equipo realizó el back end actualizando la rama principal. Al finalizar el s
 *Network graph (README)*  
 <img src="imgs/networkgraph-readme2.png">
 
-### #### **5.2.4. Sprint 4**
+#### **5.2.4. Sprint 4**
 
 ##### **5.2.4.1. Sprint Planning 4**
 
