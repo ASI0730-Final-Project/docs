@@ -2450,6 +2450,9 @@ Implementamos el uso de un FakeAPI dentro de nuestra página con el objetivo de 
 **- TB2:**
 Para esta entrega, mejoramos diversos aspectos de las entregas pasadas teniendo en cuenta las correcciones brindadas en el Landing Page y el Front End, además iniciamos con el proceso del Back End de nuestro proyecto creando diferentes endpoints para satisfacer con las necesidades de nuestros servicios.
 
+**- TF:**
+Para esta entrega, mejoramos diversos aspectos de las entregas pasadas teniendo en cuenta las correcciones brindadas, se finalizó la optimización e integración de backend y frontend, consolidando la entrega del producto.
+
 ## Bibliografia
 
 Empleo informal alcanza más del 85 % de jóvenes peruanos menores de. (2024, January 13). Radio Nacional. https://www.radionacional.gob.pe/noticias/economia/empleo-informal-alcanza-mas-del-85-de-jovenes-peruanos-menores-de-25-anos 
