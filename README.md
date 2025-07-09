@@ -1150,290 +1150,219 @@ CopiarEditar
 
 ### **4.3. Landing Page UI Design**
 
+En esta parte se presentarán las propuestas de estructura para el producto Landing Page, así como la forma en que se organizará la información relacionada. se utilizará Figma, una herramienta colaborativa destinada al diseño, en este caso, de tipo web.
 
-
-<img src="imgs/Image1.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
-
-<img src="imgs/image2.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
-
-<img src="imgs/image3.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
-
-<img src="imgs/image4.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+Link a los WireframesyMock-Ups: https://www.figma.com/design/uWjErNes085X9nT1QnwbG4/APPWEB-4371-Figma?node-id=506-388
 
 #### **4.3.1. Landing Page Wireframe**
 
-<img src="imgWireframe/main.png" alt="Main Page" title="Main Page"/>
+<h2 align="center"> Header </h2>
+
+<img src="imgs/LP_Header.png">
+
+<h2 align="center"> Sección Hero</h2>
+
+<img src="imgs/LP_SH.png">
+
+<h2 align="center"> Sección Product</h2>
+
+<img src="imgs/LP_SP.png">
+
+<h2 align="center"> Sección Sobre Nosotros</h2>
+
+<img src="imgs/LP_SN.png">
+
+<h2 align="center">Funcionalidades </h2>
+
+<img src="imgs/LP_F.png">
+
+<h2 align="center"> Aliados </h2>
+
+<img src="imgs/LP_A.png">
+
+<h2 align="center">Footer </h2>
+
+<img src="imgs/LP_Foo.png">
 
 ### **4.3.2. Landing Page Mock-up**
 
-<img src="imgs/image3.png" alt="LandingPageUIDesign" title="LandingPageUIDesign"/>
+<h2 align="center"> Header </h2>
+
+<img src="imgs/LP_2_Header.png">
+
+<h2 align="center"> Sección Hero</h2>
+
+<img src="imgs/LP_2_SH.png">
+
+<h2 align="center"> Sección Product</h2>
+
+<img src="imgs/LP_2_SP.png">
+
+<h2 align="center"> Sección Sobre Nosotros</h2>
+
+<img src="imgs/LP_2_SN.png">
+
+<h2 align="center">Funcionalidades </h2>
+
+<img src="imgs/LP_2_F.png">
+
+<h2 align="center"> Aliados </h2>
+
+<img src="imgs/LP_2_A.png">
+
+<h2 align="center">Footer </h2>
+
+<img src="imgs/LP_2_Foo.png">
 
  #### **4.4. Web Applications UX/UI Design.**
  #### **4.4.1. Web Applications Wireframes.**
+ 
 En esta sección se mostrarán los wireframes de nuestra aplicación
-<h2 align="center">Página Principal</h2>
 
-<img src="imgWireframe/main.png" alt="Main Page" title="Main Page"/>
+<h2 align="center">Inicio de sesión</h2>
 
----
-
-<h2 align="center">Descripción del Servicio</h2>
-
-<img src="imgWireframe/description-app.png" alt="Service Description" title="Service Description"/>
+<img src="imgs/WR_Ini.png">
 
 ---
 
-<h2 align="center">Confirmación de Registro como Freelancer</h2>
+<h2 align="center">Registro de cuenta</h2>
 
-<img src="imgWireframe/freelance-confirmation.png" alt="Freelance Confirmation" title="Freelance Confirmation"/>
-
----
-
-<h2 align="center">Perfil del Freelancer</h2>
-
-<img src="imgWireframe/freelance-profile.png" alt="Freelance Profile" title="Freelance Profile"/>
+<img src="imgs/WR_Reg.png">
 
 ---
 
-<h2 align="center">Verificación de Identidad</h2>
+<h2 align="center">Pefil de usuario</h2>
 
-<img src="imgWireframe/freelance-verification.png" alt="Freelance Verification" title="Freelance Verification"/>
-
----
-
-<h2 align="center">Login</h2>
-
-<img src="imgWireframe/login.png" alt="Login Page" title="Login Page"/>
+<img src="imgs/WR_Per.png">
 
 ---
 
-<h2 align="center">Confirmación de Inicio de Sesión</h2>
+<h2 align="center">Seleccion de proyecto</h2>
 
-<img src="imgWireframe/loging-ver.png" alt="Login Confirmation" title="Login Confirmation"/>
+<img src="imgs/WR_pro.png">
 
----
-
-<h2 align="center">Registro de Usuario</h2>
-
-<img src="imgWireframe/sign-up.png" alt="User Sign Up" title="User Sign Up"/>
 
 ---
 
-<h2 align="center">Perfil del Usuario</h2>
+<h2 align="center">Negociacion con el freelancer</h2>
 
-<img src="imgWireframe/Profile-user.png" alt="User Profile" title="User Profile"/>
+<img src="imgs/WR_Fre.png">
 
 ---
 
-<h2 align="center">Pull y Negociación de Servicios</h2>
+<h2 align="center">Solicitud de freelancer</h2>
 
-<img src="imgWireframe/Pull.png" alt="Service Pull" title="Service Pull"/>
+<img src="imgs/WR_Sol.png">
 
+---
 
 
  #### **4.4.2. Web Applications Wireflow Diagrams.**
  
-# User Goal: Usuario se registra, recupera contraseña y inicia sesión a la aplicación
+# User Goal: El usuario se registra satisfactoriamente como freelancer, inicia sesión con su correo electrónico
 
-<img src="imgWireframe/diagram-sign-logout.png" alt="diagram-sign-logout" title="diagram-sign-logout"/>
+<img src="imgs/WR_D1.png">
 
 **Descripción:**  
-Cuando el usuario abre la aplicación, se encuentra con el formulario de **registro de cuenta**. Si ya tiene una cuenta, puede optar por la opción **"Iniciar sesión"**. Al hacerlo, deberá ingresar sus credenciales en el formulario de **inicio de sesión**. Si la información es correcta, accederá a la **página principal** de la plataforma.
 
-Si el usuario ha olvidado su contraseña, puede seleccionar la opción **"Recuperar contraseña"**. Esto lo llevará a un formulario donde debe ingresar su **correo electrónico**. Tras enviarlo, recibirá un **enlace de recuperación** en su correo para restablecer su contraseña.
-
-Una vez que el usuario haya restablecido su contraseña o ingresado las credenciales correctas, podrá acceder a la **página principal** de la plataforma.
+Cuando se inicia la aplicación, el usuario ve la opción de iniciar sesion, se loguea con sus credenciales y lo dirigira a su perfil, si no está registrado debe ir a la opción de registrarse, ahí colocara sus datos, los cuales incluyen correo, nombres, rol,etc una vez completado se registrará, despues se redirigira a login y ingresara con su nueva cuenta.
 
 ---
 
-# User Goal: Usuario se inscribe como freelancer y quiere subir alguna oferta
+# User Goal: El usuario desea aceptar un Proyecto o encargo
 
-<img src="imgWireframe/diagram-freelancer.png" alt="diagram-freelancer" title="diagram-freelancer"/>
+<img src="imgs/WR_D2.png">
 
 **Descripción:**  
-El proceso de registro comienza cuando el usuario accede al formulario de **registro de cuenta**. En este formulario, deberá proporcionar sus datos personales, como **nombre completo**, **correo electrónico** y otros detalles relevantes para completar su perfil en la plataforma.
+Una vez el usuario termino de iniciar sesion, se encuentra en su perfil y se dirige a la opción de my pulls
 
-Durante el proceso de inscripción, el usuario deberá **adjuntar dos documentos**:  
-- Una **foto de su DNI**.  
-- Una **foto de su carnet universitario**.  
+ahí encontrará diferentes proyectos los cuales podrá elegir, el usuario elige el proyecto que desea contratar
 
-Estos documentos son necesarios para validar la identidad y el estatus académico del freelancer.
-
-Una vez que el formulario se complete y los documentos se hayan subido, el sistema procederá a **validar los datos** y, si todo es correcto, la cuenta será **verificada y aprobada**.
-
-Luego de la validación exitosa, el sistema enviará un **mensaje de bienvenida**, informando al usuario que su cuenta ha sido aprobada y que ahora puede comenzar a ofrecer sus servicios como freelancer.
-
-Después del registro, el usuario será redirigido a la **pantalla principal** del freelancer, donde podrá ver información sobre su cuenta, estadísticas y las herramientas necesarias para comenzar a ofrecer servicios. En esta pantalla, podrá interactuar con los clientes y gestionar las ofertas de servicio.
-
-Si desea comenzar a ofrecer sus servicios, el freelancer puede hacer clic en **"Crear un nuevo GIG"**. Esto lo llevará a un formulario donde deberá completar los campos como el **título del GIG**, la **categoría** y los **search tags**, los cuales ayudarán a los usuarios a encontrar su servicio dentro de la plataforma.
-
-Finalmente, después de completar el formulario de GIG, el freelancer será llevado a una **página de confirmación**, donde podrá revisar todos los detalles antes de publicar el GIG. Si todo es correcto, podrá proceder con la **publicación** del GIG y comenzar a recibir solicitudes o propuestas.
+en caso el freelancer no tenga problemas con el costo y los detalles indicados puede aceptar directamente la solicitud del contratante.
 
 ---
 
-# User Goal: Usuario quiere contratar a un freelancer
+# User Goal: El usuario desea aceptar un Proyecto o encargo, pero decide negociar.
 
-<img src="imgWireframe/diagram-contact-freelancer.png" alt="diagram-freelancer" title="diagram-freelancer"/>
+<img src="imgs/WR_D3.png">
 
 **Descripción:**  
-El proceso comienza cuando el **usuario** decide contratar a un freelancer. El usuario accede a la **publicación** del freelancer, donde puede consultar la información básica sobre los servicios ofrecidos, los **comentarios de otros usuarios** y la **tarifa mínima** del servicio.
 
-Si el usuario está interesado y desea continuar, hace clic en el botón **"Contratar"**, lo que lo llevará a la **calculadora inteligente**.
-
-En esta calculadora, el usuario completará un formulario donde ingresará detalles sobre el **trabajo a realizar**, como **duración** y **funcionalidades requeridas**. Con esta información, el sistema calculará automáticamente una **estimación de costo** para el servicio solicitado.
-
-Una vez recibida la estimación, el usuario puede decidir **aceptar el presupuesto** o negociar el precio con el freelancer. Si acepta la oferta, será redirigido a una página donde podrá interactuar con el freelancer para llegar a un acuerdo final sobre el **precio y las condiciones** del trabajo.
-
-Cuando ambas partes acuerden el precio, el usuario pasará a la **página de pago**, donde podrá realizar el pago correspondiente. El sistema le proporcionará las opciones de pago disponibles, y una vez completado el proceso de pago, el usuario recibirá una **notificación de confirmación** de que el pago fue exitoso y que el trabajo está en proceso.
-
-Finalmente, el usuario será redirigido a su **perfil personal**, donde podrá ver una lista de **órdenes activas**, con detalles sobre el estado de cada una y la opción de interactuar con los freelancers asignados.
+Una vez el usuario termino de iniciar sesion, se dirige a la opción de my pulls, ahí encontrará diferentes proyectos los cuales podrá elegir, el usuario elige el proyecto que desea contratar, en caso el freelancer tenga problemas con el costo y los detalles indicados, tiene la opción de negociar con el comprador, aquí tendrá una charla dónde se puede coordinar mejor el precio, los tiempos y detalles, una vez freelancer y comprador están de acuerdo se acepta la solicitud.
 
 
  #### **4.4.3. Web Applications Mock-ups.**
-<h1 align="center">Wireframes y Mockups del Proyecto</h1>
 
-<h2 align="center">forgot pass</h2>
+ 
+<h2 align="center">Inicio de sesión</h2>
 
-<img src="imgMockup/forgot-pass.png" alt="forgot-pass" title="forgot-pass"/>
-
----
-
-<h2 align="center">forgot pop</h2>
-
-<img src="imgMockup/forgot-pop.png" alt="forgot-pop" title="forgot-pop"/>
+<img src="imgs/WR_2_Ini.png">
 
 ---
 
-<h2 align="center">freelance verification</h2>
+<h2 align="center">Registro de cuenta</h2>
 
-<img src="imgMockup/freelace-verification.png" alt="freelace-verification" title="freelace-verification"/>
-
----
-
-<h2 align="center">freelance profile</h2>
-
-<img src="imgMockup/freelance-profile.png" alt="freelance-profile" title="freelance-profile"/>
+<img src="imgs/WR_2_Reg.png">
 
 ---
 
-<h2 align="center">freelance verificated</h2>
+<h2 align="center">Pefil de usuario</h2>
 
-<img src="imgMockup/freelance-verificated.png" alt="freelance-verificated" title="freelance-verificated"/>
-
----
-
-<h2 align="center">log in</h2>
-
-<img src="imgMockup/login.png" alt="login" title="login"/>
+<img src="imgs/WR_2_Per.png">
 
 ---
 
-<h2 align="center">login verified/h2>
+<h2 align="center">Seleccion de proyecto</h2>
 
-<img src="imgMockup/login-verified.png" alt="login-verified" title="login-verified"/>
+<img src="imgs/WR_2_pro.png">
 
----
-
-<h2 align="center">main log out</h2>
-
-<img src="imgMockup/main-logout.png" alt="main-logout" title="main-logout"/>
 
 ---
 
-<h2 align="center">posting gig</h2>
+<h2 align="center">Negociacion con el freelancer</h2>
 
-<img src="imgMockup/posting-gig.png" alt="posting-gig" title="posting-gig"/>
-
----
-
-<h2 align="center">profile freelancer ocupacion</h2>
-
-<img src="imgMockup/profile-freelancer-ocupacion.png" alt="profile-freelancer-ocupacion" title="profile-freelancer-ocupacion"/>
+<img src="imgs/WR_2_Fre.png">
 
 ---
 
-<h2 align="center">user profile</h2>
+<h2 align="center">Solicitud de freelancer</h2>
 
-<img src="imgMockup/user-profile.png" alt="user-profile" title="user-profile"/>
-
----
-
-<h2 align="center">user profile main </h2>
-
-<img src="imgMockup/user-profile-main.png" alt="user-profile-main" title="user-profile-main"/>
+<img src="imgs/WR_2_Sol.png">
 
 ---
-
-<h2 align="center">pull </h2>
-
-<img src="imgMockup/pull.png" alt="pull" title="pull"/>
-
----
-
-<h2 align="center">sign up</h2>
-
-<img src="imgMockup/sign-up.png" alt="sign-up" title="sign-up"/>
-
----
-
-<h2 align="center">startup description</h2>
-
-<img src="imgMockup/startup-description.png" alt="startup-description" title="startup-description"/>
-
----
-
-<h2 align="center">user payment</h2>
-
-<img src="imgMockup/user-payment.png" alt="user-payment" title="user-payment"/>
 
  #### **4.4.4. Web Applications User Flow Diagrams.**
- **User Goal:** Usuario se registra, recupera contraseña y inicia sesión a la aplicación con credenciales
  
-<img src="imgMockup/wireflow-register.png" alt="wireflow-register" title="wireflow-register"/>
+ # User Goal: El usuario se registra satisfactoriamente como freelancer, inicia sesión con su correo electrónico
 
-**Description:** Al iniciar la aplicación, el usuario se encuentra en el formulario de registro de cuenta. Si ya tiene una cuenta, puede seleccionar la opción "Iniciar sesión". Si el usuario ya tiene una cuenta, ingresará sus credenciales en el formulario de inicio de sesión. Si las credenciales son correctas, accederá a la página principal de la plataforma.
+<img src="imgs/WR_2_D1.png">
 
-En caso de que el usuario no recuerde su contraseña, podrá hacer clic en "Recuperar contraseña". Esto lo llevará a un formulario donde ingresará su correo electrónico asociado a la cuenta. Al enviar el formulario, el sistema enviará un enlace de recuperación al correo proporcionado para que el usuario pueda restablecer su contraseña.
+**Descripción:**  
 
-Una vez que el usuario ingrese sus credenciales correctas, ya sea después de haber restablecido la contraseña o al haberlas ingresado correctamente en el inicio de sesión, accederá a la página principal de la plataforma.
-
----
-
-
- **User Goal:** Usuario se inscribe como freelancer y quiere subir alguna oferta
-<img src="imgMockup/wireflow-register-freelancer.png" alt="wireflow-register" title="wireflow-register"/>
-
-**Description:** El proceso de inscripción comienza cuando el usuario accede al formulario de registro de cuenta. En este formulario, debe ingresar sus datos personales reales, como su nombre completo, correo electrónico, y otros detalles relevantes que ayudarán a completar su perfil en la plataforma.
-
-A continuación, durante la inscripción, el usuario debe adjuntar dos documentos esenciales para la validación de su cuenta. Estos documentos son una foto de su DNI y una foto de su carnet universitario, los cuales son necesarios para verificar la identidad y el estatus académico del freelancer.
-
-Una vez que el formulario se ha completado y los documentos han sido subidos, el sistema procederá a validar la información y los documentos proporcionados por el usuario. Si todo es correcto, la cuenta será verificada y aprobada para que el freelancer pueda continuar con el proceso.
-
-Tras la validación exitosa, el sistema enviará un mensaje de bienvenida, informando al usuario que su cuenta ha sido aprobada y que ahora tiene acceso a la plataforma como freelancer. Desde este momento, podrá comenzar a ofrecer sus servicios y gestionar su perfil.
-
-Luego de completar el registro, el usuario será dirigido a la pantalla principal del freelancer, donde podrá visualizar detalles sobre su cuenta, estadísticas relevantes y las herramientas necesarias para comenzar a ofrecer sus servicios a través de la plataforma. Esta pantalla principal proporciona acceso a todas las funcionalidades para interactuar con los clientes y gestionar las ofertas de servicio.
-
-Si el freelancer desea comenzar a ofrecer sus servicios, podrá hacer clic en la opción "Crear un nuevo GIG", lo que lo llevará a un formulario de creación de GIG. En este formulario, el freelancer deberá proporcionar información clave como el título del GIG, la categoría en la que se encuentra el servicio que ofrece, y los search tags, que ayudarán a los usuarios a encontrar su servicio más fácilmente dentro de la plataforma.
-
-Finalmente, después de completar el formulario de GIG, el freelancer será redirigido a una página de confirmación, donde podrá revisar todos los detalles del GIG antes de proceder con su publicación. Si todo está correcto, podrá publicar el GIG y comenzar a recibir ofertas o solicitudes de los usuarios interesados en sus servicios.
+Cuando se inicia la aplicación, el usuario ve la opción de iniciar sesion, se loguea con sus credenciales y lo dirigira a su perfil, si no está registrado debe ir a la opción de registrarse, ahí colocara sus datos, los cuales incluyen correo, nombres, rol,etc una vez completado se registrará, despues se redirigira a login y ingresara con su nueva cuenta.
 
 ---
 
+# User Goal: El usuario desea aceptar un Proyecto o encargo
 
- **User Goal:** Usuario quiere contratar a un freelancer
-<img src="imgMockup/wireflow-contact-freelancer.png" alt="wireflow-register" title="wireflow-register"/>
+<img src="imgs/WR_2_D2.png">
 
-**Description:** El proceso comienza cuando el usuario desea contratar a un freelancer. Este accede a la publicación del freelancer, donde puede ver la información básica sobre los servicios ofrecidos, los comentarios de otros usuarios y la tarifa mínima del servicio.
+**Descripción:**  
+Una vez el usuario termino de iniciar sesion, se encuentra en su perfil y se dirige a la opción de my pulls
 
-Una vez que el usuario revisa la publicación y decide continuar, puede hacer clic en el botón de "Contratar" para proceder con el siguiente paso del proceso de contratación. Al hacerlo, será redirigido a la calculadora inteligente.
+ahí encontrará diferentes proyectos los cuales podrá elegir, el usuario elige el proyecto que desea contratar
 
-En la calculadora inteligente, el usuario deberá completar un formulario con las características de su trabajo. Este formulario permite ingresar detalles como la duración del proyecto, las funcionalidades requeridas y cualquier otro dato relevante. Una vez que el usuario complete la información, el sistema calculará automáticamente una estimación de costo para el servicio solicitado.
+en caso el freelancer no tenga problemas con el costo y los detalles indicados puede aceptar directamente la solicitud del contratante.
 
-Después de recibir la estimación de precio, el usuario tendrá la opción de aceptar el presupuesto o negociar con el freelancer. Si el usuario acepta el precio, será redirigido a una página de interacción donde podrá comunicarse directamente con el freelancer para llegar a un acuerdo final sobre el precio y las condiciones del trabajo.
+---
 
-Una vez que ambas partes acuerden el precio, el usuario procederá a la página de pago, donde podrá realizar el pago correspondiente por el servicio. El sistema proporcionará las opciones de pago disponibles, y una vez completada la transacción, el usuario recibirá una notificación de confirmación indicando que el pago ha sido exitoso y que el trabajo está en proceso.
+# User Goal: El usuario desea aceptar un Proyecto o encargo, pero decide negociar.
 
-Finalmente, el usuario será dirigido a su perfil personal, donde podrá visualizar una lista de las órdenes activas (es decir, los trabajos que ha contratado), incluyendo detalles sobre el estado de cada uno y la posibilidad de interactuar con los freelancers asignados.
+<img src="imgs/WR_2_D3.png">
+
+**Descripción:**  
+
+Una vez el usuario termino de iniciar sesion, se dirige a la opción de my pulls, ahí encontrará diferentes proyectos los cuales podrá elegir, el usuario elige el proyecto que desea contratar, en caso el freelancer tenga problemas con el costo y los detalles indicados, tiene la opción de negociar con el comprador, aquí tendrá una charla dónde se puede coordinar mejor el precio, los tiempos y detalles, una vez freelancer y comprador están de acuerdo se acepta la solicitud.
 
 ### *4.5. Web Applications Prototyping.*  
 En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos.
