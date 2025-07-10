@@ -2512,3 +2512,6 @@ https://www.freesqldatabase.com/account/
 
 *Link about the product*
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310222_upc_edu_pe/ETWOnCw8v9hJkQClwVU_1MABNC1EgU-niEKYL8Dzh8yzcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DO3TRb
+
+*Link Video About the Team*
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EVu-gwzwSH5Am70Wp9JAT5IBIubvDsdDLXHoAijLNrDz2w?e=AtdUdQ
