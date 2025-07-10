@@ -30,7 +30,7 @@
 
 | Versión | Fecha      | Autor             | Descripción de modificación                                                                                                                                                                                                                                                                                       |
 | ------- | ---------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB2     | 20/06/2025 | GigU | En esta primera entrega se han incluido los capítulos:<br />Capítulo I: Introducción <br />Capítulo II: Requirements Elicitation & Analysis<br />Capítulo III: Requirements Specification<br />Capítulo IV: Product Design<br />Capítulo V: Product Implementation, Validation & Deployment                       |
+| TF1     | 10/07/2025 | GigU | En esta entrega se han incluido los capítulos: del sprint 4 y se logro la conexion de back y front                      |
 
 # Student Outcomes
 
